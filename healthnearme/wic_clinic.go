@@ -14,6 +14,10 @@ type WICClinic struct {
 	FamilyCaseManagement string   `json:"family_case_management"`
 }
 
+func (m *WICClinic) FormatLocation() {
+	m.Location.FormatLocation()
+}
+
 // {
 //   "location" : {
 //     "needs_recoding" : false,

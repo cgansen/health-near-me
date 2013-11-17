@@ -11,6 +11,10 @@ type STISpecialtyClinic struct {
 	Name        string   `json:"site_name"`
 }
 
+func (m *STISpecialtyClinic) FormatLocation() {
+	m.Location.FormatLocation()
+}
+
 // {
 //   "zip" : "60644",
 //   "phone" : "(312) 746-4871",

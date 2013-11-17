@@ -11,6 +11,10 @@ type MentalHealthClinic struct {
 	Name        string   `json:"site_name"`
 }
 
+func (m *MentalHealthClinic) FormatLocation() {
+	m.Location.FormatLocation()
+}
+
 //   "phone" : "(312) 747-7496",
 //   "location" : {
 //     "needs_recoding" : false,

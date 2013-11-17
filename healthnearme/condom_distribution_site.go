@@ -10,6 +10,10 @@ type CondomDistributionSite struct {
 	City      string   `json:"city_"`
 }
 
+func (cds *CondomDistributionSite) FormatLocation() {
+	cds.Location.FormatLocation()
+}
+
 // {
 //   "venue_type" : "CBO",
 //   "zip_code" : "60647",

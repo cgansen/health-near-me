@@ -13,6 +13,10 @@ type SubstanceAbuseProvider struct {
 	Location          Location `json:"physical_address"`
 }
 
+func (m *SubstanceAbuseProvider) FormatLocation() {
+	m.Location.FormatLocation()
+}
+
 // {
 //   "phone_number" : "312-372-6707 x122",
 //   "zip_code" : "60645",

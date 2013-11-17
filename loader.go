@@ -11,6 +11,7 @@ import (
 )
 
 const INDEX_NAME = "health-near-me"
+const INDEX_TYPE = "health-provider"
 
 func main() {
 	api.Domain = "localhost"
@@ -27,7 +28,8 @@ func main() {
 	}
 
 	for _, item := range cds {
-		_, err := core.Index(true, INDEX_NAME, "condom-distribution-site", "", item)
+		item.FormatLocation()
+		_, err := core.Index(true, INDEX_NAME, INDEX_TYPE, "", item)
 		if err != nil {
 			log.Print(err)
 		}
@@ -47,7 +49,8 @@ func main() {
 	}
 
 	for _, item := range saps {
-		_, err := core.Index(true, INDEX_NAME, "substance-abuse-providers", "", item)
+		item.FormatLocation()
+		_, err := core.Index(true, INDEX_NAME, INDEX_TYPE, "", item)
 		if err != nil {
 			log.Print(err)
 		}
@@ -67,7 +70,8 @@ func main() {
 	}
 
 	for _, item := range mhcs {
-		_, err := core.Index(true, INDEX_NAME, "mental-health-clinics", "", item)
+		item.FormatLocation()
+		_, err := core.Index(true, INDEX_NAME, INDEX_TYPE, "", item)
 		if err != nil {
 			log.Print(err)
 		}
@@ -87,7 +91,8 @@ func main() {
 	}
 
 	for _, item := range sticscs {
-		_, err := core.Index(true, INDEX_NAME, "sti-specialty-clinics", "", item)
+		item.FormatLocation()
+		_, err := core.Index(true, INDEX_NAME, INDEX_TYPE, "", item)
 		if err != nil {
 			log.Print(err)
 		}
@@ -107,7 +112,8 @@ func main() {
 	}
 
 	for _, item := range wiccs {
-		_, err := core.Index(true, INDEX_NAME, "wic-clinics", "", item)
+		item.FormatLocation()
+		_, err := core.Index(true, INDEX_NAME, INDEX_TYPE, "", item)
 		if err != nil {
 			log.Print(err)
 		}
