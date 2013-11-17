@@ -1,0 +1,131 @@
+{
+    "health-provider":{
+        "properties":{
+            "location":{
+                "properties":{
+                    "lat_lon": { "type": "geo_point" }
+                } 
+            }
+        }
+    }
+}
+
+
+{
+    "query": {
+        "filtered" : {
+            "query": {
+                "match_all": {}
+            },
+            "filter" : {
+                "geo_distance" : {
+                    "distance" : "1mi",
+                    "location.lat_lon" : {
+                        "lat" : 41.866592082671566,
+                        "lon" : -87.69819577390969
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+{
+  "health-provider": {
+    "properties": {
+      "address": {
+        "type": "string"
+      },
+      "city": {
+        "type": "string"
+      },
+      "city_": {
+        "type": "string"
+      },
+      "family_case_management": {
+        "type": "string"
+      },
+      "hours_of_operation": {
+        "type": "string"
+      },
+      "location": {
+        "properties": {
+          "human_address": {
+            "type": "string"
+          },
+          "lat_lon": {
+            "type": "geo_point"
+          },
+          "latitude": {
+            "type": "string"
+          },
+          "longitude": {
+            "type": "string"
+          }
+        }
+      },
+      "name": {
+        "type": "string"
+      },
+      "payment_method": {
+        "type": "string"
+      },
+      "phone": {
+        "type": "string"
+      },
+      "phone_1": {
+        "type": "string"
+      },
+      "phone_number": {
+        "type": "string"
+      },
+      "physical_address": {
+        "properties": {
+          "human_address": {
+            "type": "string"
+          },
+          "latitude": {
+            "type": "string"
+          },
+          "longitude": {
+            "type": "string"
+          }
+        }
+      },
+      "population_served": {
+        "type": "string"
+      },
+      "service_modalities": {
+        "type": "string"
+      },
+      "site_name": {
+        "type": "string"
+      },
+      "site_number": {
+        "type": "string"
+      },
+      "state": {
+        "type": "string"
+      },
+      "street_address": {
+        "type": "string"
+      },
+      "treatment_center": {
+        "type": "string"
+      },
+      "venue_type": {
+        "type": "string"
+      },
+      "wic": {
+        "type": "string"
+      },
+      "zip_code": {
+        "type": "string"
+      },
+      "zipcode": {
+        "type": "string"
+      }
+    }
+  }
+}
