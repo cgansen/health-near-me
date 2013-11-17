@@ -11,7 +11,7 @@
   "address" : "641 W. 63rd St., Lower Level",
   "hours_of_operation" : "Mon., Wed., Fri.: 8 a.m. - 4 p.m.; Tue., Thu.: 10 a.m. - 6 p.m.",
   "state" : "IL",
-  "site_name" : "Englewood STI Specialty Clinic",
+  "name" : "Englewood STI Specialty Clinic",
   "city" : "Chicago"
 }
 , {
@@ -27,7 +27,7 @@
   "address" : "4958 W. Madison",
   "hours_of_operation" : "Mon. and Wed., 8 a.m. - 4 p.m.; Tue., Thu.: 10 a.m. - 6 p.m.",
   "state" : "IL",
-  "site_name" : "South Austin STI Specialty Clinic",
+  "name" : "South Austin STI Specialty Clinic",
   "city" : "Chicago"
 }
 , {
@@ -43,7 +43,7 @@
   "address" : "2861 N. Clark, 2nd Floor",
   "hours_of_operation" : "Mon., Wed., Fri.: 8 a.m. - 4 p.m.; Tue., Thu.: 10 a.m. - 6 p.m.",
   "state" : "IL",
-  "site_name" : "Lakeview STI Specialty Clinic",
+  "name" : "Lakeview STI Specialty Clinic",
   "city" : "Chicago"
 }
 , {
@@ -59,7 +59,7 @@
   "address" : "2418 W. Division",
   "hours_of_operation" : "Fri.: 8 a.m. - 4 p.m.",
   "state" : "IL",
-  "site_name" : "West Town STI Specialty Clinic",
+  "name" : "West Town STI Specialty Clinic",
   "city" : "Chicago"
 }
 , {
@@ -75,7 +75,7 @@
   "address" : "200 E. 115th St.",
   "hours_of_operation" : "Mon.: 8 a.m. - 4 p.m.; Thu.: 9 a.m. - 5 p.m.",
   "state" : "IL",
-  "site_name" : "Roseland  STI Specialty Clinic",
+  "name" : "Roseland  STI Specialty Clinic",
   "city" : "Chicago"
 }
  ]

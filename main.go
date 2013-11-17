@@ -61,30 +61,19 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	type Result struct {
-		Name, Address, Phone string
-		Location             healthnearme.Location
-	}
-
-	var hits []*Result
+	var hits []*healthnearme.HealthProvider
 
 	for _, hit := range result.Hits.Hits {
 		// unmarshal to a struct
-		var cds healthnearme.CondomDistributionSite
+		hp := &healthnearme.HealthProvider{}
 		jsn, _ := hit.Source.MarshalJSON()
-		if err := json.Unmarshal(jsn, &cds); err != nil {
+		if err := json.Unmarshal(jsn, hp); err != nil {
 			log.Printf("could not translate to struct: %s", err)
 			http.Error(w, "error translating search results", 500)
 			return
 		}
 
-		r := &Result{
-			Name:     cds.Name,
-			Address:  cds.Address,
-			Location: cds.Location,
-		}
-
-		hits = append(hits, r)
+		hits = append(hits, hp)
 	}
 
 	jsn, err := json.MarshalIndent(hits, "", "  ")

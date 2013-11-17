@@ -10,7 +10,7 @@
   "address" : "47th & State",
   "name" : "Abundance Bakery",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -24,7 +24,7 @@
   "address" : "2957 W. Armitage",
   "name" : "Access Armitage",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -38,7 +38,7 @@
   "address" : "5256 S. Ashland Ave.",
   "name" : "Access Ashland",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -52,7 +52,7 @@
   "address" : "2020 N. Clyborn Ave.",
   "name" : "Access at Anixter Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -66,7 +66,7 @@
   "address" : "7465 N. Clark St.",
   "name" : "Access at Saint Francis Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -80,7 +80,7 @@
   "address" : "3241 S. Michigan Ave.",
   "name" : "Access At the Eye Instutute",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -94,7 +94,7 @@
   "address" : "8234 S. Ashland Ave.",
   "name" : "Access Auburn-Gresham",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -108,7 +108,7 @@
   "address" : "5853 North Ave.",
   "name" : "Access Austin",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -122,7 +122,7 @@
   "address" : "3435 W. Van Buren St.",
   "name" : "Access Bethany",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -136,7 +136,7 @@
   "address" : "654 E. 47th St.",
   "name" : "Access Booker",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -150,7 +150,7 @@
   "address" : "654 E. 47th",
   "name" : "Access Booker",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -164,7 +164,7 @@
   "address" : "8300 S. Brandon",
   "name" : "Access Brandon",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -178,7 +178,7 @@
   "address" : "3450 S. Archer Ave.",
   "name" : "Access Cabrini",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -192,7 +192,7 @@
   "address" : "3204 W. 26th",
   "name" : "Access Centro Medico",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -206,7 +206,7 @@
   "address" : "3700 W. 26th St.",
   "name" : "Access Centro Medico",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -220,7 +220,7 @@
   "address" : "6240 W. 55th St.",
   "name" : "Access Doctors Medical Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -234,7 +234,7 @@
   "address" : "1555 W. Howard St.",
   "name" : "Access Evanston-Rogers Park",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -248,7 +248,7 @@
   "address" : "5401 S. Wentworth Ave.",
   "name" : "Access Grand Boulevard",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -262,7 +262,7 @@
   "address" : "2701 W. 69th Street, 3- South",
   "name" : "Access Holy Cross",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -276,7 +276,7 @@
   "address" : "3202 W. North Ave.",
   "name" : "Access Humboldt Park",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -290,7 +290,7 @@
   "address" : "3213-21 W. 47th Place",
   "name" : "Access Kedzie",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -304,7 +304,7 @@
   "address" : "2720 W. 15th Street",
   "name" : "Access Kling Professional Medical Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -318,7 +318,7 @@
   "address" : "3800 W. Madison",
   "name" : "Access Madison",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -332,7 +332,7 @@
   "address" : "400 E. 41st Street",
   "name" : "Access Medical Specialists",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -346,7 +346,7 @@
   "address" : "1158 W. Taylor",
   "name" : "Access Near West",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -360,7 +360,7 @@
   "address" : "3752 W. 16th St.",
   "name" : "Access Paul and Mimi Francis",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -374,7 +374,7 @@
   "address" : "2655 W. Peterson St.",
   "name" : "Access Peterson",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -388,7 +388,7 @@
   "address" : "2533 W. Cermak Rd.",
   "name" : "Access Plaza",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -402,7 +402,7 @@
   "address" : "2507 W. Cermak Pd",
   "name" : "Access Plaza Specialty Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -416,7 +416,7 @@
   "address" : "1817 S. Loomis St.",
   "name" : "Access Plisen",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -430,7 +430,7 @@
   "address" : "3303 W. 26th",
   "name" : "Access Servicios Medicos",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -444,7 +444,7 @@
   "address" : "5050 S. State St.",
   "name" : "Access South State",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -458,7 +458,7 @@
   "address" : "4839 S. 47th St.",
   "name" : "Access Southwest",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -472,7 +472,7 @@
   "address" : "4501 S. State St.",
   "name" : "Access Taylor",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -486,7 +486,7 @@
   "address" : "2409 W. Warren Blvd.",
   "name" : "Access Warren",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -500,7 +500,7 @@
   "address" : "4401 W. Division St.",
   "name" : "Access West Division",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -514,7 +514,7 @@
   "address" : "4440 W. 95th St.",
   "name" : "Advocate Hope Children's Hospital",
   "state" : "IL",
-  "city_" : "Oak Lawn"
+  "city" : "Oak Lawn"
 }
 , {
   "venue_type" : "Clinic",
@@ -528,7 +528,7 @@
   "address" : "2320 E. 93rd St.",
   "name" : "Advocate Trinity Hospital",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -542,7 +542,7 @@
   "address" : "1625 W. Jackson",
   "name" : "After Dark",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Church",
@@ -556,7 +556,7 @@
   "address" : "2508 W. 69th",
   "name" : "AGAPE",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -570,7 +570,7 @@
   "address" : "200 W. Jackson, Suite 2200",
   "name" : "AIDS Foundation of Chicago",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -584,7 +584,7 @@
   "address" : "966 W. 21st Street",
   "name" : "Alivio Medial Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -598,7 +598,7 @@
   "address" : "2355 S. Western",
   "name" : "Alivio Medical Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -612,7 +612,7 @@
   "address" : "1029 E. 130th St.",
   "name" : "Altgeld Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -626,7 +626,7 @@
   "address" : "4081 N. Broadway",
   "name" : "American Indian Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -640,7 +640,7 @@
   "address" : "1137 N. Grandville",
   "name" : "Anvil",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -654,7 +654,7 @@
   "address" : "4733 N. Broadway",
   "name" : "Asian Human Services",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -668,7 +668,7 @@
   "address" : "5355 N. Clark",
   "name" : "Atmosphere",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -682,7 +682,7 @@
   "address" : "346 E. 47th Street",
   "name" : "At the Barbershop",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Hair Studio",
@@ -696,7 +696,7 @@
   "address" : "3627 W. Armitage",
   "name" : "Attractions Hair Salon",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -710,7 +710,7 @@
   "address" : "4800 W. Chicago Ave.",
   "name" : "Austin CBC",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -724,7 +724,7 @@
   "address" : "11740 S. Western",
   "name" : "Beacon Therapeutic Diagnostic & Treatment Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -738,7 +738,7 @@
   "address" : "3400 N. Halsted",
   "name" : "Beattnix",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -752,7 +752,7 @@
   "address" : "25 W. 47th Street",
   "name" : "Beethoven Health Center Friend Family Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -766,7 +766,7 @@
   "address" : "954 W. Belmont",
   "name" : "Berlin",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -780,7 +780,7 @@
   "address" : "2014 E. 70th Place",
   "name" : "Better Yourself",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -794,7 +794,7 @@
   "address" : "5024 N. Sheridan",
   "name" : "Big Chicks",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -808,7 +808,7 @@
   "address" : "1349 N. Wells",
   "name" : "Bijou",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar",
@@ -822,7 +822,7 @@
   "address" : "10911 S. Sangamon",
   "name" : "Bill\u0019s Blues",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Barber Shop",
@@ -836,7 +836,7 @@
   "address" : "3852 W. 49th St.",
   "name" : "Black Jack's Barber Shop",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -850,7 +850,7 @@
   "address" : "3729 N. Halsted",
   "name" : "Bobby Love",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -864,7 +864,7 @@
   "address" : "6334 S. Normal",
   "name" : "Bridging the Gap",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Youth CBO",
@@ -878,7 +878,7 @@
   "address" : "3169 N. Broadway",
   "name" : "Broadway Youth Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -892,7 +892,7 @@
   "address" : "2150 S. Canalport #5B1",
   "name" : "Brother's Health",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -906,7 +906,7 @@
   "address" : "5404 N.Clark",
   "name" : "Brown Elephant Clark",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -920,7 +920,7 @@
   "address" : "3651 N. Halsted",
   "name" : "Brown Elephant Halsted",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -934,7 +934,7 @@
   "address" : "2300 E. 71st. St.",
   "name" : "B-Selfish",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -948,7 +948,7 @@
   "address" : "365 E. 55th Street",
   "name" : "Cain's Barber College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -962,7 +962,7 @@
   "address" : "5038 W. Armitage",
   "name" : "CALOR",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Restaurant",
@@ -976,7 +976,7 @@
   "address" : "4825 W. Armitage Ave.",
   "name" : "Cateteria Marianaos",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -990,7 +990,7 @@
   "address" : "3702 N. Halsted",
   "name" : "Cell Block",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1004,7 +1004,7 @@
   "address" : "3656 North Halsted Street",
   "name" : "Center on Halsted",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1018,7 +1018,7 @@
   "address" : "2001 S. California, Suite 100",
   "name" : "Centro De Salud Esperanza",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1032,7 +1032,7 @@
   "address" : "6216 N. Clark",
   "name" : "Centro Romero",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -1046,7 +1046,7 @@
   "address" : "325 W. 103rd St.",
   "name" : "Chapaz School of Haircutting",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1060,7 +1060,7 @@
   "address" : "3726 N. Broadway",
   "name" : "Charlie's",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1074,7 +1074,7 @@
   "address" : "5471 W. Division",
   "name" : "Charlie's Lounge",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1088,7 +1088,7 @@
   "address" : "10536 S. Ewing",
   "name" : "Chicago Family Heaalth Center East Side",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1102,7 +1102,7 @@
   "address" : "9119 S. Exchange",
   "name" : "Chicago Family Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1116,7 +1116,7 @@
   "address" : "3233 W. 63rd",
   "name" : "Chicago Family Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1130,7 +1130,7 @@
   "address" : "556 E. 115th St.",
   "name" : "Chicago Family Health Center Pullman",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1144,7 +1144,7 @@
   "address" : "120 W. 111th",
   "name" : "Chicago Family Health Center Roseland",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1158,7 +1158,7 @@
   "address" : "1900 W. Polk, Rm 1112",
   "name" : "Chicago HIV Risk Reduction Partnership for Youth",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1172,7 +1172,7 @@
   "address" : "1925 N Clybourn Ave., Suite 401",
   "name" : "Chicago House and Social Service Agency",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1186,7 +1186,7 @@
   "address" : "3110 W. Taylor",
   "name" : "Chicago Recovery Alliance",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1197,7 +1197,7 @@
   "address" : "Check www.anypositivechange.org/slt.html for location information.",
   "name" : "Chicago Recovery Alliance",
   "state" : ".",
-  "city_" : "."
+  "city" : "."
 }
 , {
   "venue_type" : "CBO",
@@ -1211,7 +1211,7 @@
   "address" : "6363 N. Broadway",
   "name" : "Chicago Women's AIDS Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1225,7 +1225,7 @@
   "address" : "2717 E. 71st Street",
   "name" : "Chicago Women's Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1239,7 +1239,7 @@
   "address" : "1701 W. Monterey Ave.",
   "name" : "Christian Community Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1253,7 +1253,7 @@
   "address" : "2813-15 W. Fifth Ave.",
   "name" : "Christian Community Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1267,7 +1267,7 @@
   "address" : "9718 S. Halsted",
   "name" : "Christian Community Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1281,7 +1281,7 @@
   "address" : "5002 W. Madison",
   "name" : "Circle Family Care",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1295,7 +1295,7 @@
   "address" : "3641 N. Halsted",
   "name" : "Circuit",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1309,7 +1309,7 @@
   "address" : "3359 N. Halsted",
   "name" : "Cocktail",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -1323,7 +1323,7 @@
   "address" : "731 S. Plymouth Ct.",
   "name" : "Columbia College Chicago",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1337,7 +1337,7 @@
   "address" : "4407 N. Broadway",
   "name" : "Community Outreach Intervention Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1351,7 +1351,7 @@
   "address" : "8901 S. Commercial",
   "name" : "Community Outreach Intervention Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1365,7 +1365,7 @@
   "address" : "1606 W. 63rd",
   "name" : "Community Outreach Intervention Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1379,7 +1379,7 @@
   "address" : "4754-56 W. Madison",
   "name" : "Community Outreach Intervention Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1393,7 +1393,7 @@
   "address" : "1612 N. Kedzie",
   "name" : "Community Outreach Intervention Project",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1407,7 +1407,7 @@
   "address" : "2020 W. Harrison",
   "name" : "Core Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Restaurant",
@@ -1421,7 +1421,7 @@
   "address" : "909 W. Irving Park",
   "name" : "Corona's CafÃ©",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -1435,7 +1435,7 @@
   "address" : "1741 Â½ E. 71st St.",
   "name" : "Cut It Out",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -1449,7 +1449,7 @@
   "address" : "7500 S. Pulaski",
   "name" : "Daley College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -1463,7 +1463,7 @@
   "address" : "751 E. 65th St.",
   "name" : "Danny Boy 2 Unlimited Hair",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1477,7 +1477,7 @@
   "address" : "1951 W. Dickens",
   "name" : "Danny's",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -1491,7 +1491,7 @@
   "address" : "2225 E. 71st. St.",
   "name" : "Dubose Barber Shop",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Auto Repair Shop",
@@ -1505,7 +1505,7 @@
   "address" : "5833 S. Union",
   "name" : "Eddie\u0019s Auto",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CDPH Clinic",
@@ -1519,7 +1519,7 @@
   "address" : "641 W. 63rd Street",
   "name" : "Englewood Speciality Clinic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1533,7 +1533,7 @@
   "address" : "3059 W. 26th St.",
   "name" : "Esperanza Little Village",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar",
@@ -1547,7 +1547,7 @@
   "address" : "1601 E. 63rd Street",
   "name" : "Falcon Inn",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Treatment Center",
@@ -1561,7 +1561,7 @@
   "address" : "310 W. Chicago",
   "name" : "Family Guidance Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -1575,7 +1575,7 @@
   "address" : "303 E. Chicago",
   "name" : "Feinberg School of Medicine",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -1589,7 +1589,7 @@
   "address" : "5911 W. Midway Park",
   "name" : "Final Explosion",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1603,7 +1603,7 @@
   "address" : "5464 W. Madison",
   "name" : "Freddie's Lounge",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -1617,7 +1617,7 @@
   "address" : "5843 S. Western",
   "name" : "Friend Family Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -1631,7 +1631,7 @@
   "address" : "2436 W. 47th Street",
   "name" : "Friend Family Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -1645,7 +1645,7 @@
   "address" : "5635 S. Pulaski Rd.",
   "name" : "Friend Family Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -1659,7 +1659,7 @@
   "address" : "800 E. 55th Street",
   "name" : "Friend Famliy Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Library",
@@ -1673,7 +1673,7 @@
   "address" : "1127 W. Grandville",
   "name" : "Gerber-Hart Library",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -1687,7 +1687,7 @@
   "address" : "6454 S. Cottage Grove",
   "name" : "Hair Icon",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -1701,7 +1701,7 @@
   "address" : "402 E. 79th St.",
   "name" : "Hair Werks",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -1715,7 +1715,7 @@
   "address" : "30 E. Lake",
   "name" : "Harold Washington College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Treatment Facility",
@@ -1729,7 +1729,7 @@
   "address" : "11352 S. State St.",
   "name" : "Harriet Tubman",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Church",
@@ -1743,7 +1743,7 @@
   "address" : "1400 W. 63rd",
   "name" : "Hatchet",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1757,7 +1757,7 @@
   "address" : "108 North Sangamon St",
   "name" : "Haymarket Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1771,7 +1771,7 @@
   "address" : "600 W. Washington",
   "name" : "Haymarket House",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1785,7 +1785,7 @@
   "address" : "2645 W. Lawrence Ave.",
   "name" : "Heartland Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1799,7 +1799,7 @@
   "address" : "2200 W. Touhy Ave.",
   "name" : "Heartland Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1813,7 +1813,7 @@
   "address" : "845 W. Wilson",
   "name" : "Heartland Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1827,7 +1827,7 @@
   "address" : "4411 N. Ravenswood Ave.",
   "name" : "Heartland Human Care Services",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -1841,7 +1841,7 @@
   "address" : "3048 N. Wilton Ave.",
   "name" : "Heartland Pediatric Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Women\u0019s Shelter",
@@ -1855,7 +1855,7 @@
   "address" : "7852 S. Essex",
   "name" : "Hope Village",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1869,7 +1869,7 @@
   "address" : "4025 N. Sheridan",
   "name" : "Howard Brown Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1883,7 +1883,7 @@
   "address" : "4025 N. Sheridan Road",
   "name" : "Howard Brown Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1897,7 +1897,7 @@
   "address" : "11400 S. Michigan",
   "name" : "HRDI",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -1911,7 +1911,7 @@
   "address" : "3000 N. Halsted",
   "name" : "Infectious Disease & Travel Clinic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -1925,7 +1925,7 @@
   "address" : "1 N. State",
   "name" : "International Academy of Design",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1939,7 +1939,7 @@
   "address" : "6460 N. Clark",
   "name" : "Jackhammer",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Hospital",
@@ -1953,7 +1953,7 @@
   "address" : "7531 S. Stoney Island",
   "name" : "Jackson Park Hospital",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -1967,7 +1967,7 @@
   "address" : "3420 N. Broadway",
   "name" : "Jacquelin's",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -1981,7 +1981,7 @@
   "address" : "216 W. Jackson Blvd.",
   "name" : "Jewish Child & Family Services",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Barber Shop",
@@ -1995,7 +1995,7 @@
   "address" : "5138 W. Madison",
   "name" : "Jr. Adams Barber Shop",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2009,7 +2009,7 @@
   "address" : "3325 N. Halsted",
   "name" : "KAFKA",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -2023,7 +2023,7 @@
   "address" : "6301 S. Halsted",
   "name" : "Kennedy King College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Restaurant",
@@ -2037,7 +2037,7 @@
   "address" : "5403 N. Clark",
   "name" : "La Concina Frida",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CDPH Clinic",
@@ -2051,7 +2051,7 @@
   "address" : "2861 N. Clark",
   "name" : "Lakeview Specialty Clinic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Health Center",
@@ -2065,7 +2065,7 @@
   "address" : "3860 W. Ogden Ave.",
   "name" : "Lawndale Christian Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2079,7 +2079,7 @@
   "address" : "3501 N. Halsted",
   "name" : "Lil' Jims",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar",
@@ -2093,7 +2093,7 @@
   "address" : "3616 W. Division",
   "name" : "Lite Inn",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Church",
@@ -2107,7 +2107,7 @@
   "address" : "6740 S. Halsted",
   "name" : "Love of Christ",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2121,7 +2121,7 @@
   "address" : "3169 N. Halsted",
   "name" : "Lucky Horseshoe",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -2135,7 +2135,7 @@
   "address" : "1900 W. Van Buren",
   "name" : "Malcolm X College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2149,7 +2149,7 @@
   "address" : "5017 N. Clark",
   "name" : "Man's Country",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Community Center",
@@ -2163,7 +2163,7 @@
   "address" : "1750 W. 63rd Street",
   "name" : "Martin Luther King Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2177,7 +2177,7 @@
   "address" : "5400 N. Clark",
   "name" : "Mary's Attic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2191,7 +2191,7 @@
   "address" : "1521 S. Wabash",
   "name" : "Mercy Housing Lakefront",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -2205,7 +2205,7 @@
   "address" : "4630 S. Bishop Plaza",
   "name" : "Mile Square Back of the Yards",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -2219,7 +2219,7 @@
   "address" : "4747 W. Cermak Rd.",
   "name" : "Mile Square Cicero",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -2233,7 +2233,7 @@
   "address" : "2945 W. Washington",
   "name" : "Mile Square Health Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -2247,7 +2247,7 @@
   "address" : "7131 S. Jeffery  Blvd.",
   "name" : "Mile Square South Shore",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2261,7 +2261,7 @@
   "address" : "11135 S. Halsted",
   "name" : "No Other Place",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2275,7 +2275,7 @@
   "address" : "4017 W. Madison",
   "name" : "Nych Hair Studio",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2289,7 +2289,7 @@
   "address" : "7956 W. Belmont",
   "name" : "Oasis Hair Studio",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -2303,7 +2303,7 @@
   "address" : "10001 South Woodlawn Ave.",
   "name" : "Olive Harvey College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic - Non-Funded",
@@ -2317,7 +2317,7 @@
   "address" : "157 N. Lincoln Ave., Suite 7",
   "name" : "Open Door Clinic",
   "state" : "IL",
-  "city_" : "Aurora"
+  "city" : "Aurora"
 }
 , {
   "venue_type" : "Church",
@@ -2331,7 +2331,7 @@
   "address" : "8001 S. Cottage Grove",
   "name" : "Orleans Missionary Baptist Church",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Food Store",
@@ -2345,7 +2345,7 @@
   "address" : "1101 N. California",
   "name" : "Park Dollar & Food",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2359,7 +2359,7 @@
   "address" : "13200 S. Ellis",
   "name" : "People for Community Recovery",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty Shop",
@@ -2373,7 +2373,7 @@
   "address" : "851 E. 79th Street",
   "name" : "Perfect Solution Salon",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Restaurant",
@@ -2387,7 +2387,7 @@
   "address" : "737 W. Roscoe",
   "name" : "Pie Hole",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2401,7 +2401,7 @@
   "address" : "229 E. 51st. St.",
   "name" : "Plus Hair",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2415,7 +2415,7 @@
   "address" : "5934-36 W. Lake Street",
   "name" : "Prevention Partnership",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Community Center",
@@ -2429,7 +2429,7 @@
   "address" : "3650 W. Armitage",
   "name" : "Prius Urgent Care",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2443,7 +2443,7 @@
   "address" : "2659 S. Kedvale",
   "name" : "Project VIDA",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2457,7 +2457,7 @@
   "address" : "2703 W. Division",
   "name" : "Pureto Rican Cultural Center/VIDA SIDA",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2471,7 +2471,7 @@
   "address" : "1606 S. Pulaski Rd.",
   "name" : "Robert's Touch Hair Salon",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Community Center",
@@ -2485,7 +2485,7 @@
   "address" : "1530 W. Morse",
   "name" : "Rogers Park Community Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2499,7 +2499,7 @@
   "address" : "3356 N. Halsted",
   "name" : "Roscoe's",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Community Center",
@@ -2513,7 +2513,7 @@
   "address" : "10858 S. Michigan",
   "name" : "Roseland Community Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CDPH Clinic",
@@ -2527,7 +2527,7 @@
   "address" : "200 E. 115th Street",
   "name" : "Roseland Specialty Clinic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2541,7 +2541,7 @@
   "address" : "55 E. Monroe",
   "name" : "Salon 55 Hair Salon",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Non-Funded CBO",
@@ -2555,7 +2555,7 @@
   "address" : "2101 S. Indiana",
   "name" : "SASI",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2569,7 +2569,7 @@
   "address" : "1829 W. Montrose",
   "name" : "Scot's",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2583,7 +2583,7 @@
   "address" : "157 E. Oak",
   "name" : "Second Story",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2597,7 +2597,7 @@
   "address" : "1726 N. Parkside",
   "name" : "Sista's of the Hood",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CDPH Clinic",
@@ -2611,7 +2611,7 @@
   "address" : "4958 W. Madison",
   "name" : "South Austin Specialty Clinic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2625,7 +2625,7 @@
   "address" : "10420 S. Halsted",
   "name" : "South Side Help Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -2639,7 +2639,7 @@
   "address" : "5307 N. Clark",
   "name" : "Speciality Video",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2653,7 +2653,7 @@
   "address" : "800 W. Belmont",
   "name" : "Spin",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2667,7 +2667,7 @@
   "address" : "3246 N. Halsted",
   "name" : "Steamworks",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Co-Op",
@@ -2681,7 +2681,7 @@
   "address" : "4637 N. Ashland",
   "name" : "Stone Soup Co-Op",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2695,7 +2695,7 @@
   "address" : "2011 W. North Ave.",
   "name" : "Subterranean",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2709,7 +2709,7 @@
   "address" : "2718 W. Adams",
   "name" : "Tap Roots Foundation",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2723,7 +2723,7 @@
   "address" : "9 North Cicero",
   "name" : "Task Force Prevention",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2737,7 +2737,7 @@
   "address" : "5537 N. Broadway",
   "name" : "Test Positive Aware Network",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2751,7 +2751,7 @@
   "address" : "1547 N. Clark",
   "name" : "The Call",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2765,7 +2765,7 @@
   "address" : "3325 N. Broadway",
   "name" : "The Closet",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Church",
@@ -2779,7 +2779,7 @@
   "address" : "8900 E. Emerald",
   "name" : "The Hall",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar",
@@ -2793,7 +2793,7 @@
   "address" : "3017 W. Armitage",
   "name" : "The Music Lounge",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Hotel",
@@ -2807,7 +2807,7 @@
   "address" : "1622 N. California",
   "name" : "The North Hotel",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Lingerie Company",
@@ -2821,7 +2821,7 @@
   "address" : "7506 S. Saginaw",
   "name" : "Thin N That Lingerie",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2835,7 +2835,7 @@
   "address" : "4101 N. Ravenswood",
   "name" : "Thresholds",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Beauty/Barber Shop",
@@ -2849,7 +2849,7 @@
   "address" : "8637 S. Cottage Grove",
   "name" : "TNT Barber Shop",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clothing Store",
@@ -2863,7 +2863,7 @@
   "address" : "3960 W. Madison",
   "name" : "Tops & Bottoms",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -2877,7 +2877,7 @@
   "address" : "6412 N. Clark",
   "name" : "Touche",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -2891,7 +2891,7 @@
   "address" : "3000 N. Halsted",
   "name" : "TRIAD",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -2905,7 +2905,7 @@
   "address" : "1145 W. Wilson Ave.",
   "name" : "Truman College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Auto Repair Shop",
@@ -2919,7 +2919,7 @@
   "address" : "5828 S. Union",
   "name" : "Union Auto",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -2933,7 +2933,7 @@
   "address" : "5841 S. Maryland Ave., Rm C-628",
   "name" : "University of Chicago Mobile Unit",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Clinic",
@@ -2947,7 +2947,7 @@
   "address" : "1801 W. Taylor St.",
   "name" : "University of Illinois at Chicago",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -2961,7 +2961,7 @@
   "address" : "2024 W. Chicago Ave.",
   "name" : "Urban Fashions",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar",
@@ -2975,7 +2975,7 @@
   "address" : "1233 S. Wabash",
   "name" : "Wabash Tap",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -2989,7 +2989,7 @@
   "address" : "4025 N. Sheridan",
   "name" : "Walgreens",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Hair Studio",
@@ -3003,7 +3003,7 @@
   "address" : "3540 W. North Ave.",
   "name" : "Wences Hair Studio",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CDPH Clinic",
@@ -3017,7 +3017,7 @@
   "address" : "2418 W. Division",
   "name" : "West Town Specialty Clinic",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Bar/Club",
@@ -3031,7 +3031,7 @@
   "address" : "4810 N. Broadway",
   "name" : "Wild Pig",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Store",
@@ -3045,7 +3045,7 @@
   "address" : "5233 N. Clark",
   "name" : "Women and Children First",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "Treatment Facility",
@@ -3059,7 +3059,7 @@
   "address" : "6701 S. Elizabeth",
   "name" : "Women\u0019s Professional",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "School",
@@ -3073,7 +3073,7 @@
   "address" : "4300 N. Narragansett Ave.",
   "name" : "Wright College",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -3087,7 +3087,7 @@
   "address" : "1401 W. 18th Street",
   "name" : "Yollocalli Arts Reach",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
 , {
   "venue_type" : "CBO",
@@ -3101,6 +3101,6 @@
   "address" : "637 S. Dearborrn",
   "name" : "Youth Pride Center",
   "state" : "IL",
-  "city_" : "Chicago"
+  "city" : "Chicago"
 }
  ]
