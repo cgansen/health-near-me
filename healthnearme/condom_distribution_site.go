@@ -1,13 +1,13 @@
 package healthnearme
 
 type CondomDistributionSite struct {
-        VenueType string `json:"venue_type"`
-        ZipCode int `json:"zip_code"`
-        Location Location `json:"location"`
-        Address string `json:"address"`
-        Name string `json:"name"`
-        State string `json:"state"`
-        City string `json:"city_"`
+	VenueType string   `json:"venue_type"`
+	ZipCode   int      `json:"zip_code"`
+	Location  Location `json:"location"`
+	Address   string   `json:"address"`
+	Name      string   `json:"name"`
+	State     string   `json:"state"`
+	City      string   `json:"city_"`
 }
 
 // {

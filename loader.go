@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-        "io/ioutil"
+	"io/ioutil"
 	"log"
-        // "net/http"
+	// "net/http"
 
 	"github.com/cgansen/health-near-me/healthnearme"
 )
