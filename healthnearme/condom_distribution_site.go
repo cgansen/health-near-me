@@ -2,7 +2,7 @@ package healthnearme
 
 type CondomDistributionSite struct {
 	VenueType string   `json:"venue_type"`
-	ZipCode   int      `json:"zip_code"`
+	ZipCode   int      `json:"zip_code,string"`
 	Location  Location `json:"location"`
 	Address   string   `json:"address"`
 	Name      string   `json:"name"`
