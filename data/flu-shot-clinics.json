@@ -1,0 +1,1488 @@
+[ {
+  "zip" : "60644",
+  "phone" : "(708) 269-1819",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7727922789",
+    "latitude" : "41.888066973"
+  },
+  "event_type" : "Church",
+  "state" : "IL",
+  "date" : "2013-09-22T00:00:00",
+  "city" : "Chicago",
+  "ward" : "29",
+  "end_time" : "1pm",
+  "address" : "5916 W. Lake",
+  "event" : "Mars Hill Church",
+  "community_area_name" : "AUSTIN",
+  "start_time" : "9am",
+  "longitude" : "-87.7727922789",
+  "latitude" : "41.888066973",
+  "day" : "Sunday",
+  "community_area_number" : "25"
+}
+, {
+  "zip" : "60616",
+  "phone" : "(773) 536-8103",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6063022609",
+    "latitude" : "41.8178417036"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-09-28T00:00:00",
+  "city" : "Chicago",
+  "ward" : "4",
+  "end_time" : "3pm",
+  "address" : "809 E. 42nd Place",
+  "event" : "4th Ward-Prince Hall Grand Lodge",
+  "community_area_name" : "OAKLAND",
+  "start_time" : "12pm",
+  "longitude" : "-87.6063022609",
+  "latitude" : "41.8178417036",
+  "day" : "Saturday",
+  "community_area_number" : "36"
+}
+, {
+  "zip" : "60637",
+  "phone" : "(773) 955-5610",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.591627676",
+    "latitude" : "41.7799094938"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-09-30T00:00:00",
+  "city" : "Chicago",
+  "ward" : "20",
+  "end_time" : "1pm",
+  "address" : "6320 S. Dorchester",
+  "event" : "20th Ward-Apostolic Church of God",
+  "community_area_name" : "WOODLAWN",
+  "start_time" : "10am",
+  "longitude" : "-87.591627676",
+  "latitude" : "41.7799094938",
+  "day" : "Monday",
+  "community_area_number" : "42"
+}
+, {
+  "zip" : "60647",
+  "phone" : "(773) 278-0101",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6876139388",
+    "latitude" : "41.9192937068"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-01T00:00:00",
+  "city" : "Chicago",
+  "ward" : "1",
+  "end_time" : "1pm",
+  "address" : "2058 N. Western",
+  "event" : "1st Ward Office",
+  "community_area_name" : "LOGAN SQUARE",
+  "start_time" : "10am",
+  "longitude" : "-87.6876139388",
+  "latitude" : "41.9192937068",
+  "day" : "Tuesday",
+  "community_area_number" : "22"
+}
+, {
+  "zip" : "60653",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6233953459",
+    "latitude" : "41.8307016873"
+  },
+  "event_type" : "CPD",
+  "state" : "IL",
+  "date" : "2013-10-01T00:00:00",
+  "city" : "Chicago",
+  "ward" : "3",
+  "end_time" : "3pm",
+  "address" : "3510 S. Michigan",
+  "event" : "Chicago Police Department - HQ",
+  "community_area_name" : "DOUGLAS",
+  "start_time" : "9am",
+  "longitude" : "-87.6233953459",
+  "latitude" : "41.8307016873",
+  "day" : "Tuesday",
+  "community_area_number" : "35"
+}
+, {
+  "zip" : "60641",
+  "phone" : "(773) 794-3095",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7395111091",
+    "latitude" : "41.9445048533"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-02T00:00:00",
+  "city" : "Chicago",
+  "ward" : "30",
+  "end_time" : "3pm",
+  "address" : "3501 N. Kilbourn",
+  "event" : "30th Ward-Kilbourn Park",
+  "community_area_name" : "IRVING PARK",
+  "start_time" : "9am",
+  "longitude" : "-87.7395111091",
+  "latitude" : "41.9445048533",
+  "day" : "Wednesday",
+  "community_area_number" : "16"
+}
+, {
+  "zip" : "60619",
+  "phone" : "(773) 874-3300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6047448232",
+    "latitude" : "41.7391160335"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-02T00:00:00",
+  "city" : "Chicago",
+  "ward" : "8",
+  "end_time" : "3pm",
+  "address" : "8539 S. Cottage Grove",
+  "event" : "8th Ward Office",
+  "community_area_name" : "CHATHAM",
+  "start_time" : "12pm",
+  "longitude" : "-87.6047448232",
+  "latitude" : "41.7391160335",
+  "day" : "Wednesday",
+  "community_area_number" : "44"
+}
+, {
+  "zip" : "60620",
+  "phone" : "(773) 881-9300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6627457509",
+    "latitude" : "41.7299276017"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-03T00:00:00",
+  "city" : "Chicago",
+  "ward" : "21",
+  "end_time" : "3pm",
+  "address" : "9011 S. Ashland",
+  "event" : "21st Ward Office",
+  "community_area_name" : "WASHINGTON HEIGHTS",
+  "start_time" : "12pm",
+  "longitude" : "-87.6627457509",
+  "latitude" : "41.7299276017",
+  "day" : "Thursday",
+  "community_area_number" : "73"
+}
+, {
+  "zip" : "60660",
+  "phone" : "(773) 784-5277",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6598982829",
+    "latitude" : "41.9827972394"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-03T00:00:00",
+  "city" : "Chicago",
+  "ward" : "48",
+  "end_time" : "3pm",
+  "address" : "5533 N. Broadway",
+  "event" : "48th Ward Office",
+  "community_area_name" : "EDGEWATER",
+  "start_time" : "10am",
+  "longitude" : "-87.6598982829",
+  "latitude" : "41.9827972394",
+  "day" : "Thursday",
+  "community_area_number" : "77"
+}
+, {
+  "zip" : "60614",
+  "phone" : "(773) 248-1330",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6753335365",
+    "latitude" : "41.930025458"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-04T00:00:00",
+  "city" : "Chicago",
+  "ward" : "32",
+  "end_time" : "3pm",
+  "address" : "2657 N. Clybourn",
+  "event" : "32nd Ward Office",
+  "community_area_name" : "LINCOLN PARK",
+  "start_time" : "9am",
+  "longitude" : "-87.6753335365",
+  "latitude" : "41.930025458",
+  "day" : "Friday",
+  "community_area_number" : "7"
+}
+, {
+  "zip" : "60631",
+  "phone" : "(773) 594-8341",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7915383035",
+    "latitude" : "41.9829885184"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-05T00:00:00",
+  "city" : "Chicago",
+  "ward" : "41",
+  "end_time" : "1pm",
+  "address" : "6530 W. Bryn Mawr",
+  "event" : "41st Ward-Taft High School",
+  "community_area_name" : "NORWOOD PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.7915383035",
+  "latitude" : "41.9829885184",
+  "day" : "Saturday",
+  "community_area_number" : "10"
+}
+, {
+  "zip" : "60659",
+  "phone" : "(773) 769-1140",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7031353555",
+    "latitude" : "41.9877231686"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-07T00:00:00",
+  "city" : "Chicago",
+  "ward" : "40",
+  "end_time" : "2pm",
+  "address" : "5850 N. Lincoln",
+  "event" : "40th Ward Office",
+  "community_area_name" : "WEST RIDGE",
+  "start_time" : "10am",
+  "longitude" : "-87.7031353555",
+  "latitude" : "41.9877231686",
+  "day" : "Monday",
+  "community_area_number" : "2"
+}
+, {
+  "zip" : "60619",
+  "phone" : "(773) 785-1100",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6118188547",
+    "latitude" : "41.730082286"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-07T00:00:00",
+  "city" : "Chicago",
+  "ward" : "6",
+  "end_time" : "1pm",
+  "address" : "501 E. 90th Place",
+  "event" : "9th Ward-Tuley Park",
+  "community_area_name" : "CHATHAM",
+  "start_time" : "10am",
+  "longitude" : "-87.6118188547",
+  "latitude" : "41.730082286",
+  "day" : "Monday",
+  "community_area_number" : "44"
+}
+, {
+  "zip" : "60614",
+  "phone" : "(773) 348-9500",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6445920327",
+    "latitude" : "41.9316042012"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-08T00:00:00",
+  "city" : "Chicago",
+  "ward" : "43",
+  "end_time" : "1pm",
+  "address" : "2710 N. Clark",
+  "event" : "43rd Ward-Sunrise Assisted Living",
+  "community_area_name" : "LINCOLN PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.6445920327",
+  "latitude" : "41.9316042012",
+  "day" : "Tuesday",
+  "community_area_number" : "7"
+}
+, {
+  "zip" : "60649",
+  "phone" : "(773) 324-5555",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5800094321",
+    "latitude" : "41.765929954"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-09T00:00:00",
+  "city" : "Chicago",
+  "ward" : "5",
+  "end_time" : "2pm",
+  "address" : "1833 E. 71st",
+  "event" : "5th Ward-Don Nash Comm. Center",
+  "community_area_name" : "SOUTH SHORE",
+  "start_time" : "10am",
+  "longitude" : "-87.5800094321",
+  "latitude" : "41.765929954",
+  "day" : "Wednesday",
+  "community_area_number" : "43"
+}
+, {
+  "zip" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6045058667",
+    "latitude" : "41.6927233639"
+  },
+  "event_type" : "CPD",
+  "state" : "IL",
+  "date" : "2013-10-09T00:00:00",
+  "city" : "Chicago",
+  "ward" : "9",
+  "end_time" : "3pm",
+  "address" : "727 E. 111th St.",
+  "event" : "Chicago Police Department - 5th District",
+  "community_area_name" : "PULLMAN",
+  "start_time" : "9am",
+  "longitude" : "-87.6045058667",
+  "latitude" : "41.6927233639",
+  "day" : "Wednesday",
+  "community_area_number" : "50"
+}
+, {
+  "zip" : "60608",
+  "phone" : "(773) 523-8250",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6805621474",
+    "latitude" : "41.8231525443"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-11T00:00:00",
+  "city" : "Chicago",
+  "ward" : "11",
+  "end_time" : "3pm",
+  "address" : "2210 W. Pershing Rd",
+  "event" : "12th Ward-McKinley Park",
+  "community_area_name" : "MCKINLEY PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.6805621474",
+  "latitude" : "41.8231525443",
+  "day" : "Friday",
+  "community_area_number" : "59"
+}
+, {
+  "zip" : "60618",
+  "phone" : "(773) 478-8040",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7077125782",
+    "latitude" : "41.9480810866"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-12T00:00:00",
+  "city" : "Chicago",
+  "ward" : "33",
+  "end_time" : "3pm",
+  "address" : "3649 N. Kedzie",
+  "event" : "33rd Ward Office",
+  "community_area_name" : "IRVING PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.7077125782",
+  "latitude" : "41.9480810866",
+  "day" : "Saturday",
+  "community_area_number" : "16"
+}
+, {
+  "zip" : "60617",
+  "phone" : "(773) 933-0344",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5468659719",
+    "latitude" : "41.7300152219"
+  },
+  "event_type" : "Church",
+  "state" : "IL",
+  "date" : "2013-10-13T00:00:00",
+  "city" : "Chicago",
+  "ward" : "10",
+  "end_time" : "1:30pm",
+  "address" : "3201 E. 91st St.",
+  "event" : "Villa Guadalupe Senior Service Inc.",
+  "community_area_name" : "SOUTH CHICAGO",
+  "start_time" : "8:30am",
+  "longitude" : "-87.5468659719",
+  "latitude" : "41.7300152219",
+  "day" : "Sunday",
+  "community_area_number" : "46"
+}
+, {
+  "zip" : "60634",
+  "phone" : "(773) 836-0036",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.8274819284",
+    "latitude" : "41.9440091272"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-16T00:00:00",
+  "city" : "Chicago",
+  "ward" : "36",
+  "end_time" : "1pm",
+  "address" : "8029 W. Forest Preserve Dr.",
+  "event" : "36th Ward-Hiawatha Park",
+  "community_area_name" : "DUNNING",
+  "start_time" : "10am",
+  "longitude" : "-87.8274819284",
+  "latitude" : "41.9440091272",
+  "day" : "Wednesday",
+  "community_area_number" : "17"
+}
+, {
+  "zip" : "60640",
+  "phone" : "(773) 878-4646",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6491350421",
+    "latitude" : "41.9668595507"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-17T00:00:00",
+  "city" : "Chicago",
+  "ward" : "46",
+  "end_time" : "1pm",
+  "address" : "4646 N. Marine Drive",
+  "event" : "46th Ward-Weiss Hospital",
+  "community_area_name" : "UPTOWN",
+  "start_time" : "10am",
+  "longitude" : "-87.6491350421",
+  "latitude" : "41.9668595507",
+  "day" : "Thursday",
+  "community_area_number" : "3"
+}
+, {
+  "zip" : "60649",
+  "phone" : "(773) 262-1050",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.704027242",
+    "latitude" : "41.9973735259"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-17T00:00:00",
+  "city" : "Chicago",
+  "ward" : "50",
+  "end_time" : "2pm",
+  "address" : "2949 W. Devon",
+  "event" : "50th Ward Office",
+  "community_area_name" : "WEST RIDGE",
+  "start_time" : "10am",
+  "longitude" : "-87.704027242",
+  "latitude" : "41.9973735259",
+  "day" : "Thursday",
+  "community_area_number" : "2"
+}
+, {
+  "zip" : "60639",
+  "phone" : "(773) 276-9100",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7486916825",
+    "latitude" : "41.9257904881"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-18T00:00:00",
+  "city" : "Chicago",
+  "ward" : "31",
+  "end_time" : "2pm",
+  "address" : "2451 N. Lamon",
+  "event" : "31st Ward-St. Genevieve Church",
+  "community_area_name" : "BELMONT CRAGIN",
+  "start_time" : "10am",
+  "longitude" : "-87.7486916825",
+  "latitude" : "41.9257904881",
+  "day" : "Friday",
+  "community_area_number" : "19"
+}
+, {
+  "zip" : "60609",
+  "phone" : "(773) 373-9273",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6214809941",
+    "latitude" : "41.8248863539"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-18T00:00:00",
+  "city" : "Chicago",
+  "ward" : "3",
+  "end_time" : "1pm",
+  "address" : "3823 S. Indiana",
+  "event" : "3rd Ward-Apostolic Faith Church",
+  "community_area_name" : "DOUGLAS",
+  "start_time" : "10am",
+  "longitude" : "-87.6214809941",
+  "latitude" : "41.8248863539",
+  "day" : "Friday",
+  "community_area_number" : "35"
+}
+, {
+  "zip" : "60609",
+  "phone" : "(773) 434-3399",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6593057019",
+    "latitude" : "41.7832894663"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-19T00:00:00",
+  "city" : "Chicago",
+  "ward" : "16",
+  "end_time" : "1pm",
+  "address" : "1354 W. 61st St.",
+  "event" : "16th Ward-Hope Presbyterian",
+  "community_area_name" : "WEST ENGLEWOOD",
+  "start_time" : "10am",
+  "longitude" : "-87.6593057019",
+  "latitude" : "41.7832894663",
+  "day" : "Saturday",
+  "community_area_number" : "67"
+}
+, {
+  "zip" : "60643",
+  "phone" : "(773) 238-8776",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6817068175",
+    "latitude" : "41.7044043739"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-19T00:00:00",
+  "city" : "Chicago",
+  "ward" : "19",
+  "end_time" : "2pm",
+  "address" : "10402 S. Western Ave.",
+  "event" : "19th Ward Office",
+  "community_area_name" : "BEVERLY",
+  "start_time" : "10am",
+  "longitude" : "-87.6817068175",
+  "latitude" : "41.7044043739",
+  "day" : "Saturday",
+  "community_area_number" : "72"
+}
+, {
+  "zip" : "60620",
+  "phone" : "(773) 483-4300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6542255653",
+    "latitude" : "41.7515062648"
+  },
+  "event_type" : "Church",
+  "state" : "IL",
+  "date" : "2013-10-20T00:00:00",
+  "city" : "Chicago",
+  "ward" : "17",
+  "end_time" : "2:30pm",
+  "address" : "1210 W. 78th Place",
+  "event" : "St. Sabina Church",
+  "community_area_name" : "AUBURN GRESHAM",
+  "start_time" : "10:30am",
+  "longitude" : "-87.6542255653",
+  "latitude" : "41.7515062648",
+  "day" : "Sunday",
+  "community_area_number" : "71"
+}
+, {
+  "zip" : "60608",
+  "phone" : "(773) 254-6677",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6495076896",
+    "latitude" : "41.8413489899"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-22T00:00:00",
+  "city" : "Chicago",
+  "ward" : "11",
+  "end_time" : "3pm",
+  "address" : "2901 S. Poplar Ave.",
+  "event" : "11th Ward-McGuane Park",
+  "community_area_name" : "BRIDGEPORT",
+  "start_time" : "9am",
+  "longitude" : "-87.6495076896",
+  "latitude" : "41.8413489899",
+  "day" : "Tuesday",
+  "community_area_number" : "60"
+}
+, {
+  "zip" : "60608",
+  "phone" : "(312) 259-9302",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6611637648",
+    "latitude" : "41.8576012333"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-23T00:00:00",
+  "city" : "Chicago",
+  "ward" : "25",
+  "end_time" : "2pm",
+  "address" : "1805 S. Loomis",
+  "event" : "25th Ward-Lozano Library",
+  "community_area_name" : "LOWER WEST SIDE",
+  "start_time" : "10am",
+  "longitude" : "-87.6611637648",
+  "latitude" : "41.8576012333",
+  "day" : "Wednesday",
+  "community_area_number" : "31"
+}
+, {
+  "zip" : "60628",
+  "phone" : "(773) 928-6961",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6354431987",
+    "latitude" : "41.692331396"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-23T00:00:00",
+  "city" : "Chicago",
+  "ward" : "34",
+  "end_time" : "1pm",
+  "address" : "507 W. 111th",
+  "event" : "34th Ward Office",
+  "community_area_name" : "ROSELAND",
+  "start_time" : "10am",
+  "longitude" : "-87.6354431987",
+  "latitude" : "41.692331396",
+  "day" : "Wednesday",
+  "community_area_number" : "49"
+}
+, {
+  "zip" : "60609",
+  "phone" : "(312) 747-5109",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6305601801",
+    "latitude" : "41.8018110912"
+  },
+  "event_type" : "CPD",
+  "state" : "IL",
+  "date" : "2013-10-24T00:00:00",
+  "city" : "Chicago",
+  "ward" : "3",
+  "end_time" : "3pm",
+  "address" : "5101 S. Wentworth",
+  "event" : "Chicago Police Department - 2nd District",
+  "community_area_name" : "FULLER PARK",
+  "start_time" : "9am",
+  "longitude" : "-87.6305601801",
+  "latitude" : "41.8018110912",
+  "day" : "Thursday",
+  "community_area_number" : "37"
+}
+, {
+  "zip" : "60617",
+  "phone" : "(773) 721-1999",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5351333203",
+    "latitude" : "41.6915835405"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-25T00:00:00",
+  "city" : "Chicago",
+  "ward" : "10",
+  "end_time" : "3pm",
+  "address" : "11207 S. Ewing",
+  "event" : "10th Ward-Knights of Columbus",
+  "community_area_name" : "EAST SIDE",
+  "start_time" : "9am",
+  "longitude" : "-87.5351333203",
+  "latitude" : "41.6915835405",
+  "day" : "Friday",
+  "community_area_number" : "52"
+}
+, {
+  "zip" : "60618",
+  "phone" : "(773) 868-4747",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6846946537",
+    "latitude" : "41.9629668594"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-26T00:00:00",
+  "city" : "Chicago",
+  "ward" : "47",
+  "end_time" : "3pm",
+  "address" : "4455 N. Lincoln",
+  "event" : "47th Ward-Sulzer Library",
+  "community_area_name" : "LINCOLN SQUARE",
+  "start_time" : "9am",
+  "longitude" : "-87.6846946537",
+  "latitude" : "41.9629668594",
+  "day" : "Saturday",
+  "community_area_number" : "4"
+}
+, {
+  "zip" : "60640",
+  "phone" : "(773) 481-8612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6592379773",
+    "latitude" : "41.965267395"
+  },
+  "event_type" : "Other",
+  "state" : "IL",
+  "date" : "2013-10-26T00:00:00",
+  "city" : "Chicago",
+  "ward" : "46",
+  "end_time" : "2pm",
+  "address" : "1145 W. Wilson",
+  "event" : "Truman College",
+  "community_area_name" : "UPTOWN",
+  "start_time" : "9am",
+  "longitude" : "-87.6592379773",
+  "latitude" : "41.965267395",
+  "day" : "Saturday",
+  "community_area_number" : "3"
+}
+, {
+  "zip" : "60624",
+  "phone" : "(773) 533-2400",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7201966598",
+    "latitude" : "41.8640872443"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-27T00:00:00",
+  "city" : "Chicago",
+  "ward" : "24",
+  "end_time" : "3pm",
+  "address" : "1308 S. Independence",
+  "event" : "24th Ward-Greater Galilee Church",
+  "community_area_name" : "NORTH LAWNDALE",
+  "start_time" : "12pm",
+  "longitude" : "-87.7201966598",
+  "latitude" : "41.8640872443",
+  "day" : "Sunday",
+  "community_area_number" : "29"
+}
+, {
+  "zip" : "60639",
+  "phone" : "(312) 543-5486",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7610843209",
+    "latitude" : "41.9200361301"
+  },
+  "event_type" : "Church",
+  "state" : "IL",
+  "date" : "2013-10-27T00:00:00",
+  "city" : "Chicago",
+  "ward" : "37",
+  "end_time" : "12Noon",
+  "address" : "2148 N. Long",
+  "event" : "Prosser Career High School",
+  "community_area_name" : "BELMONT CRAGIN",
+  "start_time" : "9am",
+  "longitude" : "-87.7610843209",
+  "latitude" : "41.9200361301",
+  "day" : "Sunday",
+  "community_area_number" : "19"
+}
+, {
+  "zip" : "60618",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6899565856",
+    "latitude" : "41.9395520781"
+  },
+  "event_type" : "CPD",
+  "state" : "IL",
+  "date" : "2013-10-28T00:00:00",
+  "city" : "Chicago",
+  "ward" : "47",
+  "end_time" : "3pm",
+  "address" : "2452 W. Belmont",
+  "event" : "Chicago Police Department - 19th District",
+  "community_area_name" : "NORTH CENTER",
+  "start_time" : "9am",
+  "longitude" : "-87.6899565856",
+  "latitude" : "41.9395520781",
+  "day" : "Monday",
+  "community_area_number" : "5"
+}
+, {
+  "zip" : "60642",
+  "phone" : "(312) 432-1995",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6647800341",
+    "latitude" : "41.8960028555"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-10-31T00:00:00",
+  "city" : "Chicago",
+  "ward" : "27",
+  "end_time" : "2pm",
+  "address" : "1463 W. Chicago",
+  "event" : "27th Ward Office",
+  "community_area_name" : "WEST TOWN",
+  "start_time" : "10am",
+  "longitude" : "-87.6647800341",
+  "latitude" : "41.8960028555",
+  "day" : "Thursday",
+  "community_area_number" : "24"
+}
+, {
+  "zip" : "60608",
+  "phone" : "(773) 523-8250",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6997507706",
+    "latitude" : "41.8465081508"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-01T00:00:00",
+  "city" : "Chicago",
+  "ward" : "12",
+  "end_time" : "2pm",
+  "address" : "2950 W. 25th",
+  "event" : "12th Ward-Boys and Girls Club",
+  "community_area_name" : "SOUTH LAWNDALE",
+  "start_time" : "9am",
+  "longitude" : "-87.6997507706",
+  "latitude" : "41.8465081508",
+  "day" : "Friday",
+  "community_area_number" : "30"
+}
+, {
+  "zip" : "60651",
+  "phone" : "(773) 261-4646",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7702760005",
+    "latitude" : "41.9019653796"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-01T00:00:00",
+  "city" : "Chicago",
+  "ward" : "29",
+  "end_time" : "1pm",
+  "address" : "5755 W. Division",
+  "event" : "29th Ward Office",
+  "community_area_name" : "AUSTIN",
+  "start_time" : "10am",
+  "longitude" : "-87.7702760005",
+  "latitude" : "41.9019653796",
+  "day" : "Friday",
+  "community_area_number" : "25"
+}
+, {
+  "zip" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6854255447",
+    "latitude" : "41.8411101754"
+  },
+  "event_type" : "Other",
+  "state" : "IL",
+  "date" : "2013-11-02T00:00:00",
+  "city" : "Chicago",
+  "ward" : "25",
+  "end_time" : "2pm",
+  "address" : "2800 S. Western Av",
+  "event" : "Arturo Velasquez Institute",
+  "community_area_name" : "LOWER WEST SIDE",
+  "start_time" : "9am",
+  "longitude" : "-87.6854255447",
+  "latitude" : "41.8411101754",
+  "day" : "Saturday",
+  "community_area_number" : "31"
+}
+, {
+  "zip" : "60652",
+  "phone" : "(773) 838-7520",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7223217383",
+    "latitude" : "41.7568763948"
+  },
+  "event_type" : "Other",
+  "state" : "IL",
+  "date" : "2013-11-02T00:00:00",
+  "city" : "Chicago",
+  "ward" : "13",
+  "end_time" : "2pm",
+  "address" : "7500 S. Pulaski Road",
+  "event" : "Daley College",
+  "community_area_name" : "WEST LAWN",
+  "start_time" : "9am",
+  "longitude" : "-87.7223217383",
+  "latitude" : "41.7568763948",
+  "day" : "Saturday",
+  "community_area_number" : "65"
+}
+, {
+  "zip" : "60634",
+  "phone" : "(773) 481-8612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7869189888",
+    "latitude" : "41.9585483456"
+  },
+  "event_type" : "Other",
+  "state" : "IL",
+  "date" : "2013-11-02T00:00:00",
+  "city" : "Chicago",
+  "ward" : "38",
+  "end_time" : "2pm",
+  "address" : "4300 N. Narragansett",
+  "event" : "Wright College",
+  "community_area_name" : "DUNNING",
+  "start_time" : "9am",
+  "longitude" : "-87.7869189888",
+  "latitude" : "41.9585483456",
+  "day" : "Saturday",
+  "community_area_number" : "17"
+}
+, {
+  "zip" : "60629",
+  "phone" : "(773) 581-8000",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7288422505",
+    "latitude" : "41.7748650121"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-04T00:00:00",
+  "city" : "Chicago",
+  "ward" : "13",
+  "end_time" : "1pm",
+  "address" : "4233 W. 65th",
+  "event" : "13th Ward-West Lawn Park",
+  "community_area_name" : "WEST LAWN",
+  "start_time" : "10am",
+  "longitude" : "-87.7288422505",
+  "latitude" : "41.7748650121",
+  "day" : "Monday",
+  "community_area_number" : "65"
+}
+, {
+  "zip" : "60612",
+  "phone" : "(773) 533-0900",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7062600612",
+    "latitude" : "41.8806531808"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-04T00:00:00",
+  "city" : "Chicago",
+  "ward" : "28",
+  "end_time" : "2pm",
+  "address" : "10 S. Kedzie",
+  "event" : "28th Ward-Garfield Center",
+  "community_area_name" : "EAST GARFIELD PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.7062600612",
+  "latitude" : "41.8806531808",
+  "day" : "Monday",
+  "community_area_number" : "27"
+}
+, {
+  "zip" : "60602",
+  "phone" : "(312) 236-4548 ext. 120",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6303312119",
+    "latitude" : "41.8831005395"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-05T00:00:00",
+  "city" : "Chicago",
+  "ward" : "42",
+  "end_time" : "2pm",
+  "address" : "77 W. Washington 2nd Floor",
+  "event" : "42nd Ward-FUMC Chicago Temple",
+  "community_area_name" : "LOOP",
+  "start_time" : "10am",
+  "longitude" : "-87.6303312119",
+  "latitude" : "41.8831005395",
+  "day" : "Tuesday",
+  "community_area_number" : "32"
+}
+, {
+  "zip" : "60622",
+  "phone" : "(773) 395-0143",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7014119111",
+    "latitude" : "41.9077397333"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-06T00:00:00",
+  "city" : "Chicago",
+  "ward" : "26",
+  "end_time" : "3pm",
+  "address" : "1440 N. Sacramento",
+  "event" : "26th Ward-Humbolt Park",
+  "community_area_name" : "WEST TOWN",
+  "start_time" : "12pm",
+  "longitude" : "-87.7014119111",
+  "latitude" : "41.9077397333",
+  "day" : "Wednesday",
+  "community_area_number" : "24"
+}
+, {
+  "zip" : "60605",
+  "phone" : "(312) 263-9273",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6241738232",
+    "latitude" : "41.8618808148"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-07T00:00:00",
+  "city" : "Chicago",
+  "ward" : "2",
+  "end_time" : "1pm",
+  "address" : "1500 S. Michigan",
+  "event" : "2nd Ward-Old St. Marys Church",
+  "community_area_name" : "NEAR SOUTH SIDE",
+  "start_time" : "9am",
+  "longitude" : "-87.6241738232",
+  "latitude" : "41.8618808148",
+  "day" : "Thursday",
+  "community_area_number" : "33"
+}
+, {
+  "zip" : "60639",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.765574479",
+    "latitude" : "41.9186088912"
+  },
+  "event_type" : "CPD",
+  "state" : "IL",
+  "date" : "2013-11-07T00:00:00",
+  "city" : "Chicago",
+  "ward" : "29",
+  "end_time" : "3pm",
+  "address" : "5555 W. Grand",
+  "event" : "Chicago Police Department - 25th District",
+  "community_area_name" : "BELMONT CRAGIN",
+  "start_time" : "9am",
+  "longitude" : "-87.765574479",
+  "latitude" : "41.9186088912",
+  "day" : "Thursday",
+  "community_area_number" : "19"
+}
+, {
+  "zip" : "60630",
+  "phone" : "(773) 736-5594",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7381318614",
+    "latitude" : "41.9682408381"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-08T00:00:00",
+  "city" : "Chicago",
+  "ward" : "39",
+  "end_time" : "2pm",
+  "address" : "4404 W. Lawrence",
+  "event" : "39th Ward Office",
+  "community_area_name" : "ALBANY PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.7381318614",
+  "latitude" : "41.9682408381",
+  "day" : "Friday",
+  "community_area_number" : "14"
+}
+, {
+  "zip" : "60639",
+  "phone" : "(773) 745-2894",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7599625993",
+    "latitude" : "41.9095562129"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-09T00:00:00",
+  "city" : "Chicago",
+  "ward" : "37",
+  "end_time" : "1pm",
+  "address" : "5344 W. North",
+  "event" : "37th Ward Office",
+  "community_area_name" : "AUSTIN",
+  "start_time" : "10am",
+  "longitude" : "-87.7599625993",
+  "latitude" : "41.9095562129",
+  "day" : "Saturday",
+  "community_area_number" : "25"
+}
+, {
+  "zip" : "60626",
+  "phone" : "(773) 338-5796",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6682681105",
+    "latitude" : "42.0155326387"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-09T00:00:00",
+  "city" : "Chicago",
+  "ward" : "49",
+  "end_time" : "1pm",
+  "address" : "7356 N. Greenview",
+  "event" : "49th Ward Office",
+  "community_area_name" : "ROGERS PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.6682681105",
+  "latitude" : "42.0155326387",
+  "day" : "Saturday",
+  "community_area_number" : "1"
+}
+, {
+  "zip" : "60609",
+  "phone" : "(773) 523-1248",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6736572986",
+    "latitude" : "41.8068085086"
+  },
+  "event_type" : "Church",
+  "state" : "IL",
+  "date" : "2013-11-10T00:00:00",
+  "city" : "Chicago",
+  "ward" : "20",
+  "end_time" : "1pm",
+  "address" : "1936 W. 48th",
+  "event" : "St Michael the Archangel Parish",
+  "community_area_name" : "NEW CITY",
+  "start_time" : "9am",
+  "longitude" : "-87.6736572986",
+  "latitude" : "41.8068085086",
+  "day" : "Sunday",
+  "community_area_number" : "61"
+}
+, {
+  "zip" : "60657",
+  "phone" : "(773) 525-6034",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6414039381",
+    "latitude" : "41.9341951658"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-12T00:00:00",
+  "city" : "Chicago",
+  "ward" : "44",
+  "end_time" : "1pm",
+  "address" : "501 W. Surf",
+  "event" : "44th Ward-Britton Senior Building",
+  "community_area_name" : "LAKE VIEW",
+  "start_time" : "10am",
+  "longitude" : "-87.6414039381",
+  "latitude" : "41.9341951658",
+  "day" : "Tuesday",
+  "community_area_number" : "6"
+}
+, {
+  "zip" : "60620",
+  "phone" : "(773) 471-1991",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6829022633",
+    "latitude" : "41.7461788457"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-13T00:00:00",
+  "city" : "Chicago",
+  "ward" : "18",
+  "end_time" : "1pm",
+  "address" : "8108 S. Western",
+  "event" : "18th Ward Office",
+  "community_area_name" : "ASHBURN",
+  "start_time" : "10am",
+  "longitude" : "-87.6829022633",
+  "latitude" : "41.7461788457",
+  "day" : "Wednesday",
+  "community_area_number" : "70"
+}
+, {
+  "zip" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7055641792",
+    "latitude" : "41.8735815216"
+  },
+  "event_type" : "CPD",
+  "state" : "IL",
+  "date" : "2013-11-14T00:00:00",
+  "city" : "Chicago",
+  "ward" : "24",
+  "end_time" : "3pm",
+  "address" : "3153 W. Harrison",
+  "event" : "Chicago Police Department - 11th District",
+  "community_area_name" : "EAST GARFIELD PARK",
+  "start_time" : "9am",
+  "longitude" : "-87.7055641792",
+  "latitude" : "41.8735815216",
+  "day" : "Thursday",
+  "community_area_number" : "27"
+}
+, {
+  "zip" : "60632",
+  "phone" : "(773) 471-1414",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7174279038",
+    "latitude" : "41.8061421882"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-15T00:00:00",
+  "city" : "Chicago",
+  "ward" : "14",
+  "end_time" : "3pm",
+  "address" : "4808 S. Archer Ave.",
+  "event" : "14th Ward-Polish Highlanders",
+  "community_area_name" : "ARCHER HEIGHTS",
+  "start_time" : "9am",
+  "longitude" : "-87.7174279038",
+  "latitude" : "41.8061421882",
+  "day" : "Friday",
+  "community_area_number" : "57"
+}
+, {
+  "zip" : "60620",
+  "phone" : "(312) 744-7738",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6536309698",
+    "latitude" : "41.7520003511"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-16T00:00:00",
+  "city" : "Chicago",
+  "ward" : "17",
+  "end_time" : "1pm",
+  "address" : "7811 S. Racine",
+  "event" : "17th Ward Office",
+  "community_area_name" : "AUBURN GRESHAM",
+  "start_time" : "10am",
+  "longitude" : "-87.6536309698",
+  "latitude" : "41.7520003511",
+  "day" : "Saturday",
+  "community_area_number" : "71"
+}
+, {
+  "zip" : "60649",
+  "phone" : "(773) 731-7777",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5671672122",
+    "latitude" : "41.7144017635"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-16T00:00:00",
+  "city" : "Chicago",
+  "ward" : "7",
+  "end_time" : "2pm",
+  "address" : "9928 S. Crandon",
+  "event" : "7th Ward Burnham Math and Science Academy",
+  "community_area_name" : "SOUTH DEERING",
+  "start_time" : "10am",
+  "longitude" : "-87.5671672122",
+  "latitude" : "41.7144017635",
+  "day" : "Saturday",
+  "community_area_number" : "51"
+}
+, {
+  "zip" : "60634",
+  "phone" : "(773) 545-3838",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7622845814",
+    "latitude" : "41.9551078677"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-19T00:00:00",
+  "city" : "Chicago",
+  "ward" : "38",
+  "end_time" : "1pm",
+  "address" : "4100 N. Long",
+  "event" : "38th Ward-Portage Park Senior Center",
+  "community_area_name" : "PORTAGE PARK",
+  "start_time" : "10am",
+  "longitude" : "-87.7622845814",
+  "latitude" : "41.9551078677",
+  "day" : "Tuesday",
+  "community_area_number" : "15"
+}
+, {
+  "zip" : "60630",
+  "phone" : "(773) 286-4545",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7484370772",
+    "latitude" : "41.9532937609"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-11-20T00:00:00",
+  "city" : "Chicago",
+  "ward" : "45",
+  "end_time" : "3pm",
+  "address" : "4829 W. Irving Park Rd.",
+  "event" : "45th Ward-Lydia Home Assoc.",
+  "community_area_name" : "PORTAGE PARK",
+  "start_time" : "12pm",
+  "longitude" : "-87.7484370772",
+  "latitude" : "41.9532937609",
+  "day" : "Wednesday",
+  "community_area_number" : "15"
+}
+, {
+  "zip" : "60608",
+  "phone" : "(312) 226-7575",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6475220819",
+    "latitude" : "41.8670351432"
+  },
+  "event_type" : "Church",
+  "state" : "IL",
+  "date" : "2013-11-24T00:00:00",
+  "city" : "Chicago",
+  "ward" : "25",
+  "end_time" : "1pm",
+  "address" : "813 W. Roosevelt Road",
+  "event" : "St Francis of Assisi Church",
+  "community_area_name" : "NEAR WEST SIDE",
+  "start_time" : "9am",
+  "longitude" : "-87.6475220819",
+  "latitude" : "41.8670351432",
+  "day" : "Sunday",
+  "community_area_number" : "28"
+}
+, {
+  "zip" : "60602",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6322753535",
+    "latitude" : "41.8837645981"
+  },
+  "event_type" : "Other Walk-In",
+  "state" : "IL",
+  "date" : "2013-12-13T00:00:00",
+  "city" : "Chicago",
+  "ward" : "42",
+  "end_time" : "3pm",
+  "address" : "121 N. Lasalle 2nd Floor Lobby",
+  "event" : "City Hall",
+  "community_area_name" : "LOOP",
+  "start_time" : "9am",
+  "longitude" : "-87.6322753535",
+  "latitude" : "41.8837645981",
+  "day" : "Friday",
+  "community_area_number" : "32"
+}
+, {
+  "zip" : "60629",
+  "phone" : "(773) 863-0220",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7000480109",
+    "latitude" : "41.7789090127"
+  },
+  "event_type" : "Alderman",
+  "state" : "IL",
+  "date" : "2013-12-14T00:00:00",
+  "city" : "Chicago",
+  "ward" : "15",
+  "end_time" : "1pm",
+  "address" : "3045 W. 63rd St.",
+  "event" : "15th Ward Office",
+  "community_area_name" : "CHICAGO LAWN",
+  "start_time" : "10am",
+  "longitude" : "-87.7000480109",
+  "latitude" : "41.7789090127",
+  "day" : "Saturday",
+  "community_area_number" : "66"
+}
+, {
+  "zip" : "60652",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7413847586",
+    "latitude" : "41.7546601244"
+  },
+  "event_type" : "Other Walk-In",
+  "state" : "IL",
+  "date" : "2013-12-14T00:00:00",
+  "city" : "Chicago",
+  "ward" : "13",
+  "end_time" : "5pm",
+  "address" : "7601 S. Cicero Ave.",
+  "event" : "Ford City Mall",
+  "community_area_name" : "WEST LAWN",
+  "start_time" : "12pm",
+  "longitude" : "-87.7413847586",
+  "latitude" : "41.7546601244",
+  "day" : "Saturday",
+  "community_area_number" : "65"
+}
+ ]

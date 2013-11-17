@@ -1,0 +1,323 @@
+[ {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65107052999969",
+    "latitude" : "41.96543246700048",
+    "human_address" : "{\"address\":\"845 W. Wilson Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "hours_of_operation" : "Monday, Wednesday & Friday (8:00 a.m. - 4:00 p.m.) Tuesday & Thursday (10:00 a.m. - 6:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60640",
+  "state" : "IL",
+  "site_number" : "1",
+  "site_name" : "Uptown NHC",
+  "fax_1" : "312-742-1733",
+  "city" : "Chicago",
+  "public_health_nursing" : "Y",
+  "phone_5" : "312-744-0186",
+  "phone_2" : "312-744-1365",
+  "family_case_management" : "Y",
+  "phone_1" : "312-744-0073",
+  "phone_4" : "312-744-1353",
+  "phone_3" : "312-744-1324",
+  "street_address" : "845 W. Wilson Ave."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68782578699967",
+    "latitude" : "41.90302998900046",
+    "human_address" : "{\"address\":\"2418 W. Division St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "hours_of_operation" : "Monday, Wednesday & Friday (8:00 a.m. - 4:00 p.m.) Tuesday & Thursday (10:00 a.m. - 6:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60622",
+  "state" : "IL",
+  "site_number" : "12",
+  "site_name" : "West Town NHC",
+  "fax_1" : "312-742-3415",
+  "city" : "Chicago",
+  "phone_2" : "312-744-8119",
+  "phone_1" : "312-744-8118",
+  "street_address" : "2418 W. Division St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66739075899966",
+    "latitude" : "41.85227227900049",
+    "human_address" : "{\"address\":\"1643 W. Cermak St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60608",
+  "state" : "IL",
+  "site_number" : "17",
+  "site_name" : "Lower West Side NHC",
+  "fax_1" : "312-747-1648",
+  "city" : "Chicago",
+  "phone_2" : "312-747-1651",
+  "family_case_management" : "Y",
+  "phone_1" : "312-747-1650",
+  "phone_4" : "312-747-1653",
+  "phone_3" : "312-747-1652",
+  "street_address" : "1643 W. Cermak St. "
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74920044099969",
+    "latitude" : "41.90234088000045",
+    "human_address" : "{\"address\":\"4909 W. Division St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60651\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60651",
+  "state" : "IL",
+  "site_number" : "19",
+  "site_name" : "Austin Clinic",
+  "fax_1" : "312-746-4799",
+  "city" : "Chicago",
+  "phone_2" : "312-746-4796",
+  "phone_1" : "312-746-4797",
+  "street_address" : "4909 W. Division St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62570638499966",
+    "latitude" : "41.79464404000049",
+    "human_address" : "{\"address\":\"800 E. 55th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60615",
+  "state" : "IL",
+  "site_number" : "23",
+  "site_name" : "Friend Family Health Center Inc.",
+  "fax_1" : "773-702-9377",
+  "city" : "Chicago",
+  "phone_1" : "773-702-3719",
+  "street_address" : "800 E. 55th St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64095807999968",
+    "latitude" : "41.77979320500049",
+    "human_address" : "{\"address\":\"641 W. 63rd St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "hours_of_operation" : "Monday, Wednesday & Friday (8:00 a.m. - 4:00 p.m.) Tuesday & Thursday (10:00 a.m. - 6:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60621",
+  "state" : "IL",
+  "site_number" : "28",
+  "site_name" : "Englewood NHC",
+  "fax_1" : "312-745-7654",
+  "city" : "Chicago",
+  "public_health_nursing" : "Y",
+  "phone_5" : "312-747-1626",
+  "phone_2" : "312-747-4815",
+  "family_case_management" : "Y",
+  "phone_1" : "312-747-4814",
+  "phone_4" : "312-747-1625",
+  "phone_3" : "312-747-1241",
+  "healthy_start_program" : "Y",
+  "street_address" : "641 W. 63rd St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.55253176899964",
+    "latitude" : "41.73374489600047",
+    "human_address" : "{\"address\":\"2938 E. 89th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60617",
+  "state" : "IL",
+  "site_number" : "33",
+  "site_name" : "South Chicago",
+  "healthy_families_program" : "Y",
+  "fax_1" : "312-745-2576",
+  "city" : "Chicago",
+  "phone_2" : "312-747-2708",
+  "family_case_management" : "Y",
+  "phone_1" : "312-747-7969",
+  "phone_3" : "312-747-6839",
+  "street_address" : "2938 E. 89th St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64583106299966",
+    "latitude" : "41.934051447000456",
+    "human_address" : "{\"address\":\"2849 N. Clark St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60657",
+  "state" : "IL",
+  "site_number" : "76",
+  "site_name" : "Lakeview NHC",
+  "fax_1" : "312-744-5544",
+  "city" : "Chicago",
+  "phone_2" : "312-744-1129",
+  "family_case_management" : "Y",
+  "phone_1" : "312-744-1027",
+  "street_address" : "2849 N. Clark St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68421211099968",
+    "latitude" : "41.86667523800048",
+    "human_address" : "{\"address\":\"2310 W. Roosevelt Rd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60608",
+  "state" : "IL",
+  "site_number" : "15",
+  "site_name" : "Near West",
+  "fax_1" : "312-746-7944",
+  "city" : "Chicago",
+  "phone_2" : "312-746-8799",
+  "phone_1" : "312-746-8990",
+  "street_address" : "2310 W. Roosevelt Rd."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68553107799966",
+    "latitude" : "41.848520075000465",
+    "human_address" : "{\"address\":\"2355 S. Western Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "hours_of_operation" : "Monday, Tuesday, Thursday & Friday (8:00 a.m. - 4:30 p.m.) Wednesday (10:30 a.m. - 7:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60608",
+  "state" : "IL",
+  "site_number" : "106",
+  "site_name" : "Alivio Medical Center",
+  "fax_1" : "773-650-1232",
+  "city" : "Chicago",
+  "phone_2" : "773-843-4221",
+  "phone_1" : "773-843-4220",
+  "street_address" : "2355 S. Western Ave."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72724104499969",
+    "latitude" : "41.79318157600045",
+    "human_address" : "{\"address\":\"4150 W. 55th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60632",
+  "state" : "IL",
+  "site_number" : "5",
+  "site_name" : "Greater Lawn Health Center",
+  "fax_1" : "312-745-1435",
+  "city" : "Chicago",
+  "phone_5" : "312-745-0065",
+  "phone_2" : "312-747-5416 ",
+  "family_case_management" : "Y",
+  "phone_1" : "312-747-5415",
+  "phone_4" : "312-745-0064",
+  "phone_3" : "312-745-0062",
+  "street_address" : "4150 W. 55th St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62515923099966",
+    "latitude" : "41.841746928000475",
+    "human_address" : "{\"address\":\"2907 S. Wabash\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60616\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (9:00 a.m. - 5:00 p.m.) Saturdays (9:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60616",
+  "state" : "IL",
+  "site_number" : "103",
+  "site_name" : "Henry Booth House",
+  "fax_1" : "312-225-6324 ",
+  "city" : "Chicago",
+  "phone_2" : "312-949-2132",
+  "phone_1" : "312-225-1982 ",
+  "phone_4" : "312-949-2129",
+  "phone_3" : "312-949-2156 ",
+  "street_address" : "2907 S. Wabash"
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70514061899968",
+    "latitude" : "41.848021136000455",
+    "human_address" : "{\"address\":\"2400 S. Kedzie Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60623",
+  "state" : "IL",
+  "site_number" : "121",
+  "site_name" : "Westside Health Partnership",
+  "fax_1" : "773-522-7605",
+  "city" : "Chicago",
+  "phone_2" : "773-522-0780",
+  "phone_1" : "773-522-0716",
+  "street_address" : "2400 S. Kedzie Ave."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6698091459997",
+    "latitude" : "41.8951041200005",
+    "human_address" : "{\"address\":\"1701 W. Superior St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60610\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:30 a.m. - 5:00 p.m.) Every 3rd Wednesday (10:00 a.m. - 6:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60610",
+  "state" : "IL",
+  "site_name" : "Erie Health Center ",
+  "fax_1" : "312-666-6228",
+  "city" : "Chicago",
+  "phone_1" : "312-432-7372 ",
+  "street_address" : "1701 W. Superior St."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69051008999969",
+    "latitude" : "41.99050085200048",
+    "human_address" : "{\"address\":\"2424 W. Peterson Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60659\"}"
+  },
+  "hours_of_operation" : "Monday, Wednesday, Thursday & Friday (9:00 a.m. - 5:00 p.m.) Tuesday (11:00 a.m. - 7:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60659",
+  "state" : "IL",
+  "site_name" : "Asian Human Services Family Health Center, Inc.",
+  "fax_1" : "773-761-0008",
+  "city" : "Chicago",
+  "phone_1" : "773-761-0011 ext. 116",
+  "street_address" : "2424 W. Peterson Ave."
+}
+, {
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62763567699966",
+    "latitude" : "41.87776425800047",
+    "human_address" : "{\"address\":\"333 S. State St., 2nd Floor\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60604\"}"
+  },
+  "hours_of_operation" : "Monday - Friday (8:00 a.m. - 4:00 p.m.)",
+  "wic" : "Y",
+  "zipcode" : "60604",
+  "state" : "IL",
+  "site_name" : "WIC Main Office",
+  "fax_1" : "312-747-8799",
+  "city" : "Chicago",
+  "phone_2" : "312-747-9141",
+  "phone_1" : "312-747-9140 ",
+  "street_address" : "333 S. State St., 2nd Floor"
+}
+ ]

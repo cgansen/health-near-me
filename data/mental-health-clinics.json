@@ -1,0 +1,91 @@
+[ {
+  "phone" : "(312) 747-7496",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64157740963851",
+    "latitude" : "41.779780316087795",
+    "human_address" : "{\"address\":\"641 63rd St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "hours_of_operation" : "Mon - Fri: 8:30 am – 4:30 pm",
+  "zipcode" : "60621",
+  "state" : "IL",
+  "street_address" : "641 W. 63rd St",
+  "site_name" : "Englewood MHC",
+  "city" : "Chicago"
+}
+, {
+  "phone" : "(312) 747-0036",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60677199999999",
+    "latitude" : "41.82046891505544",
+    "human_address" : "{\"address\":\"4314 Cottage Grove\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "hours_of_operation" : "Mon - Fri: 8:30 am – 4:30 pm",
+  "zipcode" : "60653",
+  "state" : "IL",
+  "street_address" : "4314 S. Cottage Grove",
+  "site_name" : "Greater Grand/MID-South MHC ",
+  "city" : "Chicago"
+}
+, {
+  "phone" : "(312) 747-1020",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72719722165824",
+    "latitude" : "41.79322143469052",
+    "human_address" : "{\"address\":\"4150 55th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "hours_of_operation" : "Mon - Fri: 8:30 am – 4:30 pm",
+  "zipcode" : "60632",
+  "state" : "IL",
+  "street_address" : "4150 W. 55th Street",
+  "site_name" : "Greater Lawn MHC",
+  "city" : "Chicago"
+}
+, {
+  "phone" : "(312) 746-5905",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68849234323406",
+    "latitude" : "41.865346111260145",
+    "human_address" : "{\"address\":\"1201 Campbell St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "hours_of_operation" : "Mon - Fri: 8:30 am – 4:30 pm",
+  "zipcode" : "60608",
+  "state" : "IL",
+  "street_address" : "1201 S. Campbell St",
+  "site_name" : "Lawndale MHC  ",
+  "city" : "Chicago"
+}
+, {
+  "phone" : "(312) 744-1906",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72849630405965",
+    "latitude" : "41.98634938091262",
+    "human_address" : "{\"address\":\"5801 Pulaski Road\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60646\"}"
+  },
+  "hours_of_operation" : "Mon - Fri: 8:30 am – 4:30 pm",
+  "zipcode" : "60646",
+  "state" : "IL",
+  "street_address" : "5801 N. Pulaski Road",
+  "site_name" : "North River MHC",
+  "city" : "Chicago"
+}
+, {
+  "phone" : "(312) 747-7320",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61804579760663",
+    "latitude" : "41.68540464454324",
+    "human_address" : "{\"address\":\"200 115th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "hours_of_operation" : "Mon - Fri: 8:30 am – 4:30 pm",
+  "zipcode" : "60628",
+  "state" : "IL",
+  "street_address" : "200 E. 115th Street ",
+  "site_name" : "Roseland MHC",
+  "city" : "Chicago"
+}
+ ]

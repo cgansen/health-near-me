@@ -1,0 +1,3528 @@
+[ {
+  "phone_number" : "773-435-8300",
+  "zip_code" : "60636",
+  "address" : "2750 W Roosevelt Rd   ",
+  "service_modalities" : "RH Level 1, 2, & 3.5",
+  "treatment_center" : "A Safe Haven & Main Intake Number",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents ",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69483850362143",
+    "latitude" : "41.8665914855157",
+    "human_address" : "{\"address\":\"2750 Roosevelt Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : " Chicago"
+}
+, {
+  "phone_number" : "312-372-6707 x122",
+  "zip_code" : "60645",
+  "address" : "2049 W Jarvis St",
+  "service_modalities" : "RH",
+  "treatment_center" : "A Safe Haven",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68244598055738",
+    "latitude" : "42.015078518290736",
+    "human_address" : "{\"address\":\"2049 Jarvis St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60645\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-372-6707 x132",
+  "zip_code" : "60649",
+  "address" : "7346 S Kingston St",
+  "service_modalities" : "RH",
+  "treatment_center" : "A Safe Haven",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56376846388233",
+    "latitude" : "41.76176113394176",
+    "human_address" : "{\"address\":\"7346 Kingston St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-262-1974 x107",
+  "zip_code" : "60645",
+  "address" : "7349 N Damen Ave",
+  "service_modalities" : "RH",
+  "treatment_center" : "A Safe Haven Damen",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68043293589778",
+    "latitude" : "42.01550036366842",
+    "human_address" : "{\"address\":\"7349 Damen Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60645\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-395-6841",
+  "zip_code" : "60649",
+  "address" : "3821 W Wrightwood St",
+  "service_modalities" : "RH",
+  "treatment_center" : "A Safe Haven",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56871999999998",
+    "latitude" : "41.761489999999924",
+    "human_address" : "{\"address\":\"3821 Wrightwood St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-947-6940",
+  "zip_code" : "60649",
+  "address" : "1818 E 71st St",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "ABJ Community Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58096528297118",
+    "latitude" : "41.766228967035765",
+    "human_address" : "{\"address\":\"1818 71st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 114 ",
+  "phone_number" : "312-659-3570",
+  "zip_code" : "60623",
+  "address" : "3948 W 26th St",
+  "service_modalities" : "Level 1 & 2,      DUI Services",
+  "treatment_center" : "Access Behavioral Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72383421703182",
+    "latitude" : "41.84427844250996",
+    "human_address" : "{\"address\":\"3948 26th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60623\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-434-5526",
+  "zip_code" : "60629",
+  "address" : "2454 W 71st St   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Ada S. McKinley",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68490111154657",
+    "latitude" : "41.76472527925688",
+    "human_address" : "{\"address\":\"2454 71st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60629\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 100",
+  "phone_number" : "312-655-7453",
+  "zip_code" : "60661",
+  "address" : "651 W Lake St ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Addiction Counseling Educational Services of Catholic Charities of Chgo. (ACES)",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64444214580742",
+    "latitude" : "41.88563739917868",
+    "human_address" : "{\"address\":\"651 Lake St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60661\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-581-2930",
+  "zip_code" : "60638",
+  "address" : "5514 S Archer Ave  ",
+  "service_modalities" : "Level 1 & 2,   DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Addiction Recovery Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74718961013275",
+    "latitude" : "41.798044296983676",
+    "human_address" : "{\"address\":\"5514 Archer Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60638\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-503-6345",
+  "zip_code" : "60632",
+  "address" : "4125 S Archer Ave",
+  "service_modalities" : "Level 1",
+  "treatment_center" : "Advance Counseling Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69696445736236",
+    "latitude" : "41.8184808650583",
+    "human_address" : "{\"address\":\"4125 Archer Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60632\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-296-3220",
+  "zip_code" : "60657",
+  "address" : "938 W Nelson St",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Advocate Healthcare Clean Start",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Medicaid, Third Party, Sliding Scale ",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65299616653981",
+    "latitude" : "41.93725942129826",
+    "human_address" : "{\"address\":\"938 Nelson St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60657\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 100 ",
+  "phone_number" : "312-957-7602",
+  "zip_code" : "60607",
+  "address" : "1016 W Jackson Blvd ",
+  "service_modalities" : "DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Agape Headquarters",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65237075114024",
+    "latitude" : "41.877929273004014",
+    "human_address" : "{\"address\":\"1016 Jackson Blvd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-283-3121",
+  "zip_code" : "60634",
+  "address" : "5146 W Belmont ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Alcohol Drug Safety Intervention, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.80204000000003",
+    "latitude" : "41.94567999999998",
+    "human_address" : "{\"address\":\"5146 Belmont\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60634\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-327-9921 x123",
+  "zip_code" : "60657",
+  "address" : "825 W Wellington St",
+  "service_modalities" : "RH",
+  "treatment_center" : "Alexian Brothers Bonaventure House",
+  "state" : "Illinois",
+  "population_served" : "Adult Women, HIV/AIDS, Gay & Lesbian",
+  "payment_method" : "Self Payment, Sliding Scale ",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64980291751327",
+    "latitude" : "41.936293838518154",
+    "human_address" : "{\"address\":\"825 Wellington St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60657\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-777-8636",
+  "zip_code" : "60629",
+  "address" : "5906 S Troy St",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Alliance Behavioral Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70218516474658",
+    "latitude" : "41.78610155401181",
+    "human_address" : "{\"address\":\"5906 Troy St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60629\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-506-7474",
+  "zip_code" : "60640",
+  "address" : "4730 N Sheridan Rd",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Alternatives, Incorporated",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65482024450336",
+    "latitude" : "41.968169045266336",
+    "human_address" : "{\"address\":\"4730 Sheridan Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-883-9100",
+  "zip_code" : "60613",
+  "address" : "4081 N BRdway St  ",
+  "service_modalities" : "Level 1",
+  "treatment_center" : "American Indian Health Services",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65913",
+    "latitude" : "41.95436000000001",
+    "human_address" : "{\"address\":\"4081 BRdway St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60613\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 402",
+  "phone_number" : "773-549-0208",
+  "zip_code" : "60614",
+  "address" : "2001 N Clybourn Ave ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Anixter Center Outpatient Services",
+  "state" : "Illinois",
+  "population_served" : "Adults with Disabilities",
+  "payment_method" : "Medicaid, Third Party, Sliding Scale, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65893362327762",
+    "latitude" : "41.91773902388309",
+    "human_address" : "{\"address\":\"2001 Clybourn Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60614\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 301 & 401 ",
+  "phone_number" : "773-227-8562",
+  "zip_code" : "60614",
+  "address" : "2001 N Clybourn Ave  ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "Anixter Center Addiction Recovery for the Deaf",
+  "state" : "Illinois",
+  "population_served" : "Adults, Deaf/Hearing Impaired",
+  "payment_method" : "Third Party, Sliding Scale, Client Fee, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65893362327762",
+    "latitude" : "41.91773902388309",
+    "human_address" : "{\"address\":\"2001 Clybourn Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60614\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-522-2010",
+  "zip_code" : "60608",
+  "address" : "1401 S California Ave    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Anixter Center/Schwab Rehabilitation Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6957271614759",
+    "latitude" : "41.86256415785734",
+    "human_address" : "{\"address\":\"1401 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-667-2100",
+  "zip_code" : "60649",
+  "address" : "1818 E 71st St   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Annie B Jones Community Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58096528297118",
+    "latitude" : "41.766228967035765",
+    "human_address" : "{\"address\":\"1818 71st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-379-6984",
+  "zip_code" : "60644",
+  "address" : "4944 W Huron St ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Ashunti Residential Management Systems, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74997750842357",
+    "latitude" : "41.89310263548066",
+    "human_address" : "{\"address\":\"4944 Huron St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60644\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Ste 700   ",
+  "phone_number" : "773-293-8437",
+  "zip_code" : "60640",
+  "address" : "4753 N BRdway",
+  "service_modalities" : "Level 1",
+  "treatment_center" : "Asian Human Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66115999999994",
+    "latitude" : "41.971839999999986",
+    "human_address" : "{\"address\":\"4753 BRdway\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-772-8009",
+  "zip_code" : "60651",
+  "address" : "1116 N Kedzie Ave",
+  "service_modalities" : "Level 1 & 2, DUI Services ",
+  "treatment_center" : "Association House of Chicago",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents Services in English & Spanish",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.706795718495",
+    "latitude" : "41.90152511582621",
+    "human_address" : "{\"address\":\"1116 Kedzie Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60651\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 203-204",
+  "phone_number" : "773-293-1770",
+  "zip_code" : "60625",
+  "address" : "4765 N Lincoln Ave ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Avance Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Third Party, Client Fee, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68805023117436",
+    "latitude" : "41.96799144727349",
+    "human_address" : "{\"address\":\"4765 Lincoln Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60625\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-296-3220",
+  "zip_code" : "60657",
+  "address" : "938 W Nelson St",
+  "service_modalities" : "Level 1 & 2,   DUI Risk Education",
+  "treatment_center" : "Behavioral Health Services at APIMMC",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Client Fee    Medicaid    Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65299616653981",
+    "latitude" : "41.93725942129826",
+    "human_address" : "{\"address\":\"938 Nelson St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60657\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 509",
+  "phone_number" : "773-725-8140",
+  "zip_code" : "60649",
+  "address" : "4001 W Devon Ave ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Bilingual DUI Counseling & Clinical Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72892150039317",
+    "latitude" : "41.99718958035763",
+    "human_address" : "{\"address\":\"4001 Devon Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-722-7900 x4052",
+  "zip_code" : "60612",
+  "address" : "9 S Kedzie Ave  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Bobby E. Wright CBHC Additions Program",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale, Medicaid, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70603806886054",
+    "latitude" : "41.881199470082755",
+    "human_address" : "{\"address\":\"9 Kedzie Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite B",
+  "phone_number" : "773-488-9460",
+  "zip_code" : "60621",
+  "address" : "7122 S Vincennes Ave     ",
+  "service_modalities" : "Level 1 & 2,    DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Bridging the Tys to Jordan, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6281754622328",
+    "latitude" : "41.76506032828062",
+    "human_address" : "{\"address\":\"7122 Vincennes Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-434-5526",
+  "zip_code" : "60629",
+  "address" : "6525 S Campbell Ave ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Brighter, Behavior, Choices, Inc. NFP",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.685963766378",
+    "latitude" : "41.77478782930598",
+    "human_address" : "{\"address\":\"6525 Campbell Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60629\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-261-1421",
+  "zip_code" : "60644",
+  "address" : "300 N Central Ave                  ",
+  "service_modalities" : "DUI Services",
+  "treatment_center" : "Campaign for a Drug-free Westside, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults ",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76505913885495",
+    "latitude" : "41.88592604568686",
+    "human_address" : "{\"address\":\"300 Central Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60644\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-850-9411",
+  "zip_code" : "60607",
+  "address" : "140 N Ashland Ave",
+  "service_modalities" : "Level 1 & 2, Methadone Maintenance",
+  "treatment_center" : "Caritas Central Intake",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66689813935682",
+    "latitude" : "41.88446015077909",
+    "human_address" : "{\"address\":\"140 Ashland Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-997-2222",
+  "zip_code" : "60612",
+  "address" : "1668 W Ogden    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Cathedral Shelter of Chicago Adult Outpatient Program",
+  "state" : "Illinois",
+  "population_served" : "Adults ",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66859684831577",
+    "latitude" : "41.87941556466699",
+    "human_address" : "{\"address\":\"1668 Ogden\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-266-0404 x200",
+  "zip_code" : "60610",
+  "address" : "609 N Wells St   ",
+  "service_modalities" : "Level 1, Methadone Maintenance,  Ambulatory Detox",
+  "treatment_center" : "Center for Addictive Problems",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Third Party, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6341259712158",
+    "latitude" : "41.89664411742152",
+    "human_address" : "{\"address\":\"609 Wells St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60610\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "9th floor",
+  "phone_number" : "312-948-6001",
+  "zip_code" : "60602",
+  "address" : "69 W Washington St  ",
+  "service_modalities" : "DUI Evaluation",
+  "treatment_center" : "Central States Institute of Addiction",
+  "state" : "Illinois",
+  "population_served" : "Adults ",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62549597749528",
+    "latitude" : "41.88316426359813",
+    "human_address" : "{\"address\":\"69 Washington St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60602\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Room 100 A",
+  "phone_number" : "312-655-7530",
+  "zip_code" : "60661",
+  "address" : "651 W Lake St ",
+  "service_modalities" : "DUI Evaluation",
+  "treatment_center" : "Central States Institute of Addiction",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64444214580742",
+    "latitude" : "41.88563739917868",
+    "human_address" : "{\"address\":\"651 Lake St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60661\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-869-5641",
+  "zip_code" : "60608",
+  "address" : "2800 S California Ave",
+  "service_modalities" : "Ambulatory Detox,    Methadone Services",
+  "treatment_center" : "Cermak Health Services of Cook County",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69520304769682",
+    "latitude" : "41.84132405201849",
+    "human_address" : "{\"address\":\"2800 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "708-652-6500",
+  "zip_code" : "60804",
+  "address" : "5635 W Roosevelt Rd   ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "Chicago Treatment & Counseling Centers, Inc. ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76567686321175",
+    "latitude" : "41.86551956538324",
+    "human_address" : "{\"address\":\"5635 Roosevelt Rd\",\"city\":\"Cicero\",\"state\":\"ILLINOIS\",\"zip\":\"60804\"}"
+  },
+  "city" : "Cicero"
+}
+, {
+  "phone_number" : "312-738-3200",
+  "zip_code" : "60608",
+  "address" : "1223-1225 S Ashland Ave  ",
+  "service_modalities" : "Level 1, DUI Evaluation, DUI Risk Education, Methadone Maintenance, Buprenorphine",
+  "treatment_center" : "Chicago Treatment & Counseling Centers, Inc. I",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67099999999999",
+    "latitude" : "41.84863999999999",
+    "human_address" : "{\"address\":\"1223 1225 S Ashland Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-506-2900",
+  "zip_code" : "60640",
+  "address" : "4453 N BRdway Ave   ",
+  "service_modalities" : "Methadone Maintenance, Buprenorphine",
+  "treatment_center" : "Chicago Treatment & Counseling Centers, Inc. II",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66115999999994",
+    "latitude" : "41.971839999999986",
+    "human_address" : "{\"address\":\"4453 BRdway Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "708-656-9500",
+  "zip_code" : "60804",
+  "address" : "1849 S Cicero Ave  ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "Chicago Treatment & Counseling Centers, Inc. III ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74434940624535",
+    "latitude" : "41.85586222796403",
+    "human_address" : "{\"address\":\"1849 Cicero Ave\",\"city\":\"Cicero\",\"state\":\"ILLINOIS\",\"zip\":\"60804\"}"
+  },
+  "city" : "Cicero"
+}
+, {
+  "phone_number" : "773-233-4100",
+  "zip_code" : "60628",
+  "address" : "9718 S Halsted St ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Christian Community Health Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64324771017796",
+    "latitude" : "41.717605382918876",
+    "human_address" : "{\"address\":\"9718 Halsted St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-533-5600",
+  "zip_code" : "60612",
+  "address" : "2815 W Fifth Ave  ",
+  "service_modalities" : "Level 1 & 2,  DUI Services",
+  "treatment_center" : "Christian Community Health Center/Foot Prints",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69698046123693",
+    "latitude" : "41.8808898423228",
+    "human_address" : "{\"address\":\"2815 Fifth Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-769-0205",
+  "zip_code" : "60640",
+  "address" : "4740 N Clark St               ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Community Counseling Centers",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid,          3rd Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66729384104974",
+    "latitude" : "41.967980187640194",
+    "human_address" : "{\"address\":\"4740 Clark St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-765-0810",
+  "zip_code" : "60660",
+  "address" : "5691 N Ridge Ave  ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Community Counseling Center of Chicago",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid,     Self-Pay",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66292693926722",
+    "latitude" : "41.985462240397844",
+    "human_address" : "{\"address\":\"5691 Ridge Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60660\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-633-3838",
+  "zip_code" : "60612",
+  "address" : "121 N Campbell Ave     ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Community Counseling Centers of Chgo. Westside Adult",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68862294909326",
+    "latitude" : "41.883534381835766",
+    "human_address" : "{\"address\":\"121 Campbell Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-734-4033",
+  "zip_code" : "60617",
+  "address" : "8704 S Constance Ave   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Community Mental Health Council, Inc. MISA Outpatient Services",
+  "state" : "Illinois",
+  "population_served" : "Adults ",
+  "payment_method" : "Client Fee, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.57933115336391",
+    "latitude" : "41.73672852102601",
+    "human_address" : "{\"address\":\"8704 Constance Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60617\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-572-4820",
+  "zip_code" : "60612",
+  "address" : "2020 W Harrison St   ",
+  "service_modalities" : "Level 1",
+  "treatment_center" : "Cook County Bureau of Health Services The Core Center",
+  "state" : "Illinois",
+  "population_served" : "Adult Persons w/ HIV/AIDS",
+  "payment_method" : "Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67701132399912",
+    "latitude" : "41.87407884521311",
+    "human_address" : "{\"address\":\"2020 Harrison St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-909-2424",
+  "zip_code" : "60628",
+  "address" : "103 W 112th St   ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Cornerstone Recovering Community",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale, Medicaid, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62596100058312",
+    "latitude" : "41.69071920600703",
+    "human_address" : "{\"address\":\"103 112th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-821-8608",
+  "zip_code" : "60628",
+  "address" : "44 W 112th Pl  ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Cornerstone Recovering Community",
+  "state" : "Illinois",
+  "population_served" : "Adult Male",
+  "payment_method" : "Sliding Scale, Medicaid, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62471993618266",
+    "latitude" : "41.68983787041827",
+    "human_address" : "{\"address\":\"44 112th Pl\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-909-2424",
+  "zip_code" : "60628",
+  "address" : "110011 S Wentworth Ave              ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Cornerstone Recovering Community",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61517000000003",
+    "latitude" : "41.691100000000006",
+    "human_address" : "{\"address\":\"110011 Wentworth Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-821-8608",
+  "zip_code" : "60628",
+  "address" : "28 W 113th Pl",
+  "service_modalities" : "Level 1, 2, & 3.5",
+  "treatment_center" : "Cornerstone Recovering Community",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6240274582201",
+    "latitude" : "41.688030233139386",
+    "human_address" : "{\"address\":\"28 113th Pl\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-777-6767",
+  "zip_code" : "60630",
+  "address" : "4515 N Milwaukee St  ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Counseling Center of Illinois Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adult Male",
+  "payment_method" : "Third Party, Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75628018475894",
+    "latitude" : "41.962816691930115",
+    "human_address" : "{\"address\":\"4515 Milwaukee St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60630\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-549-5886 x332",
+  "zip_code" : "60657",
+  "address" : "3225 N Sheffield Ave  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Counseling Center of Lakeview",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents Bilingual Services",
+  "payment_method" : "Sliding Scale, Medicaid, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65404624016026",
+    "latitude" : "41.94035413784783",
+    "human_address" : "{\"address\":\"3225 Sheffield Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60657\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 201 ",
+  "phone_number" : "773-826-0398",
+  "zip_code" : "60624",
+  "address" : "3936 W Roosevelt Rd ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Deer Rehabilitation Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72417595940294",
+    "latitude" : "41.86616794070312",
+    "human_address" : "{\"address\":\"3936 Roosevelt Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60624\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 2     ",
+  "phone_number" : "773-581-1970",
+  "zip_code" : "60629",
+  "address" : "5935 S Pulaski Rd  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "DUI Alternatives Treatment Center, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72289892212137",
+    "latitude" : "41.7847523173906",
+    "human_address" : "{\"address\":\"5935 Pulaski Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60629\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Ste. 103 ",
+  "phone_number" : "773-463-0500",
+  "zip_code" : "60618",
+  "address" : "2656 W Montrose Ave",
+  "service_modalities" : "Level 1 & 2,    DUI Services",
+  "treatment_center" : "DUI Alternatives Treatment Center, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69580624039354",
+    "latitude" : "41.961328302784246",
+    "human_address" : "{\"address\":\"2656 Montrose Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60618\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Unit 3 ",
+  "zip_code" : "60638",
+  "address" : "6950 W Archer Ave ",
+  "service_modalities" : "Level 1 & 2,  DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "DUI Community Counseling, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contract Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.79555755681483",
+    "latitude" : "41.79215325043743",
+    "human_address" : "{\"address\":\"6950 Archer Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60638\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " Suite 15 ",
+  "phone_number" : "773-289-4841",
+  "zip_code" : "60647",
+  "address" : "3411 W Diversey Ave  ",
+  "service_modalities" : "Level 1 & 2, DUI Services ",
+  "treatment_center" : "DUI Counseling Center At The Diversey Kimball Building",
+  "state" : "Illinois",
+  "population_served" : "Adults, Bilingual Spanish",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71296947565615",
+    "latitude" : "41.93191571233773",
+    "human_address" : "{\"address\":\"3411 Diversey Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 2",
+  "phone_number" : "773-254-9122",
+  "zip_code" : "60632",
+  "address" : "4059 W 47th St   ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "DUI Counseling Center Bayrach Counseling Services",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72527998000733",
+    "latitude" : "41.80778848693755",
+    "human_address" : "{\"address\":\"4059 47th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60632\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " Suite 210 ",
+  "phone_number" : "773-271-4858",
+  "zip_code" : "60625",
+  "address" : "2334 W Lawrence St   ",
+  "service_modalities" : "Level 1,    DUI Services",
+  "treatment_center" : "DUI Counseling Center DUI Counseling Services at Lawrence",
+  "state" : "Illinois",
+  "population_served" : "Adult Spanish & English Speaking",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6878967049362",
+    "latitude" : "41.9686698620092",
+    "human_address" : "{\"address\":\"2334 Lawrence St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60625\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-731-5395",
+  "zip_code" : "60631",
+  "address" : "7506 North Harlem Ave   ",
+  "service_modalities" : "Level 1 & 2,    DUI Services",
+  "treatment_center" : "DUI-Metropolitan Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment, Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.80666095539324",
+    "latitude" : "42.017241640932475",
+    "human_address" : "{\"address\":\"7506 Harlem Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60631\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-481-9750",
+  "zip_code" : "60634",
+  "address" : "6254 W Addison St",
+  "service_modalities" : "Level 1 & 2,    DUI Services",
+  "treatment_center" : "DUI-Metropolitan Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.78271261800715",
+    "latitude" : "41.94577099345542",
+    "human_address" : "{\"address\":\"6254 Addison St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60634\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-443-9400",
+  "zip_code" : "60602",
+  "address" : "111 N Wabash   ",
+  "service_modalities" : "Level 1 & 2,    DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "DUI Professional Providers, Inc. ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62615019895455",
+    "latitude" : "41.88349965585711",
+    "human_address" : "{\"address\":\"111 Wabash\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60602\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-490-4357",
+  "zip_code" : "60613",
+  "address" : "4108 N Sheridan Rd               ",
+  "service_modalities" : "Level 1 & 2,       DUI Services",
+  "treatment_center" : "DUI Rehabilitation Center Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65461340043657",
+    "latitude" : "41.95698147922184",
+    "human_address" : "{\"address\":\"4108 Sheridan Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60613\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-276-0200 x226",
+  "zip_code" : "60647",
+  "address" : "3809 W Grand Ave   ",
+  "service_modalities" : "Level 1 & 2, Methadone, Gambling Counseling,     DUI Services",
+  "treatment_center" : "El Rincon Community Clinic",
+  "state" : "Illinois",
+  "population_served" : "Adults Primarily Hispanic",
+  "payment_method" : "Sliding Scale, Medicaid, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72179542543023",
+    "latitude" : "41.90426659094039",
+    "human_address" : "{\"address\":\"3809 Grand Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-994-8353",
+  "zip_code" : "60636",
+  "address" : "1236 W 72nd Pl  ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Elite House of Sober Living, Inc",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65547674958475",
+    "latitude" : "41.76229624631901",
+    "human_address" : "{\"address\":\"1236 72nd Pl\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor  ",
+  "phone_number" : "773-224-7386",
+  "zip_code" : "60619",
+  "address" : "110 E 79th",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Emages, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee, Third Party, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.621170035909",
+    "latitude" : "41.7510567153199",
+    "human_address" : "{\"address\":\"110 79th\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 400 ",
+  "phone_number" : "773-487-3398",
+  "zip_code" : "60619",
+  "address" : "200 E 75th St ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Enhanced Clinical Solutions Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61878441078926",
+    "latitude" : "41.75833922939006",
+    "human_address" : "{\"address\":\"200 75th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-943-6545",
+  "zip_code" : "60610",
+  "address" : "310 W Chicago Ave   ",
+  "service_modalities" : "Level 1 & 2, Methadone Maintenance",
+  "treatment_center" : "Family Guidance Centers Inc. ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment, Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61983705097956",
+    "latitude" : "41.896861495493845",
+    "human_address" : "{\"address\":\"310 Chicago Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60610\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-487-4310",
+  "zip_code" : "60620",
+  "address" : "8014 S Ashland Ave    ",
+  "service_modalities" : "Methadone Clients Only",
+  "treatment_center" : "Fola Community Action Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66337279700195",
+    "latitude" : "41.74794306673135",
+    "human_address" : "{\"address\":\"8014 Ashland Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60620\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-374-8165",
+  "zip_code" : "60621",
+  "address" : "6212 S Sangamon St   ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Forever Free Program ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64852064421453",
+    "latitude" : "41.78136561906347",
+    "human_address" : "{\"address\":\"6212 Sangamon St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-533-0433",
+  "zip_code" : "60624",
+  "address" : "4132 W Madison St   ",
+  "service_modalities" : "Methadone Services",
+  "treatment_center" : "Garfield Counseling Center Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults, Bilingual Spanish",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72949994581643",
+    "latitude" : "41.88068299825602",
+    "human_address" : "{\"address\":\"4132 Madison St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60624\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-862-2279",
+  "zip_code" : "60651",
+  "address" : "4301 W Grand Ave    ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Gateway Foundation Alcohol & Drug Treatment/Chicago Northwest",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73405051528465",
+    "latitude" : "41.90920049980514",
+    "human_address" : "{\"address\":\"4301 Grand Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60651\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-826-1916 x2893",
+  "zip_code" : "60624",
+  "address" : "3828 W Taylor St    ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "Gateway Foundation Alcohol & Drug Treatment/Chicago West",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents MISA",
+  "payment_method" : "Medicaid, DASA, Drug Court",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72097998128257",
+    "latitude" : "41.868998982848034",
+    "human_address" : "{\"address\":\"3828 Taylor St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60624\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-869-7892",
+  "zip_code" : "60608",
+  "address" : "3026 S California Ave              ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Gateway Foundation, Inc./ Cook County Sheriff DCSI",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6951327218215",
+    "latitude" : "41.838739576099925",
+    "human_address" : "{\"address\":\"3026 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-227-2158",
+  "zip_code" : "60647",
+  "address" : "1706 N Kedzie Ave    ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Gateway Foundation Alcohol & Drug Treatment/Kedzie",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70688356291178",
+    "latitude" : "41.9121347729336",
+    "human_address" : "{\"address\":\"1706 Kedzie Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 400",
+  "phone_number" : "312-222-1075",
+  "zip_code" : "60610",
+  "address" : "505 N LaSalle St ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Gutierrez and Associates",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Third Party, Client Fee, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63700999999998",
+    "latitude" : "41.90442000000013",
+    "human_address" : "{\"address\":\"505 LaSalle St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60610\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-338-9999",
+  "zip_code" : "60626",
+  "address" : "6924 N Glenwood Ave   ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "GW & Associates A Wellness Organization",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66619986921974",
+    "latitude" : "42.00740242766424",
+    "human_address" : "{\"address\":\"6924 Glenwood Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60626\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-854-1812",
+  "zip_code" : "60644",
+  "address" : "415 S Kilpatrick St   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Habilitative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Contact Provider",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74304785078974",
+    "latitude" : "41.888409593720866",
+    "human_address" : "{\"address\":\"415 Kilpatrick St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60644\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor",
+  "phone_number" : "773-722-7148",
+  "zip_code" : "60624",
+  "address" : "4207 W Carroll Ave ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Hand-n-Hand Outreach Not for Profit",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "No Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73108275258795",
+    "latitude" : "41.88693328635969",
+    "human_address" : "{\"address\":\"4207 Carroll Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60624\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-874-3774",
+  "zip_code" : "60619",
+  "address" : "7249 S Saint Lawrence Ave  ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Hardin House",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61032179049357",
+    "latitude" : "41.76253007004664",
+    "human_address" : "{\"address\":\"7249 Saint Lawrence Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-731-5395",
+  "zip_code" : "60619",
+  "address" : "936 E 63rd St ",
+  "service_modalities" : "Level 1 & 2,     DUI Services",
+  "treatment_center" : "Hardin House/Drexel Counseling Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "No Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6475112967094",
+    "latitude" : "41.77981252054381",
+    "human_address" : "{\"address\":\"936 63rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor ",
+  "phone_number" : "773-252-3100",
+  "zip_code" : "60612",
+  "address" : "121 N Campbell Ave ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "HAS/Illinois Department of Corrections, ATC, Westside ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68862294909326",
+    "latitude" : "41.883534381835766",
+    "human_address" : "{\"address\":\"121 Campbell Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-686-6480",
+  "zip_code" : "60666",
+  "address" : "O’Hare International Airport                 PO Box 66243   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Haymarket Center-O-Hare Outreach",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "No Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.90499",
+    "latitude" : "41.975490000000036",
+    "human_address" : "{\"address\":\"66243 Chicago\",\"city\":\"ILLINOIS\",\"state\":\"\",\"zip\":\"60666\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-943-3534",
+  "zip_code" : "60610",
+  "address" : "867 N Dearborn St    ",
+  "service_modalities" : "Level 1 & 2,   RH",
+  "treatment_center" : "Hazelden Chicago",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62974543802676",
+    "latitude" : "41.89855975752733",
+    "human_address" : "{\"address\":\"867 Dearborn St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60610\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-292-4242",
+  "zip_code" : "60647",
+  "address" : "1942 N California Ave    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Healthcare Alternative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee, Sliding Scale, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69718730530366",
+    "latitude" : "41.916961648918004",
+    "human_address" : "{\"address\":\"1942 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-869-3590",
+  "zip_code" : "60608",
+  "address" : "3026 S California Ave               ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Healthcare Alternative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6951327218215",
+    "latitude" : "41.838739576099925",
+    "human_address" : "{\"address\":\"3026 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-745-7107",
+  "zip_code" : "60639",
+  "address" : "5005 W Fullerton Ave    ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Healthcare Alternative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents Bilingual Spanish, Domestic Violence Services",
+  "payment_method" : "Sliding Scale, Client Fee, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75139371111973",
+    "latitude" : "41.924153523187925",
+    "human_address" : "{\"address\":\"5005 Fullerton Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60639\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-782-4734",
+  "zip_code" : "60647",
+  "address" : "1866 N Milwaukee Ave     ",
+  "service_modalities" : "RH ",
+  "treatment_center" : "Healthcare Alternative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults, Bilingual Spanish",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68528028163576",
+    "latitude" : "41.91544179468849",
+    "human_address" : "{\"address\":\"1866 Milwaukee Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-252-3100 x159",
+  "zip_code" : "60647",
+  "address" : "2755 W Armitage Ave    ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Healthcare Alternative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, State Funded, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69680059683105",
+    "latitude" : "41.917510235355905",
+    "human_address" : "{\"address\":\"2755 Armitage Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-254-5141 x237",
+  "zip_code" : "60609",
+  "address" : "4534 S Western Ave    ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Healthcare Alternative Systems Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, State Funded, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68448887824997",
+    "latitude" : "41.81102151386648",
+    "human_address" : "{\"address\":\"4534 Western Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60609\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-252-2666",
+  "zip_code" : "60647",
+  "address" : "1949 N Humboldt Blvd  ",
+  "service_modalities" : "Level 3 Inpatient Sub-acute",
+  "treatment_center" : "Healthcare Alternative Systems Inc. – Residential",
+  "state" : "Illinois",
+  "population_served" : "Adult (M only), Primarily Hispanic",
+  "payment_method" : "Client Fee, Sliding Scale, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70171988833135",
+    "latitude" : "41.917060574341235",
+    "human_address" : "{\"address\":\"1949 Humboldt Blvd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-948-0200",
+  "zip_code" : "60607",
+  "address" : "210 S Ashland Ave      ",
+  "service_modalities" : "Level 1,    Ambulatory Detox,       Methadone,  DUI Risk Education",
+  "treatment_center" : "Healthcare Alternative Systems, Inc./NEXA",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.667036259375",
+    "latitude" : "41.885810096963056",
+    "human_address" : "{\"address\":\"210 Ashland Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 500  ",
+  "phone_number" : "773-751-4103",
+  "zip_code" : "60640",
+  "address" : "4750 N Sheridan Rd ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Heartland Health Outreach Pathways Home Outpatient",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65481125128304",
+    "latitude" : "41.968429848654864",
+    "human_address" : "{\"address\":\"4750 Sheridan Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "3rd Floor  ",
+  "phone_number" : "773-751-4000",
+  "zip_code" : "60640",
+  "address" : "4411 N Ravenswood Ave     ",
+  "service_modalities" : "Level 1&2, HH",
+  "treatment_center" : "Heartland Human Care Services Inc. Rafael Center",
+  "state" : "Illinois",
+  "population_served" : "Adults, HIV/AIDS, Gay & Lesbian",
+  "payment_method" : "Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67396681050712",
+    "latitude" : "41.961945736823566",
+    "human_address" : "{\"address\":\"4411 Ravenswood Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-225-1982",
+  "zip_code" : "60616",
+  "address" : "2850 S Michigan Ave  ",
+  "service_modalities" : "Level 1,           DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Henry Booth House Family Health Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62362863748717",
+    "latitude" : "41.842663407158184",
+    "human_address" : "{\"address\":\"2850 Michigan Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60616\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-752-1300",
+  "zip_code" : "60637",
+  "address" : "6634 S  Drexel  ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Henry’s Sober Living House",
+  "state" : "Illinois",
+  "population_served" : "Adult Men",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60343650923532",
+    "latitude" : "41.77432293660677",
+    "human_address" : "{\"address\":\"6634 Drexel\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60637\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-488-1716",
+  "zip_code" : "60621",
+  "address" : "7143 S Harvard Ave ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Henry’s Sober Living House",
+  "state" : "Illinois",
+  "population_served" : "Adult Men",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63339839376539",
+    "latitude" : "41.76412187003848",
+    "human_address" : "{\"address\":\"7143 Harvard Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-752-1300",
+  "zip_code" : "60619",
+  "address" : "8032 S Ingleside Ave                 ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Henry’s Sober Living House",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60146346850496",
+    "latitude" : "41.748509639609836",
+    "human_address" : "{\"address\":\"8032 Ingleside Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-752-1300",
+  "zip_code" : "60619",
+  "address" : "8032-8034 S Ingleside St    ",
+  "service_modalities" : "HH",
+  "treatment_center" : "Henry’s Sober Living House",
+  "state" : "Illinois",
+  "population_served" : "Adults, Men Only",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60523",
+    "latitude" : "41.74405000000007",
+    "human_address" : "{\"address\":\"8032 8034 S Ingleside St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-521-8442",
+  "zip_code" : "60623",
+  "address" : "1207 S Central Park Ave          ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Hope House of Chicago, INC.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7153127629121",
+    "latitude" : "41.86607272060229",
+    "human_address" : "{\"address\":\"1207 Central Park Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60623\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-388-1600",
+  "zip_code" : "60613",
+  "address" : "4025 N Sheridan Rd  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Howard Brown Health Center",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents, Primarily Gay and Lesbian",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65455944111483",
+    "latitude" : "41.95519182838353",
+    "human_address" : "{\"address\":\"4025 Sheridan Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60613\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-869-0300",
+  "zip_code" : "60615",
+  "address" : "340 E 51st St    ",
+  "service_modalities" : "Level 1 & 2, Methadone Maintenance",
+  "treatment_center" : "HRDI – Brass I",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61823296238566",
+    "latitude" : "41.80214606889609",
+    "human_address" : "{\"address\":\"340 51st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60615\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-994-2708",
+  "zip_code" : "60620",
+  "address" : "8000 S Racine Ave    ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "HRDI – BRASS II",
+  "state" : "Illinois",
+  "population_served" : "Adults ",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65369609196671",
+    "latitude" : "41.74856359893158",
+    "human_address" : "{\"address\":\"8000 Racine Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60620\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-933-5570",
+  "zip_code" : "60617",
+  "address" : "2311 E 98th St    ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "HRDI – Chicago Girls Program",
+  "state" : "Illinois",
+  "population_served" : "Adolescent Girls",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56756335223437",
+    "latitude" : "41.7164389525862",
+    "human_address" : "{\"address\":\"2311 98th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60617\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Divisions 6 and 7 ",
+  "phone_number" : "773-869-7631",
+  "zip_code" : "60608",
+  "address" : "2700 S California Ave        ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "HRDI – Impact Incarceration Program",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69523416534639",
+    "latitude" : "41.84246762564018",
+    "human_address" : "{\"address\":\"2700 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-226-6989",
+  "zip_code" : "60608",
+  "address" : "2207 W 18th St    ",
+  "service_modalities" : "Level 3 Adult Inpatient Sub-acute ",
+  "treatment_center" : "HRDI – Near West",
+  "state" : "Illinois",
+  "population_served" : "Adult Men",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68122433928357",
+    "latitude" : "41.85758840854362",
+    "human_address" : "{\"address\":\"2207 18th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-660-4630",
+  "zip_code" : "60628",
+  "address" : "33 E 114th St   ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "HRDI – SW Opioid Treatment Program",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62427027516804",
+    "latitude" : "41.68712191788978",
+    "human_address" : "{\"address\":\"33 114th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-651-2720",
+  "zip_code" : "60636",
+  "address" : "1223 W Marquette Rd   ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "HRDI – Women’s Program Essence House",
+  "state" : "Illinois",
+  "population_served" : "Adults ",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65520467800908",
+    "latitude" : "41.77225778755886",
+    "human_address" : "{\"address\":\"1223 Marquette Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-785-4955",
+  "zip_code" : "60628",
+  "address" : "11352 S State St  ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "HRDI-Harriet Tubman Women & Children Treatment Facility Residential Program",
+  "state" : "Illinois",
+  "population_served" : "Adult Women w/Children under age 5",
+  "payment_method" : "Sliding Scale, Medicaid, Client Fee, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62303064001726",
+    "latitude" : "41.687713571702524",
+    "human_address" : "{\"address\":\"11352 State St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-684-8422",
+  "zip_code" : "60649",
+  "address" : "1950 E 75th St  ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "IJEGBA Community, Inc. ICI",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.57654325507309",
+    "latitude" : "41.75886083616706",
+    "human_address" : "{\"address\":\"1950 75th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 614  ",
+  "phone_number" : "773-684-8507",
+  "zip_code" : "60615",
+  "address" : "1525 E 53rd St ",
+  "service_modalities" : "Level 1 & 2,    DUI Services",
+  "treatment_center" : "Indiana Avenue DUI Service",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58825242789453",
+    "latitude" : "41.79956415121319",
+    "human_address" : "{\"address\":\"1525 53rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60615\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-248-6628",
+  "zip_code" : "60618",
+  "address" : "2001 W Addison  ",
+  "service_modalities" : "DUI Risk Education",
+  "treatment_center" : "Intervention Instruction, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67857903352147",
+    "latitude" : "41.94680875505363",
+    "human_address" : "{\"address\":\"2001 Addison\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60618\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 06  ",
+  "phone_number" : "773-252-2877",
+  "zip_code" : "60624",
+  "address" : "3200-3206 W Fulton St ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Jack Clarks Family Recovering Community Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72311000000002",
+    "latitude" : "41.88020000000006",
+    "human_address" : "{\"address\":\"3200 3206 W Fulton St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60624\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 17 ",
+  "phone_number" : "773-252-2877",
+  "zip_code" : "60647",
+  "address" : "2915-2917 W Armitage St  ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Jack Clarks Family Recovering Community Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70218999999997",
+    "latitude" : "41.92115000000007",
+    "human_address" : "{\"address\":\"2915 2917 W Armitage St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-324-5500",
+  "zip_code" : "60637",
+  "address" : "370 E 63rd St  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "King Drive Counseling Assessment and Referral Services Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61656277643596",
+    "latitude" : "41.78026916833027",
+    "human_address" : "{\"address\":\"370 63rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60637\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-268-7600",
+  "zip_code" : "60653",
+  "address" : "4259 South Berkeley          ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Komed/Holman Health Center",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60053927346164",
+    "latitude" : "41.81735944565127",
+    "human_address" : "{\"address\":\"4259 Berkeley\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60653\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "847-695-9155",
+  "zip_code" : "60659",
+  "address" : "2608 W Petersen Ave    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Latino Treatment Center Chicago",
+  "state" : "Illinois",
+  "population_served" : "Adult Primarily Hispanic",
+  "payment_method" : "Medicaid, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69499295955217",
+    "latitude" : "41.99046323837268",
+    "human_address" : "{\"address\":\"2608 Petersen Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60659\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-778-4983",
+  "zip_code" : "60620",
+  "address" : "8036 S Western Ave          ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Le Penseur Youth and Family Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68277117317399",
+    "latitude" : "41.747178643006464",
+    "human_address" : "{\"address\":\"8036 Western Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60620\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Unit 3 ",
+  "phone_number" : "773-294-3788",
+  "zip_code" : "60629",
+  "address" : "3801 W 63rd St  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Living Trees Center, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.717925475368",
+    "latitude" : "41.778671233708316",
+    "human_address" : "{\"address\":\"3801 63rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60629\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-854-5445",
+  "zip_code" : "60644",
+  "address" : "645 S Central Ave   ",
+  "service_modalities" : "Level 1, 2, & 4, DUI Services",
+  "treatment_center" : "Loretto Hospital",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76530195580284",
+    "latitude" : "41.892437137179",
+    "human_address" : "{\"address\":\"645 Central Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60644\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 104",
+  "phone_number" : "773-826-3450",
+  "zip_code" : "60651",
+  "address" : "800 N Kedzie Ave ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Louise Landau Health Center      Near North Center",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70662316075853",
+    "latitude" : "41.89560700223869",
+    "human_address" : "{\"address\":\"800 Kedzie Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60651\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-981-0174",
+  "zip_code" : "60626",
+  "address" : "1710 W Lunt Ave            ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Lutheran Social Services",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67266988863483",
+    "latitude" : "42.00905080426533",
+    "human_address" : "{\"address\":\"1710 Lunt Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60626\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-637-0487",
+  "zip_code" : "60634",
+  "address" : "5825 W Belmont Ave   ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Lutheran Social Services of Illinois – Behavioral Health Services",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77232566085166",
+    "latitude" : "41.93849141829946",
+    "human_address" : "{\"address\":\"5825 Belmont Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60634\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-764-4350",
+  "zip_code" : "60660",
+  "address" : "1758 W Devon Ave    ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Lutheran Social Services of Illinois – Behavioral Health Services/Edgewater",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67406945689305",
+    "latitude" : "41.998075176418624",
+    "human_address" : "{\"address\":\"1758 Devon Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60660\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-338-5105",
+  "zip_code" : "60626",
+  "address" : "1640 W Morse Ave    ",
+  "service_modalities" : "Level 3.5, Residential Extended Care",
+  "treatment_center" : "Lutheran Social Services of Illinois – Men’s Residence North",
+  "state" : "Illinois",
+  "population_served" : "Adult Men",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67091288937732",
+    "latitude" : "42.007872801013555",
+    "human_address" : "{\"address\":\"1640 Morse Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60626\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-933-0666",
+  "zip_code" : "60649",
+  "address" : "7843 S Essex Ave    ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Lutheran Social Services of Illinois – Men’s Residence South",
+  "state" : "Illinois",
+  "population_served" : "Adult Men",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56378187547728",
+    "latitude" : "41.75231377179375",
+    "human_address" : "{\"address\":\"7843 Essex Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " 1st Floor",
+  "phone_number" : "773-275-7962 x214",
+  "zip_code" : "60640",
+  "address" : "5517 N Kenmore ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Lutheran Social Services of Illinois – North Kenmore Outpatient",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale  Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65635484233647",
+    "latitude" : "41.982193678773385",
+    "human_address" : "{\"address\":\"5517 Kenmore\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "3rd floor ",
+  "phone_number" : "773-275-7962 ",
+  "zip_code" : "60640",
+  "address" : "5517 N Kenmore ",
+  "service_modalities" : "Level 3.5,  Residential Extended Care",
+  "treatment_center" : "Lutheran Social Services of Illinois – Women's Residence",
+  "state" : "Illinois",
+  "population_served" : "Adult Women",
+  "payment_method" : "Sliding Scale Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65635484233647",
+    "latitude" : "41.982193678773385",
+    "human_address" : "{\"address\":\"5517 Kenmore\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-871-4717",
+  "zip_code" : "60613",
+  "address" : "3717 N Ravenswood Ave    ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Magnolia House Counseling Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67360873216133",
+    "latitude" : "41.94909423004712",
+    "human_address" : "{\"address\":\"3717 Ravenswood Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60613\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-226-7984",
+  "zip_code" : "60607",
+  "address" : "120 N Sangamon St    ",
+  "service_modalities" : "RH, Level 3.2D & 3.5",
+  "treatment_center" : "McDermott Center/Haymarket Center ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Sliding Scale, Self Payment ",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65078228859176",
+    "latitude" : "41.87966676436292",
+    "human_address" : "{\"address\":\"120 Sangamon St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-226-7984 x508",
+  "zip_code" : "60607",
+  "address" : "108 N Sangamon St    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "McDermott Center/Haymarket Center IOP",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Sliding Scale, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65096580330675",
+    "latitude" : "41.88334691324832",
+    "human_address" : "{\"address\":\"108 Sangamon St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st, 2nd & 4th Floor",
+  "phone_number" : "312-226-7984",
+  "zip_code" : "60607",
+  "address" : "120 N Sangamon St  ",
+  "service_modalities" : "Detox Medically monitored",
+  "treatment_center" : "McDermott Center/Haymarket",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65078228859176",
+    "latitude" : "41.87966676436292",
+    "human_address" : "{\"address\":\"120 Sangamon St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " Buillding C, 2nd floor",
+  "phone_number" : "312-226-7984",
+  "zip_code" : "60607",
+  "address" : "124 N Sangamon ",
+  "service_modalities" : "Medically monitored Detox,         Level 1 & 2,     RH",
+  "treatment_center" : "McDermott Center/Haymarket",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale  Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65096918475757",
+    "latitude" : "41.88376959460208",
+    "human_address" : "{\"address\":\"124 Sangamon\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "6th Floor  ",
+  "phone_number" : "312-226-7984 x520",
+  "zip_code" : "60607",
+  "address" : "932 W Washington Blvd    ",
+  "service_modalities" : "RH, Level 3.5",
+  "treatment_center" : "McDermott Center/Haymarket Center MATER Hall",
+  "state" : "Illinois",
+  "population_served" : "Women & Pregnant Women, Children under age 5",
+  "payment_method" : "Medicaid, Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65125892926733",
+    "latitude" : "41.88305720841339",
+    "human_address" : "{\"address\":\"932 Washington Blvd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "6th floor  ",
+  "phone_number" : "312-226-7984 x525",
+  "zip_code" : "60607",
+  "address" : "124 N Sangamon St  ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "McDermott Center/Haymarket Center Marovitz Manor",
+  "state" : "Illinois",
+  "population_served" : "Adult Women and their  Children under age 5",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65096918475757",
+    "latitude" : "41.88376959460208",
+    "human_address" : "{\"address\":\"124 Sangamon St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-226-7984 x411",
+  "zip_code" : "60607",
+  "address" : "108 N Sangamon St    ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "McDermott Center/Haymarket Center MISA",
+  "state" : "Illinois",
+  "population_served" : "MISA, Adults",
+  "payment_method" : "Medicaid, Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65096580330675",
+    "latitude" : "41.88334691324832",
+    "human_address" : "{\"address\":\"108 Sangamon St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-226-7984",
+  "zip_code" : "60615",
+  "address" : "106 East 51st St  ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "McDermott Center/Haymarket",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Medicaid   Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62255595283924",
+    "latitude" : "41.80205833592972",
+    "human_address" : "{\"address\":\"106 51st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60615\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "4th Floor",
+  "phone_number" : "312-567-2000",
+  "zip_code" : "60616",
+  "address" : "2525 S Michigan Ave ",
+  "service_modalities" : "Level 1, 2, & 4",
+  "treatment_center" : "Mercy Hospital & Medical Center – Alcoholism & Drug Dependency Program",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62355981076485",
+    "latitude" : "41.84680553741231",
+    "human_address" : "{\"address\":\"2525 Michigan Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60616\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-447-4500",
+  "zip_code" : "60605",
+  "address" : "1521 S Wabash Ave         ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Mercy Housing Lakefront/South Loop Apartments",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62557641139145",
+    "latitude" : "41.86125169095953",
+    "human_address" : "{\"address\":\"1521 Wabash Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60605\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-892-3155",
+  "zip_code" : "60621",
+  "address" : "7225 S Yale Ave  ",
+  "service_modalities" : "RH",
+  "treatment_center" : "“N” The Spirit Transformational Living",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee ",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63094324462543",
+    "latitude" : "41.76273691411336",
+    "human_address" : "{\"address\":\"7225 Yale Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-337-1073",
+  "zip_code" : "60610",
+  "address" : "1276 N Clybourn St    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Near North Health Service Corporation – Winfield Moody Health Center",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "DASA Funded, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64171153413521",
+    "latitude" : "41.9052579817265",
+    "human_address" : "{\"address\":\"1276 Clybourn St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60610\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-542-1150 x113",
+  "zip_code" : "60623",
+  "address" : "1330 S Kostner Ave    ",
+  "service_modalities" : "Level 1 &2,   DUI Services, Methadone Maintenance",
+  "treatment_center" : "New Age Services Corporation",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73494292756084",
+    "latitude" : "41.863626714106466",
+    "human_address" : "{\"address\":\"1330 Kostner Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60623\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 201  ",
+  "phone_number" : "773-737-9555",
+  "zip_code" : "60652",
+  "address" : "2559 W 79th St   ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "New Hope Community Service Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68701296854948",
+    "latitude" : "41.74993869817763",
+    "human_address" : "{\"address\":\"2559 79th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60652\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 407",
+  "phone_number" : "773-883-3916",
+  "zip_code" : "60614",
+  "address" : "2451 N Lincoln Ave",
+  "service_modalities" : "Level 2, & Day Treatment",
+  "treatment_center" : "New Hope Recovery Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65030564791624",
+    "latitude" : "41.92655741497066",
+    "human_address" : "{\"address\":\"2451 Lincoln Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60614\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-883-3912",
+  "zip_code" : "60657",
+  "address" : "2835 N Sheffield Ave",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "New Hope Recovery Center, LLC",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65382199705084",
+    "latitude" : "41.93378796408621",
+    "human_address" : "{\"address\":\"2835 Sheffield Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60657\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-338-8913",
+  "zip_code" : "60626",
+  "address" : "1771 W Greenleaf Ave  ",
+  "service_modalities" : "DUI Services",
+  "treatment_center" : "Northwestern Counseling Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fees",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67480989367077",
+    "latitude" : "42.01013440691068",
+    "human_address" : "{\"address\":\"1771 Greenleaf Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60626\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-723-2790",
+  "zip_code" : "60619",
+  "address" : "659 E 75th St  ",
+  "service_modalities" : "Level 1 & 2,  Methadone Srv Ambulatory Detox",
+  "treatment_center" : "Nuway Community Services, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Self-Pay  Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60855115348092",
+    "latitude" : "41.75846610250935",
+    "human_address" : "{\"address\":\"659 75th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-772-2450",
+  "zip_code" : "60614",
+  "address" : "2260 N Elston Ave    ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "PDSSC/Chicago Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.674112040166",
+    "latitude" : "41.9226735286397",
+    "human_address" : "{\"address\":\"2260 Elston Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60614\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " Suite 203",
+  "phone_number" : "773-851-9361",
+  "zip_code" : "60621",
+  "address" : "326 W 64th St ",
+  "service_modalities" : "DUI Evaluation",
+  "treatment_center" : "People Overwhelmed, Inc. ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6333390385115",
+    "latitude" : "41.778161150374615",
+    "human_address" : "{\"address\":\"326 64th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-277-3413",
+  "zip_code" : "60623",
+  "address" : "3113 W Cermak Rd   ",
+  "service_modalities" : "DUI Services, Methadone Maintenance",
+  "treatment_center" : "Pilsen Wellness Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70344658662759",
+    "latitude" : "41.851778788234355",
+    "human_address" : "{\"address\":\"3113 Cermak Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60623\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor ",
+  "phone_number" : "773-579-0832",
+  "zip_code" : "60608",
+  "address" : "2319 S Damen Ave ",
+  "service_modalities" : "Level 1 & 2,  DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Pilsen Wellness Center",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67569383410755",
+    "latitude" : "41.8498034719765",
+    "human_address" : "{\"address\":\"2319 Damen Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-586-9511",
+  "zip_code" : "60638",
+  "address" : "6814 W Archer Ave    ",
+  "service_modalities" : "Level 1,        DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Polish American Addictions Counseling, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adult",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.79238953532536",
+    "latitude" : "41.792162730912025",
+    "human_address" : "{\"address\":\"6814 Archer Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60638\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-282-8206 x354",
+  "zip_code" : "60655",
+  "address" : "3834 N Cicero Ave   ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Polish American Association Starting Point",
+  "state" : "Illinois",
+  "population_served" : "Adults, Bilingual Polish",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74729334082684",
+    "latitude" : "41.95072611202765",
+    "human_address" : "{\"address\":\"3834 Cicero Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60655\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-239-2830",
+  "zip_code" : "60655",
+  "address" : "10435 S Kedzie Ave   ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Prevention Classes Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70118919361747",
+    "latitude" : "41.703701184116724",
+    "human_address" : "{\"address\":\"10435 Kedzie Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60655\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-282-7000",
+  "zip_code" : "60634",
+  "address" : "5645 W Addison   ",
+  "service_modalities" : "Level 1 & 2,      DUI Services",
+  "treatment_center" : "Procare Centers In Our Lady of Resurrection        ",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Client Fee,    Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76783890402876",
+    "latitude" : "41.94580801994825",
+    "human_address" : "{\"address\":\"5645 Addison\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60634\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor ",
+  "phone_number" : "773-744-7163",
+  "zip_code" : "60637",
+  "address" : "6620 S Evans Ave",
+  "service_modalities" : " RH",
+  "treatment_center" : "Prosperity House, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fees",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60704825830692",
+    "latitude" : "41.77423924286808",
+    "human_address" : "{\"address\":\"6620 Evans Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60637\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-783-3579",
+  "zip_code" : "60619",
+  "address" : "626 E 71st St    ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "Renewed Hope Community Services",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60928757015989",
+    "latitude" : "41.76582158867387",
+    "human_address" : "{\"address\":\"626 71st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60619\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 2110  ",
+  "phone_number" : "847-493-3700",
+  "zip_code" : "60603",
+  "address" : "8 S Michigan Ave  ",
+  "service_modalities" : "Level 1 & 2, DUI Services",
+  "treatment_center" : "Resurrection Addiction Services – Chicago Loop",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment ",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62454995441514",
+    "latitude" : "41.88199849964541",
+    "human_address" : "{\"address\":\"8 Michigan Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60603\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "6th Floor  ",
+  "phone_number" : "847-493-3500",
+  "zip_code" : "60657",
+  "address" : "2913 N Commonwealth Ave ",
+  "service_modalities" : "Level 1&2, Buprenorphine DUI Services",
+  "treatment_center" : "Resurrection Addiction Services – Lincoln Park Professionals Program",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63790617143272",
+    "latitude" : "41.934516219502854",
+    "human_address" : "{\"address\":\"2913 Commonwealth Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60657\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-770-2590",
+  "zip_code" : "60622",
+  "address" : "1431 N Claremont Ave  ",
+  "service_modalities" : "Level 1 & 2,    DUI Services",
+  "treatment_center" : "Resurrection Behavioral Health at St. Mary",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68584461561728",
+    "latitude" : "41.90754955583677",
+    "human_address" : "{\"address\":\"1431 Claremont Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60622\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-468-8000",
+  "zip_code" : "60628",
+  "address" : "439 E 103rd St    ",
+  "service_modalities" : "Level 1, DUI Services",
+  "treatment_center" : "Rosemoor Assessment Substance Abuse Program Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61215640743336",
+    "latitude" : "41.70734767032877",
+    "human_address" : "{\"address\":\"439 103rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-533-5000",
+  "zip_code" : "60624",
+  "address" : "3210 W Arthington St   ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Safer Foundation Crossroads A.T.C.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70609804113444",
+    "latitude" : "41.87009657385446",
+    "human_address" : "{\"address\":\"3210 Arthington St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60624\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-638-8480",
+  "zip_code" : "60612",
+  "address" : "2839 W Fillmore St  ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Safer Foundation/North Lawndale ATC    ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69732954741238",
+    "latitude" : "41.868241993295115",
+    "human_address" : "{\"address\":\"2839 Fillmore St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-421-5753 x7642",
+  "zip_code" : "60607",
+  "address" : "1515 W Monroe St  ",
+  "service_modalities" : "Level 1 & 3.5",
+  "treatment_center" : "Salvation Army Harbor Light Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66475834891565",
+    "latitude" : "41.88014140595551",
+    "human_address" : "{\"address\":\"1515 Monroe St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "2nd Floor",
+  "phone_number" : "773-994-8244",
+  "zip_code" : "60621",
+  "address" : "6857 S Halsted St ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Sky is the Limit Recovery Facilities Inc., NFP",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents, Criminal Justice",
+  "payment_method" : "Medicaid, Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64451401404756",
+    "latitude" : "41.76898720221698",
+    "human_address" : "{\"address\":\"6857 Halsted St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Ground Floor  ",
+  "phone_number" : "773-778-7164",
+  "zip_code" : "60629",
+  "address" : "2615 W 63rd St ",
+  "service_modalities" : "Level 1 & 2  Methadone, Methadone Services,          DUI Services,   DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Sky is the Limit Recovery Facility",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale  Medicaid    Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68913241629882",
+    "latitude" : "41.77911271562359",
+    "human_address" : "{\"address\":\"2615 63rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60629\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-731-9100 x232",
+  "zip_code" : "60617",
+  "address" : "8640 S Chicago Ave    ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "South East Alcohol & Drug Abuse Center (SEADAC)",
+  "state" : "Illinois",
+  "population_served" : "Adults, Bilingual Spanish",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.55551000000003",
+    "latitude" : "41.712690000000066",
+    "human_address" : "{\"address\":\"8640 Chicago Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60617\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-356-5098",
+  "zip_code" : "60617",
+  "address" : "8012 S Crandon Ave    ",
+  "service_modalities" : "Level 4",
+  "treatment_center" : "South Shore Hospital Medical Detox",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56872445520536",
+    "latitude" : "41.74962249661854",
+    "human_address" : "{\"address\":\"8012 Crandon Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60617\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-375-1900",
+  "zip_code" : "60649",
+  "address" : "2619 E 75th St   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "South Shore Lakefront, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56094370487548",
+    "latitude" : "41.75900342880513",
+    "human_address" : "{\"address\":\"2619 75th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60649\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-737-4600",
+  "zip_code" : "60636",
+  "address" : "5701 S Wood St    ",
+  "service_modalities" : "Level 3.7D ",
+  "treatment_center" : "Southwood Interventions",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66927815924298",
+    "latitude" : "41.79027482889277",
+    "human_address" : "{\"address\":\"5701 Wood St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-737-4600",
+  "zip_code" : "60636",
+  "address" : "5701 S Wood St   ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "Southwood Interventions Men’s Program",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66927815924298",
+    "latitude" : "41.79027482889277",
+    "human_address" : "{\"address\":\"5701 Wood St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-737-4600",
+  "zip_code" : "60636",
+  "address" : "5701 S Wood St   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Southwood Interventions Outpatient ",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66927815924298",
+    "latitude" : "41.79027482889277",
+    "human_address" : "{\"address\":\"5701 Wood St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-737-4600",
+  "zip_code" : "60636",
+  "address" : "5701 S Wood St   ",
+  "service_modalities" : "Level 3.5",
+  "treatment_center" : "Southwood Interventions Women’s Short-term & City Women",
+  "state" : "Illinois",
+  "population_served" : "Adult Women",
+  "payment_method" : "Homeless Initiative, Medicaid, Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66927815924298",
+    "latitude" : "41.79027482889277",
+    "human_address" : "{\"address\":\"5701 Wood St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60636\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-808-3218",
+  "zip_code" : "60616",
+  "address" : "2101 S Indiana Ave   ",
+  "service_modalities" : "Level 1 & 2, Methadone Maintenance ",
+  "treatment_center" : "Specialized Assistance Services NFP",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid, Self Payment, Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62222881416153",
+    "latitude" : "41.85419796449315",
+    "human_address" : "{\"address\":\"2101 Indiana Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60616\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-738-1414",
+  "zip_code" : "60612",
+  "address" : "2100 W Warren Blvd   ",
+  "service_modalities" : "RH",
+  "treatment_center" : "St. Leonard’s Ministries",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67917724294068",
+    "latitude" : "41.882256032261914",
+    "human_address" : "{\"address\":\"2100 Warren Blvd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " Suite 101A ",
+  "phone_number" : "773-285-0804",
+  "zip_code" : "60653",
+  "address" : "400 E 41st St   ",
+  "service_modalities" : "DUI Services",
+  "treatment_center" : "State of Mind Mental Health & Consultations Services PC",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.614539610811",
+    "latitude" : "41.82024855788711",
+    "human_address" : "{\"address\":\"400 41st St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60653\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "3rd Floor ",
+  "phone_number" : "773-784-1111",
+  "zip_code" : "60640",
+  "address" : "4545 N Broadway   ",
+  "service_modalities" : "Methadone Maintenance",
+  "treatment_center" : "Sundance Methadone Treatment Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65662967912286",
+    "latitude" : "41.96440388215173",
+    "human_address" : "{\"address\":\"4545 Broadway\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Room 107         ",
+  "phone_number" : "773-376-0950",
+  "zip_code" : "60608",
+  "address" : "2600 S California     ",
+  "service_modalities" : "Assessment, Referral, Case Management",
+  "treatment_center" : "TASC, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "No Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69525540910641",
+    "latitude" : "41.844680709253666",
+    "human_address" : "{\"address\":\"2600 California\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-738-8933",
+  "zip_code" : "60608",
+  "address" : "2320 W Roosevelt Rd  ",
+  "service_modalities" : "Assessment, Referral, Case Management, Winners Circle, Recovery Coach",
+  "treatment_center" : "TASC, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "No Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68447552015982",
+    "latitude" : "41.86669893588726",
+    "human_address" : "{\"address\":\"2320 Roosevelt Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-666-7339",
+  "zip_code" : "60612",
+  "address" : "1100 S Hamilton ",
+  "service_modalities" : "Referral and Assessment ",
+  "treatment_center" : "TASC, Inc. Area 01 - JJS",
+  "state" : "Illinois",
+  "population_served" : "Adolescents",
+  "payment_method" : "No Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6803420903127",
+    "latitude" : "41.86750484184664",
+    "human_address" : "{\"address\":\"1100 Hamilton\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-995-6300",
+  "zip_code" : "60628",
+  "address" : "1029 E 130th St",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "TCA Health Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60267546778017",
+    "latitude" : "41.65909562521194",
+    "human_address" : "{\"address\":\"1029 130th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60628\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite C-10",
+  "phone_number" : "312-929-4234",
+  "zip_code" : "60642",
+  "address" : "700 N Green St",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "The Chicago Center for Recovery & Empowerment, NFP",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64889371233028",
+    "latitude" : "41.89528798801189",
+    "human_address" : "{\"address\":\"700 Green St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60642\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor",
+  "phone_number" : "773-573-0879",
+  "zip_code" : "60638",
+  "address" : "5612 W 63rd St  ",
+  "service_modalities" : "Level 1 & 2,  DUI Evaluation,  DUI Risk Education",
+  "treatment_center" : "The Gate to Recovery  & Alternative Community",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Contact Agency ",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76233419310614",
+    "latitude" : "41.77803438183173",
+    "human_address" : "{\"address\":\"5612 63rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60638\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 1310   ",
+  "phone_number" : "312-263-1131",
+  "zip_code" : "60602",
+  "address" : "111 W Washington    ",
+  "service_modalities" : "Level 1 & 2,    DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "The IDS Group, Inc.-Chicago",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63125673949573",
+    "latitude" : "41.88316876833485",
+    "human_address" : "{\"address\":\"111 Washington\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60602\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Division 3 Cook County Jail  ",
+  "phone_number" : "773-869-2590",
+  "zip_code" : "60608",
+  "address" : "2700 S California Ave ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "The McDermott Center/ Haymarket",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69523416534639",
+    "latitude" : "41.84246762564018",
+    "human_address" : "{\"address\":\"2700 California Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60608\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 612                   ",
+  "phone_number" : "773-506-2839",
+  "zip_code" : "60640",
+  "address" : "4573 N Broadway                    ",
+  "service_modalities" : "Level 1 & 2, DUI Risk Education",
+  "treatment_center" : "The McDermott Center/ Haymarket",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65695333229225",
+    "latitude" : "41.96489902319449",
+    "human_address" : "{\"address\":\"4573 Broadway\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60640\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor",
+  "phone_number" : "312-572-4505",
+  "zip_code" : "60612",
+  "address" : "2020 W Harrison St ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "The Ruth Rothstein Core Center",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Medicaid  Third Party",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67701132399912",
+    "latitude" : "41.87407884521311",
+    "human_address" : "{\"address\":\"2020 Harrison St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "708-345-8422",
+  "zip_code" : "60634",
+  "address" : "3821 N  Harlem Ave   ",
+  "service_modalities" : "Level 1 & 2,    DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "The Way Back Inn",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale  VA",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.80710861981339",
+    "latitude" : "41.94983178833224",
+    "human_address" : "{\"address\":\"3821 Harlem Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60634\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-633-5219",
+  "zip_code" : "60612",
+  "address" : "136 N Western Ave      ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "The Wells Center IYC",
+  "state" : "Illinois",
+  "population_served" : "Adolescents",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6865608330082",
+    "latitude" : "41.883629912134225",
+    "human_address" : "{\"address\":\"136 Western Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60612\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-508-6100",
+  "zip_code" : "60626",
+  "address" : "1400 W Greenleaf Ave   ",
+  "service_modalities" : "Level 1",
+  "treatment_center" : "Trilogy, Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adult MISA",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66641250546104",
+    "latitude" : "42.010347248440496",
+    "human_address" : "{\"address\":\"1400 Greenleaf Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60626\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-261-1421",
+  "zip_code" : "60644",
+  "address" : "1350 W 103rd St               ",
+  "service_modalities" : "Level 1",
+  "treatment_center" : "Universal Family Connection Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents",
+  "payment_method" : "Sliding Scale, Medicaid",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5914591777071",
+    "latitude" : "41.707745597700736",
+    "human_address" : "{\"address\":\"1350 103rd St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60644\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "Suite 1403 ",
+  "phone_number" : "312-493-3530",
+  "zip_code" : "60603",
+  "address" : "8 S Michigan Ave ",
+  "service_modalities" : "Level 1,          DUI Evaluation, DUI Risk Education",
+  "treatment_center" : "Wendy Stebbins Counseling Centers",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Client Fee",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62454995441514",
+    "latitude" : "41.88199849964541",
+    "human_address" : "{\"address\":\"8 Michigan Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60603\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " Division 4 ",
+  "phone_number" : "773-869-7744",
+  "zip_code" : "60623",
+  "address" : "2717 S Sacramento Ave ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Westcare Cook County Jail Impact Program",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70003548601109",
+    "latitude" : "41.84372621020267",
+    "human_address" : "{\"address\":\"2717 Sacramento Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60623\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : "1st Floor",
+  "phone_number" : "773-378-3623",
+  "zip_code" : "60644",
+  "address" : "4619 W Harrison St",
+  "service_modalities" : "Level 1, Methadone Maintenance",
+  "treatment_center" : "Windows of Opportunity Rehabilitation Service Inc.",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Self Payment",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74042346916545",
+    "latitude" : "41.873177509423556",
+    "human_address" : "{\"address\":\"4619 Harrison St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60644\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "312-850-0050",
+  "zip_code" : "60607",
+  "address" : "140 N Ashland Ave    ",
+  "service_modalities" : "Level 1, 2 & 3.5, 3.7D, RH, Methadone Maintenance",
+  "treatment_center" : "Women’s Treatment Center",
+  "state" : "Illinois",
+  "population_served" : "Adult Women, Children under age of 5",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66689813935682",
+    "latitude" : "41.88446015077909",
+    "human_address" : "{\"address\":\"140 Ashland Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60607\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-493-6116",
+  "zip_code" : "60637",
+  "address" : "1447 E 65th St   ",
+  "service_modalities" : "Level 1, 2, 3.2 & 3.5",
+  "treatment_center" : "Woodlawn Organization Substance Abuse Services/Entry House",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58939136941076",
+    "latitude" : "41.77687090411069",
+    "human_address" : "{\"address\":\"1447 65th St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60637\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-874-7120",
+  "zip_code" : "60621",
+  "address" : "7120 S Normal Blvd   ",
+  "service_modalities" : "RH",
+  "treatment_center" : "Y.A.N.A. House ",
+  "state" : "Illinois",
+  "population_served" : "Adults",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63708561408555",
+    "latitude" : "41.76465247003574",
+    "human_address" : "{\"address\":\"7120 Normal Blvd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60621\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "suite_floor_number" : " 3rd Floor",
+  "phone_number" : "773-446-6244",
+  "zip_code" : "60609",
+  "address" : "5114 S Elizabeth St ",
+  "service_modalities" : "Level 1 & 2 ",
+  "treatment_center" : "Youth Outreach Services",
+  "state" : "Illinois",
+  "population_served" : "Adolescents",
+  "payment_method" : "Contact Agency",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65634328760791",
+    "latitude" : "41.801117296742646",
+    "human_address" : "{\"address\":\"5114 Elizabeth St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60609\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-777-7112",
+  "zip_code" : "60651",
+  "address" : "5912 W Division St   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Youth Outreach Services – Austin ",
+  "state" : "Illinois",
+  "population_served" : "Adolescents, Bilingual Spanish",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77341849202169",
+    "latitude" : "41.902092823737895",
+    "human_address" : "{\"address\":\"5912 Division St\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60651\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-777-6377",
+  "zip_code" : "60634",
+  "address" : "6417 W Irving Park Rd   ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Youth Outreach Services – Irving Park",
+  "state" : "Illinois",
+  "population_served" : "Adolescents, Bilingual Spanish",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7869360037052",
+    "latitude" : "41.95284571074741",
+    "human_address" : "{\"address\":\"6417 Irving Park Rd\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60634\"}"
+  },
+  "city" : "Chicago"
+}
+, {
+  "phone_number" : "773-772-6270",
+  "zip_code" : "60647",
+  "address" : "3942 W North Ave ",
+  "service_modalities" : "Level 1 & 2",
+  "treatment_center" : "Youth Service Project Inc. ",
+  "state" : "Illinois",
+  "population_served" : "Adults & Adolescents Referred by Probation Only",
+  "payment_method" : "Sliding Scale",
+  "physical_address" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72547670645893",
+    "latitude" : "41.90995325018469",
+    "human_address" : "{\"address\":\"3942 North Ave\",\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"zip\":\"60647\"}"
+  },
+  "city" : "Chicago"
+}
+ ]

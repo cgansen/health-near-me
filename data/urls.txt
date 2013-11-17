@@ -1,0 +1,6 @@
+Flu Shot Clinics,http://data.cityofchicago.org/resource/g5vx-5vqf.json
+Licensed Substance Abuse Providers,http://data.cityofchicago.org/resource/9zqv-3uhs.json
+WIC Clinics,http://data.cityofchicago.org/resource/g85x-gwmp.json
+STI Specialty Clinic,http://data.cityofchicago.org/resource/ajzs-akmm.json
+Condom Distribution Sites,http://data.cityofchicago.org/resource/azpf-uc4s.json
+Mental Health Clinics,http://data.cityofchicago.org/resource/v56e-cy8y.json

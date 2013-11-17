@@ -1,0 +1,3106 @@
+[ {
+  "venue_type" : "Bakery",
+  "zip_code" : "60604",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62918574999969",
+    "latitude" : "41.87814431300046",
+    "human_address" : "{\"address\":\"47th &amp; State\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60604\"}"
+  },
+  "address" : "47th & State",
+  "name" : "Abundance Bakery",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70113441599966",
+    "latitude" : "41.91742251900047",
+    "human_address" : "{\"address\":\"2957 W. Armitage\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "2957 W. Armitage",
+  "name" : "Access Armitage",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60609",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66468052899967",
+    "latitude" : "41.79786113300048",
+    "human_address" : "{\"address\":\"5256 S. Ashland Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "5256 S. Ashland Ave.",
+  "name" : "Access Ashland",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60614",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65979715499964",
+    "latitude" : "41.918245277000494",
+    "human_address" : "{\"address\":\"2020 N. Clyborn Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60614\"}"
+  },
+  "address" : "2020 N. Clyborn Ave.",
+  "name" : "Access at Anixter Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60626",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67538887099965",
+    "latitude" : "42.01723590800049",
+    "human_address" : "{\"address\":\"7465 N. Clark St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "7465 N. Clark St.",
+  "name" : "Access at Saint Francis Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60616",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62331779899966",
+    "latitude" : "41.83562352500047",
+    "human_address" : "{\"address\":\"3241 S. Michigan Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60616\"}"
+  },
+  "address" : "3241 S. Michigan Ave.",
+  "name" : "Access At the Eye Instutute",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60620",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66327013499966",
+    "latitude" : "41.74381102300049",
+    "human_address" : "{\"address\":\"8234 S. Ashland Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "8234 S. Ashland Ave.",
+  "name" : "Access Auburn-Gresham",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60639",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77289021399969",
+    "latitude" : "41.909270706000484",
+    "human_address" : "{\"address\":\"5853 North Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "5853 North Ave.",
+  "name" : "Access Austin",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60624",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71204450799968",
+    "latitude" : "41.87540658800049",
+    "human_address" : "{\"address\":\"3435 W. Van Buren St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60624\"}"
+  },
+  "address" : "3435 W. Van Buren St.",
+  "name" : "Access Bethany",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60653",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60946890999969",
+    "latitude" : "41.80951737200047",
+    "human_address" : "{\"address\":\"654 E. 47th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "654 E. 47th St.",
+  "name" : "Access Booker",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60653",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60946890999969",
+    "latitude" : "41.80951737200047",
+    "human_address" : "{\"address\":\"654 E. 47th\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "654 E. 47th",
+  "name" : "Access Booker",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60617",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.54667068099968",
+    "latitude" : "41.74456000700047",
+    "human_address" : "{\"address\":\"8300 S. Brandon\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "8300 S. Brandon",
+  "name" : "Access Brandon",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67633949999964",
+    "latitude" : "41.83122218000045",
+    "human_address" : "{\"address\":\"3450 S. Archer Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "3450 S. Archer Ave.",
+  "name" : "Access Cabrini",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70532542499967",
+    "latitude" : "41.844552011000474",
+    "human_address" : "{\"address\":\"3204 W. 26th\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3204 W. 26th",
+  "name" : "Access Centro Medico",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71757028999968",
+    "latitude" : "41.84436033500049",
+    "human_address" : "{\"address\":\"3700 W. 26th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3700 W. 26th St.",
+  "name" : "Access Centro Medico",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60638",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77951803499968",
+    "latitude" : "41.79243370500046",
+    "human_address" : "{\"address\":\"6240 W. 55th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60638\"}"
+  },
+  "address" : "6240 W. 55th St.",
+  "name" : "Access Doctors Medical Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60626",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67036012799969",
+    "latitude" : "42.019370135000486",
+    "human_address" : "{\"address\":\"1555 W. Howard St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "1555 W. Howard St.",
+  "name" : "Access Evanston-Rogers Park",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60609",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63056029499967",
+    "latitude" : "41.79672037300048",
+    "human_address" : "{\"address\":\"5401 S. Wentworth Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "5401 S. Wentworth Ave.",
+  "name" : "Access Grand Boulevard",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60629",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69078611799966",
+    "latitude" : "41.76818075700049",
+    "human_address" : "{\"address\":\"2701 W. 69th Street, 3- South\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "2701 W. 69th Street, 3- South",
+  "name" : "Access Holy Cross",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70714098099967",
+    "latitude" : "41.910130309000465",
+    "human_address" : "{\"address\":\"3202 W. North Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "3202 W. North Ave.",
+  "name" : "Access Humboldt Park",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60632",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70437341299964",
+    "latitude" : "41.806782626000484",
+    "human_address" : "{\"address\":\"3213-21 W. 47th Place\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "address" : "3213-21 W. 47th Place",
+  "name" : "Access Kedzie",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69268236399967",
+    "latitude" : "41.86112360900046",
+    "human_address" : "{\"address\":\"2720 W. 15th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2720 W. 15th Street",
+  "name" : "Access Kling Professional Medical Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60624",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72114005999964",
+    "latitude" : "41.88079089500047",
+    "human_address" : "{\"address\":\"3800 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60624\"}"
+  },
+  "address" : "3800 W. Madison",
+  "name" : "Access Madison",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60653",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61454011299969",
+    "latitude" : "41.820251131000475",
+    "human_address" : "{\"address\":\"400 E. 41st Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "400 E. 41st Street",
+  "name" : "Access Medical Specialists",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60607",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65638355599964",
+    "latitude" : "41.86944657800046",
+    "human_address" : "{\"address\":\"1158 W. Taylor\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60607\"}"
+  },
+  "address" : "1158 W. Taylor",
+  "name" : "Access Near West",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71930103399967",
+    "latitude" : "41.85895836900045",
+    "human_address" : "{\"address\":\"3752 W. 16th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3752 W. 16th St.",
+  "name" : "Access Paul and Mimi Francis",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60659",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69672089199969",
+    "latitude" : "41.990480111000466",
+    "human_address" : "{\"address\":\"2655 W. Peterson St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60659\"}"
+  },
+  "address" : "2655 W. Peterson St.",
+  "name" : "Access Peterson",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68896620599969",
+    "latitude" : "41.851964800000474",
+    "human_address" : "{\"address\":\"2533 W. Cermak Rd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2533 W. Cermak Rd.",
+  "name" : "Access Plaza",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68839112499967",
+    "latitude" : "41.85197114200048",
+    "human_address" : "{\"address\":\"2507 W. Cermak Pd\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2507 W. Cermak Pd",
+  "name" : "Access Plaza Specialty Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66128014299966",
+    "latitude" : "41.85732005500046",
+    "human_address" : "{\"address\":\"1817 S. Loomis St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "1817 S. Loomis St.",
+  "name" : "Access Plisen",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70764896399965",
+    "latitude" : "41.84447316800049",
+    "human_address" : "{\"address\":\"3303 W. 26th\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3303 W. 26th",
+  "name" : "Access Servicios Medicos",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60609",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62594016899965",
+    "latitude" : "41.80281371400048",
+    "human_address" : "{\"address\":\"5050 S. State St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "5050 S. State St.",
+  "name" : "Access South State",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60638",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74460191199967",
+    "latitude" : "41.80757461200045",
+    "human_address" : "{\"address\":\"4839 S. 47th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60638\"}"
+  },
+  "address" : "4839 S. 47th St.",
+  "name" : "Access Southwest",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60609",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62617009899964",
+    "latitude" : "41.812930682000456",
+    "human_address" : "{\"address\":\"4501 S. State St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "4501 S. State St.",
+  "name" : "Access Taylor",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68691035999967",
+    "latitude" : "41.88209067000048",
+    "human_address" : "{\"address\":\"2409 W. Warren Blvd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "2409 W. Warren Blvd.",
+  "name" : "Access Warren",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60651",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73632022799967",
+    "latitude" : "41.902560966000465",
+    "human_address" : "{\"address\":\"4401 W. Division St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60651\"}"
+  },
+  "address" : "4401 W. Division St.",
+  "name" : "Access West Division",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60453",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73247808799965",
+    "latitude" : "41.72028523400047",
+    "human_address" : "{\"address\":\"4440 W. 95th St.\",\"city\":\"Oak Lawn\",\"state\":\"IL\",\"zip\":\"60453\"}"
+  },
+  "address" : "4440 W. 95th St.",
+  "name" : "Advocate Hope Children's Hospital",
+  "state" : "IL",
+  "city_" : "Oak Lawn"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60617",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56737686699967",
+    "latitude" : "41.726252538000494",
+    "human_address" : "{\"address\":\"2320 E. 93rd St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "2320 E. 93rd St.",
+  "name" : "Advocate Trinity Hospital",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60607",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66669582599968",
+    "latitude" : "41.87763260000048",
+    "human_address" : "{\"address\":\"1625 W. Jackson\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60607\"}"
+  },
+  "address" : "1625 W. Jackson",
+  "name" : "After Dark",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Church",
+  "zip_code" : "60629",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68619084399967",
+    "latitude" : "41.7683028350005",
+    "human_address" : "{\"address\":\"2508 W. 69th\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "2508 W. 69th",
+  "name" : "AGAPE",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60606",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63409088799966",
+    "latitude" : "41.8781210570005",
+    "human_address" : "{\"address\":\"200 W. Jackson, Suite 2200\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60606\"}"
+  },
+  "address" : "200 W. Jackson, Suite 2200",
+  "name" : "AIDS Foundation of Chicago",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65061000799966",
+    "latitude" : "41.85389086300046",
+    "human_address" : "{\"address\":\"966 W. 21st Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "966 W. 21st Street",
+  "name" : "Alivio Medial Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68553107799966",
+    "latitude" : "41.848520075000465",
+    "human_address" : "{\"address\":\"2355 S. Western\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2355 S. Western",
+  "name" : "Alivio Medical Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60265402199968",
+    "latitude" : "41.659122821000494",
+    "human_address" : "{\"address\":\"1029 E. 130th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "1029 E. 130th St.",
+  "name" : "Altgeld Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65166979399964",
+    "latitude" : "41.9564622850005",
+    "human_address" : "{\"address\":\"4081 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "4081 N. Broadway",
+  "name" : "American Indian Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60660",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66241635199964",
+    "latitude" : "41.990840721000495",
+    "human_address" : "{\"address\":\"1137 N. Grandville\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60660\"}"
+  },
+  "address" : "1137 N. Grandville",
+  "name" : "Anvil",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65943152799969",
+    "latitude" : "41.9685235390005",
+    "human_address" : "{\"address\":\"4733 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "4733 N. Broadway",
+  "name" : "Asian Human Services",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66829062999966",
+    "latitude" : "41.97969013900047",
+    "human_address" : "{\"address\":\"5355 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "5355 N. Clark",
+  "name" : "Atmosphere",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60653",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61784372899967",
+    "latitude" : "41.80940879600047",
+    "human_address" : "{\"address\":\"346 E. 47th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "346 E. 47th Street",
+  "name" : "At the Barbershop",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Hair Studio",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71766083099965",
+    "latitude" : "41.917249911000454",
+    "human_address" : "{\"address\":\"3627 W. Armitage\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "3627 W. Armitage",
+  "name" : "Attractions Hair Salon",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60615",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74591705199964",
+    "latitude" : "41.895018980000486",
+    "human_address" : "{\"address\":\"4800 W. Chicago Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "4800 W. Chicago Ave.",
+  "name" : "Austin CBC",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60643",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68078021799965",
+    "latitude" : "41.67966000700045",
+    "human_address" : "{\"address\":\"11740 S. Western\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "11740 S. Western",
+  "name" : "Beacon Therapeutic Diagnostic & Treatment Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64937015299967",
+    "latitude" : "41.94377004100045",
+    "human_address" : "{\"address\":\"3400 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3400 N. Halsted",
+  "name" : "Beattnix",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60609",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62686437599967",
+    "latitude" : "41.809199537000495",
+    "human_address" : "{\"address\":\"25 W. 47th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "25 W. 47th Street",
+  "name" : "Beethoven Health Center Friend Family Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65375154899965",
+    "latitude" : "41.93990653600048",
+    "human_address" : "{\"address\":\"954 W. Belmont\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "954 W. Belmont",
+  "name" : "Berlin",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.57593827399967",
+    "latitude" : "41.768001599000456",
+    "human_address" : "{\"address\":\"2014 E. 70th Place\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "2014 E. 70th Place",
+  "name" : "Better Yourself",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65500275099964",
+    "latitude" : "41.9739957380005",
+    "human_address" : "{\"address\":\"5024 N. Sheridan\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "5024 N. Sheridan",
+  "name" : "Big Chicks",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60610",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63453673499964",
+    "latitude" : "41.90699322900048",
+    "human_address" : "{\"address\":\"1349 N. Wells\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60610\"}"
+  },
+  "address" : "1349 N. Wells",
+  "name" : "Bijou",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar",
+  "zip_code" : "60643",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64612071599964",
+    "latitude" : "41.69557072200047",
+    "human_address" : "{\"address\":\"10911 S. Sangamon\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "10911 S. Sangamon",
+  "name" : "Bill\u0019s Blues",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Barber Shop",
+  "zip_code" : "60632",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72065033999968",
+    "latitude" : "41.80423095000049",
+    "human_address" : "{\"address\":\"3852 W. 49th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "address" : "3852 W. 49th St.",
+  "name" : "Black Jack's Barber Shop",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64942343499968",
+    "latitude" : "41.950181097000495",
+    "human_address" : "{\"address\":\"3729 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "3729 N. Halsted",
+  "name" : "Bobby Love",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60621",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63750049199967",
+    "latitude" : "41.77872057000047",
+    "human_address" : "{\"address\":\"6334 S. Normal\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "6334 S. Normal",
+  "name" : "Bridging the Gap",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Youth CBO",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64433501699966",
+    "latitude" : "41.93950692700048",
+    "human_address" : "{\"address\":\"3169 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3169 N. Broadway",
+  "name" : "Broadway Youth Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65092579899965",
+    "latitude" : "41.85273811100046",
+    "human_address" : "{\"address\":\"2150 S. Canalport #5B1\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2150 S. Canalport #5B1",
+  "name" : "Brother's Health",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60626",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67059726199966",
+    "latitude" : "41.998090008000474",
+    "human_address" : "{\"address\":\"5404 N.Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "5404 N.Clark",
+  "name" : "Brown Elephant Clark",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64901757999968",
+    "latitude" : "41.9327132680005",
+    "human_address" : "{\"address\":\"3651 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3651 N. Halsted",
+  "name" : "Brown Elephant Halsted",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56955039999968",
+    "latitude" : "41.766290900000456",
+    "human_address" : "{\"address\":\"2300 E. 71st. St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "2300 E. 71st. St.",
+  "name" : "B-Selfish",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60615",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61690576199965",
+    "latitude" : "41.79445491000047",
+    "human_address" : "{\"address\":\"365 E. 55th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "365 E. 55th Street",
+  "name" : "Cain's Barber College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60631",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.81369640799966",
+    "latitude" : "41.99509013700049",
+    "human_address" : "{\"address\":\"5038 W. Armitage\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60631\"}"
+  },
+  "address" : "5038 W. Armitage",
+  "name" : "CALOR",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Restaurant",
+  "zip_code" : "60639",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74716089999964",
+    "latitude" : "41.916920709000465",
+    "human_address" : "{\"address\":\"4825 W. Armitage Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "4825 W. Armitage Ave.",
+  "name" : "Cateteria Marianaos",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64945081199966",
+    "latitude" : "41.94929062500046",
+    "human_address" : "{\"address\":\"3702 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "3702 N. Halsted",
+  "name" : "Cell Block",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64948341199965",
+    "latitude" : "41.94882044800045",
+    "human_address" : "{\"address\":\"3656 North Halsted Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "3656 North Halsted Street",
+  "name" : "Center on Halsted",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69553058399964",
+    "latitude" : "41.8544405020005",
+    "human_address" : "{\"address\":\"2001 S. California, Suite 100\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2001 S. California, Suite 100",
+  "name" : "Centro De Salud Esperanza",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60653",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61270948899966",
+    "latitude" : "41.81843090300049",
+    "human_address" : "{\"address\":\"6216 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "6216 N. Clark",
+  "name" : "Centro Romero",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63161002399966",
+    "latitude" : "41.7070705000005",
+    "human_address" : "{\"address\":\"325 W. 103rd St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "325 W. 103rd St.",
+  "name" : "Chapaz School of Haircutting",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64885047299964",
+    "latitude" : "41.95000043200048",
+    "human_address" : "{\"address\":\"3726 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "3726 N. Broadway",
+  "name" : "Charlie's",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60651",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76362010199966",
+    "latitude" : "41.902161124000486",
+    "human_address" : "{\"address\":\"5471 W. Division\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60651\"}"
+  },
+  "address" : "5471 W. Division",
+  "name" : "Charlie's Lounge",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60617",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.53527115199967",
+    "latitude" : "41.70351109900048",
+    "human_address" : "{\"address\":\"10536 S. Ewing\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "10536 S. Ewing",
+  "name" : "Chicago Family Heaalth Center East Side",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60617",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.55255938899967",
+    "latitude" : "41.729452411000466",
+    "human_address" : "{\"address\":\"9119 S. Exchange\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "9119 S. Exchange",
+  "name" : "Chicago Family Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60629",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70442044299966",
+    "latitude" : "41.77802113500047",
+    "human_address" : "{\"address\":\"3233 W. 63rd\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "3233 W. 63rd",
+  "name" : "Chicago Family Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63710064999964",
+    "latitude" : "41.6851506320005",
+    "human_address" : "{\"address\":\"556 E. 115th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "556 E. 115th St.",
+  "name" : "Chicago Family Health Center Pullman",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62666097199968",
+    "latitude" : "41.69163106800045",
+    "human_address" : "{\"address\":\"120 W. 111th\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "120 W. 111th",
+  "name" : "Chicago Family Health Center Roseland",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67382336499969",
+    "latitude" : "41.871517364000454",
+    "human_address" : "{\"address\":\"1900 W. Polk, Rm 1112\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "1900 W. Polk, Rm 1112",
+  "name" : "Chicago HIV Risk Reduction Partnership for Youth",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60614",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65661807299966",
+    "latitude" : "41.91607414900045",
+    "human_address" : "{\"address\":\"1925 N Clybourn Ave., Suite 401\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60614\"}"
+  },
+  "address" : "1925 N Clybourn Ave., Suite 401",
+  "name" : "Chicago House and Social Service Agency",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70388002199968",
+    "latitude" : "41.86916090900047",
+    "human_address" : "{\"address\":\"3110 W. Taylor\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "3110 W. Taylor",
+  "name" : "Chicago Recovery Alliance",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "location" : {
+    "needs_recoding" : true,
+    "human_address" : "{\"address\":\"Check www.anypositivechange.org/slt.html for location information.\",\"city\":\".\",\"state\":\".\",\"zip\":\"\"}"
+  },
+  "address" : "Check www.anypositivechange.org/slt.html for location information.",
+  "name" : "Chicago Recovery Alliance",
+  "state" : ".",
+  "city_" : "."
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60660",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66049434199965",
+    "latitude" : "41.998030404000474",
+    "human_address" : "{\"address\":\"6363 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60660\"}"
+  },
+  "address" : "6363 N. Broadway",
+  "name" : "Chicago Women's AIDS Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56649843199966",
+    "latitude" : "41.76581060800049",
+    "human_address" : "{\"address\":\"2717 E. 71st Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "2717 E. 71st Street",
+  "name" : "Chicago Women's Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60643",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66478385299968",
+    "latitude" : "41.6901029280005",
+    "human_address" : "{\"address\":\"1701 W. Monterey Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "1701 W. Monterey Ave.",
+  "name" : "Christian Community Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60620",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69718928699967",
+    "latitude" : "41.880804035000494",
+    "human_address" : "{\"address\":\"2813-15 W. Fifth Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "2813-15 W. Fifth Ave.",
+  "name" : "Christian Community Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64319993299966",
+    "latitude" : "41.71723502800046",
+    "human_address" : "{\"address\":\"9718 S. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "9718 S. Halsted",
+  "name" : "Christian Community Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75032527299965",
+    "latitude" : "41.88048665100047",
+    "human_address" : "{\"address\":\"5002 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5002 W. Madison",
+  "name" : "Circle Family Care",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64945081199966",
+    "latitude" : "41.94856007800047",
+    "human_address" : "{\"address\":\"3641 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "3641 N. Halsted",
+  "name" : "Circuit",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64937015299967",
+    "latitude" : "41.94350040600045",
+    "human_address" : "{\"address\":\"3359 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3359 N. Halsted",
+  "name" : "Cocktail",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60618",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62862736199969",
+    "latitude" : "41.87310174400045",
+    "human_address" : "{\"address\":\"731 S. Plymouth Ct.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60618\"}"
+  },
+  "address" : "731 S. Plymouth Ct.",
+  "name" : "Columbia College Chicago",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65520956999967",
+    "latitude" : "41.96196331100049",
+    "human_address" : "{\"address\":\"4407 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "4407 N. Broadway",
+  "name" : "Community Outreach Intervention Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60617",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.55133051099966",
+    "latitude" : "41.73356032000049",
+    "human_address" : "{\"address\":\"8901 S. Commercial\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "8901 S. Commercial",
+  "name" : "Community Outreach Intervention Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60636",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66454964399969",
+    "latitude" : "41.77949079700045",
+    "human_address" : "{\"address\":\"1606 W. 63rd\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60636\"}"
+  },
+  "address" : "1606 W. 63rd",
+  "name" : "Community Outreach Intervention Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74415586599969",
+    "latitude" : "41.88054810200049",
+    "human_address" : "{\"address\":\"4754-56 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "4754-56 W. Madison",
+  "name" : "Community Outreach Intervention Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60651",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70654716299964",
+    "latitude" : "41.895594265000454",
+    "human_address" : "{\"address\":\"1612 N. Kedzie\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60651\"}"
+  },
+  "address" : "1612 N. Kedzie",
+  "name" : "Community Outreach Intervention Project",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67704176899969",
+    "latitude" : "41.8740540980005",
+    "human_address" : "{\"address\":\"2020 W. Harrison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "2020 W. Harrison",
+  "name" : "Core Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Restaurant",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65248909099967",
+    "latitude" : "41.954481617000454",
+    "human_address" : "{\"address\":\"909 W. Irving Park\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "909 W. Irving Park",
+  "name" : "Corona's CafÃ©",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56934633399965",
+    "latitude" : "41.76254109700045",
+    "human_address" : "{\"address\":\"1741 &Acirc;&frac12; E. 71st St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "1741 Â½ E. 71st St.",
+  "name" : "Cut It Out",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62300715199967",
+    "latitude" : "41.69259085400046",
+    "human_address" : "{\"address\":\"7500 S. Pulaski\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "7500 S. Pulaski",
+  "name" : "Daley College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60637",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60667663699968",
+    "latitude" : "41.776732161000496",
+    "human_address" : "{\"address\":\"751 E. 65th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60637\"}"
+  },
+  "address" : "751 E. 65th St.",
+  "name" : "Danny Boy 2 Unlimited Hair",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72660789799966",
+    "latitude" : "41.91900288400046",
+    "human_address" : "{\"address\":\"1951 W. Dickens\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "1951 W. Dickens",
+  "name" : "Danny's",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.57050929299965",
+    "latitude" : "41.76611935900047",
+    "human_address" : "{\"address\":\"2225 E. 71st. St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "2225 E. 71st. St.",
+  "name" : "Dubose Barber Shop",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Auto Repair Shop",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56934633399965",
+    "latitude" : "41.76254109700045",
+    "human_address" : "{\"address\":\"5833 S. Union\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "5833 S. Union",
+  "name" : "Eddie\u0019s Auto",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CDPH Clinic",
+  "zip_code" : "60621",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64095807999968",
+    "latitude" : "41.77979320500049",
+    "human_address" : "{\"address\":\"641 W. 63rd Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "641 W. 63rd Street",
+  "name" : "Englewood Speciality Clinic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70204496099967",
+    "latitude" : "41.84454379700048",
+    "human_address" : "{\"address\":\"3059 W. 26th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3059 W. 26th St.",
+  "name" : "Esperanza Little Village",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar",
+  "zip_code" : "60615",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58727772599968",
+    "latitude" : "41.78057219200048",
+    "human_address" : "{\"address\":\"1601 E. 63rd Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "1601 E. 63rd Street",
+  "name" : "Falcon Inn",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Treatment Center",
+  "zip_code" : "60610",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63214904399968",
+    "latitude" : "41.90544398300045",
+    "human_address" : "{\"address\":\"310 W. Chicago\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60610\"}"
+  },
+  "address" : "310 W. Chicago",
+  "name" : "Family Guidance Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60611",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61997949699969",
+    "latitude" : "41.89678104000046",
+    "human_address" : "{\"address\":\"303 E. Chicago\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60611\"}"
+  },
+  "address" : "303 E. Chicago",
+  "name" : "Feinberg School of Medicine",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77241854199968",
+    "latitude" : "41.88895027400048",
+    "human_address" : "{\"address\":\"5911 W. Midway Park\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5911 W. Midway Park",
+  "name" : "Final Explosion",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76263029199964",
+    "latitude" : "41.88030002300047",
+    "human_address" : "{\"address\":\"5464 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5464 W. Madison",
+  "name" : "Freddie's Lounge",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60636",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68384067899967",
+    "latitude" : "41.78703083000045",
+    "human_address" : "{\"address\":\"5843 S. Western\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60636\"}"
+  },
+  "address" : "5843 S. Western",
+  "name" : "Friend Family Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60632",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68593091999969",
+    "latitude" : "41.80841027700046",
+    "human_address" : "{\"address\":\"2436 W. 47th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "address" : "2436 W. 47th Street",
+  "name" : "Friend Family Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60629",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72308050399965",
+    "latitude" : "41.79028026700047",
+    "human_address" : "{\"address\":\"5635 S. Pulaski Rd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "5635 S. Pulaski Rd.",
+  "name" : "Friend Family Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60615",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62570638499966",
+    "latitude" : "41.79464404000049",
+    "human_address" : "{\"address\":\"800 E. 55th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "800 E. 55th Street",
+  "name" : "Friend Famliy Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Library",
+  "zip_code" : "60660",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66241635199964",
+    "latitude" : "41.990840721000495",
+    "human_address" : "{\"address\":\"1127 W. Grandville\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60660\"}"
+  },
+  "address" : "1127 W. Grandville",
+  "name" : "Gerber-Hart Library",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60637",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60584038099967",
+    "latitude" : "41.77695066400048",
+    "human_address" : "{\"address\":\"6454 S. Cottage Grove\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60637\"}"
+  },
+  "address" : "6454 S. Cottage Grove",
+  "name" : "Hair Icon",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60619",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61475745399969",
+    "latitude" : "41.751134022000485",
+    "human_address" : "{\"address\":\"402 E. 79th St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "402 E. 79th St.",
+  "name" : "Hair Werks",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60611",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6223467109997",
+    "latitude" : "41.89503335000046",
+    "human_address" : "{\"address\":\"30 E. Lake\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60611\"}"
+  },
+  "address" : "30 E. Lake",
+  "name" : "Harold Washington College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Treatment Facility",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62299389599968",
+    "latitude" : "41.68772744600045",
+    "human_address" : "{\"address\":\"11352 S. State St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "11352 S. State St.",
+  "name" : "Harriet Tubman",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Church",
+  "zip_code" : "60636",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65950101899966",
+    "latitude" : "41.7795409950005",
+    "human_address" : "{\"address\":\"1400 W. 63rd\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60636\"}"
+  },
+  "address" : "1400 W. 63rd",
+  "name" : "Hatchet",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60607",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65092590099965",
+    "latitude" : "41.88338126700046",
+    "human_address" : "{\"address\":\"108 North Sangamon St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60607\"}"
+  },
+  "address" : "108 North Sangamon St",
+  "name" : "Haymarket Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60661",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64312017299966",
+    "latitude" : "41.88316114000048",
+    "human_address" : "{\"address\":\"600 W. Washington\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60661\"}"
+  },
+  "address" : "600 W. Washington",
+  "name" : "Haymarket House",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60625",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69534853899967",
+    "latitude" : "41.968531992000464",
+    "human_address" : "{\"address\":\"2645 W. Lawrence Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60625\"}"
+  },
+  "address" : "2645 W. Lawrence Ave.",
+  "name" : "Heartland Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60645",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68642063999965",
+    "latitude" : "42.01225018300045",
+    "human_address" : "{\"address\":\"2200 W. Touhy Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60645\"}"
+  },
+  "address" : "2200 W. Touhy Ave.",
+  "name" : "Heartland Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65107052999969",
+    "latitude" : "41.96543246700048",
+    "human_address" : "{\"address\":\"845 W. Wilson\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "845 W. Wilson",
+  "name" : "Heartland Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67397022899968",
+    "latitude" : "41.96195075200046",
+    "human_address" : "{\"address\":\"4411 N. Ravenswood Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "4411 N. Ravenswood Ave.",
+  "name" : "Heartland Human Care Services",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6528408269997",
+    "latitude" : "41.937740147000454",
+    "human_address" : "{\"address\":\"3048 N. Wilton Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3048 N. Wilton Ave.",
+  "name" : "Heartland Pediatric Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Women\u0019s Shelter",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56381752899966",
+    "latitude" : "41.7521233650005",
+    "human_address" : "{\"address\":\"7852 S. Essex\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "7852 S. Essex",
+  "name" : "Hope Village",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65456003199967",
+    "latitude" : "41.95519031100048",
+    "human_address" : "{\"address\":\"4025 N. Sheridan\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "4025 N. Sheridan",
+  "name" : "Howard Brown Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65456003199967",
+    "latitude" : "41.95519031100048",
+    "human_address" : "{\"address\":\"4025 N. Sheridan Road\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "4025 N. Sheridan Road",
+  "name" : "Howard Brown Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75881898899968",
+    "latitude" : "41.881172782000476",
+    "human_address" : "{\"address\":\"11400 S. Michigan\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "11400 S. Michigan",
+  "name" : "HRDI",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64916831499966",
+    "latitude" : "41.93646018800047",
+    "human_address" : "{\"address\":\"3000 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3000 N. Halsted",
+  "name" : "Infectious Disease & Travel Clinic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60603",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62899891499967",
+    "latitude" : "41.88079042200047",
+    "human_address" : "{\"address\":\"1 N. State\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60603\"}"
+  },
+  "address" : "1 N. State",
+  "name" : "International Academy of Design",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60626",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67112715199966",
+    "latitude" : "41.999574287000485",
+    "human_address" : "{\"address\":\"6460 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "6460 N. Clark",
+  "name" : "Jackhammer",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Hospital",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58568871399967",
+    "latitude" : "41.75776320800048",
+    "human_address" : "{\"address\":\"7531 S. Stoney Island\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "7531 S. Stoney Island",
+  "name" : "Jackson Park Hospital",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64512617499969",
+    "latitude" : "41.94392999000047",
+    "human_address" : "{\"address\":\"3420 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3420 N. Broadway",
+  "name" : "Jacquelin's",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60606",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63449072999964",
+    "latitude" : "41.87811068700046",
+    "human_address" : "{\"address\":\"216 W. Jackson Blvd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60606\"}"
+  },
+  "address" : "216 W. Jackson Blvd.",
+  "name" : "Jewish Child & Family Services",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Barber Shop",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75390012199966",
+    "latitude" : "41.88042311200047",
+    "human_address" : "{\"address\":\"5138 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5138 W. Madison",
+  "name" : "Jr. Adams Barber Shop",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64928052399966",
+    "latitude" : "41.94247526400045",
+    "human_address" : "{\"address\":\"3325 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3325 N. Halsted",
+  "name" : "KAFKA",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60621",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64478061199969",
+    "latitude" : "41.779511036000486",
+    "human_address" : "{\"address\":\"6301 S. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "6301 S. Halsted",
+  "name" : "Kennedy King College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Restaurant",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65647946399969",
+    "latitude" : "41.94719419600045",
+    "human_address" : "{\"address\":\"5403 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "5403 N. Clark",
+  "name" : "La Concina Frida",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CDPH Clinic",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64605435999965",
+    "latitude" : "41.934353554000495",
+    "human_address" : "{\"address\":\"2861 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "2861 N. Clark",
+  "name" : "Lakeview Specialty Clinic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Health Center",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72159867899967",
+    "latitude" : "41.85237244300049",
+    "human_address" : "{\"address\":\"3860 W. Ogden Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3860 W. Ogden Ave.",
+  "name" : "Lawndale Christian Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64944044199967",
+    "latitude" : "41.94570011400049",
+    "human_address" : "{\"address\":\"3501 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3501 N. Halsted",
+  "name" : "Lil' Jims",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar",
+  "zip_code" : "60651",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71704469899964",
+    "latitude" : "41.90274843600048",
+    "human_address" : "{\"address\":\"3616 W. Division\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60651\"}"
+  },
+  "address" : "3616 W. Division",
+  "name" : "Lite Inn",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Church",
+  "zip_code" : "60621",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64457089599966",
+    "latitude" : "41.77123073500047",
+    "human_address" : "{\"address\":\"6740 S. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "6740 S. Halsted",
+  "name" : "Love of Christ",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64918944499965",
+    "latitude" : "41.93967040400048",
+    "human_address" : "{\"address\":\"3169 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3169 N. Halsted",
+  "name" : "Lucky Horseshoe",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67412624199966",
+    "latitude" : "41.87625017500045",
+    "human_address" : "{\"address\":\"1900 W. Van Buren\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "1900 W. Van Buren",
+  "name" : "Malcolm X College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66797149499968",
+    "latitude" : "41.97302667800045",
+    "human_address" : "{\"address\":\"5017 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "5017 N. Clark",
+  "name" : "Man's Country",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Community Center",
+  "zip_code" : "60621",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66828405299964",
+    "latitude" : "41.77942544300049",
+    "human_address" : "{\"address\":\"1750 W. 63rd Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "1750 W. 63rd Street",
+  "name" : "Martin Luther King Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66829062999966",
+    "latitude" : "41.97998051500048",
+    "human_address" : "{\"address\":\"5400 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "5400 N. Clark",
+  "name" : "Mary's Attic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60605",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62561105199967",
+    "latitude" : "41.86119348400047",
+    "human_address" : "{\"address\":\"1521 S. Wabash\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60605\"}"
+  },
+  "address" : "1521 S. Wabash",
+  "name" : "Mercy Housing Lakefront",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60609",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66133084399968",
+    "latitude" : "41.809500337000486",
+    "human_address" : "{\"address\":\"4630 S. Bishop Plaza\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "4630 S. Bishop Plaza",
+  "name" : "Mile Square Back of the Yards",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60604",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73950787999968",
+    "latitude" : "41.8512923670005",
+    "human_address" : "{\"address\":\"4747 W. Cermak Rd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60604\"}"
+  },
+  "address" : "4747 W. Cermak Rd.",
+  "name" : "Mile Square Cicero",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70023836899969",
+    "latitude" : "41.88283285200049",
+    "human_address" : "{\"address\":\"2945 W. Washington\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "2945 W. Washington",
+  "name" : "Mile Square Health Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.57626234999964",
+    "latitude" : "41.76545595900046",
+    "human_address" : "{\"address\":\"7131 S. Jeffery Blvd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "7131 S. Jeffery  Blvd.",
+  "name" : "Mile Square South Shore",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64228015899965",
+    "latitude" : "41.69129114500049",
+    "human_address" : "{\"address\":\"11135 S. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "11135 S. Halsted",
+  "name" : "No Other Place",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60624",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72612729099967",
+    "latitude" : "41.8806976890005",
+    "human_address" : "{\"address\":\"4017 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60624\"}"
+  },
+  "address" : "4017 W. Madison",
+  "name" : "Nych Hair Studio",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60634",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.82585082099968",
+    "latitude" : "41.93780255000047",
+    "human_address" : "{\"address\":\"7956 W. Belmont\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60634\"}"
+  },
+  "address" : "7956 W. Belmont",
+  "name" : "Oasis Hair Studio",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.59225910699968",
+    "latitude" : "41.713368586000456",
+    "human_address" : "{\"address\":\"10001 South Woodlawn Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "10001 South Woodlawn Ave.",
+  "name" : "Olive Harvey College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic - Non-Funded",
+  "zip_code" : "60505",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-88.31405041299968",
+    "latitude" : "41.7524105060005",
+    "human_address" : "{\"address\":\"157 N. Lincoln Ave., Suite 7\",\"city\":\"Aurora\",\"state\":\"IL\",\"zip\":\"60505\"}"
+  },
+  "address" : "157 N. Lincoln Ave., Suite 7",
+  "name" : "Open Door Clinic",
+  "state" : "IL",
+  "city_" : "Aurora"
+}
+, {
+  "venue_type" : "Church",
+  "zip_code" : "60619",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60519049399966",
+    "latitude" : "41.749310867000474",
+    "human_address" : "{\"address\":\"8001 S. Cottage Grove\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "8001 S. Cottage Grove",
+  "name" : "Orleans Missionary Baptist Church",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Food Store",
+  "zip_code" : "60622",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69680073699965",
+    "latitude" : "41.90120230100047",
+    "human_address" : "{\"address\":\"1101 N. California\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "1101 N. California",
+  "name" : "Park Dollar & Food",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60627",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63245118199967",
+    "latitude" : "41.884251330000495",
+    "human_address" : "{\"address\":\"13200 S. Ellis\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60627\"}"
+  },
+  "address" : "13200 S. Ellis",
+  "name" : "People for Community Recovery",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty Shop",
+  "zip_code" : "60619",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60356136699966",
+    "latitude" : "41.75127321500048",
+    "human_address" : "{\"address\":\"851 E. 79th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "851 E. 79th Street",
+  "name" : "Perfect Solution Salon",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Restaurant",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65692860999968",
+    "latitude" : "41.95275240300049",
+    "human_address" : "{\"address\":\"737 W. Roscoe\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "737 W. Roscoe",
+  "name" : "Pie Hole",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60615",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62034000599965",
+    "latitude" : "41.80203156200048",
+    "human_address" : "{\"address\":\"229 E. 51st. St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "229 E. 51st. St.",
+  "name" : "Plus Hair",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77328543699969",
+    "latitude" : "41.888002362000464",
+    "human_address" : "{\"address\":\"5934-36 W. Lake Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5934-36 W. Lake Street",
+  "name" : "Prevention Partnership",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Community Center",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71865112999967",
+    "latitude" : "41.91726063200048",
+    "human_address" : "{\"address\":\"3650 W. Armitage\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "3650 W. Armitage",
+  "name" : "Prius Urgent Care",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72815054599965",
+    "latitude" : "41.84249018200046",
+    "human_address" : "{\"address\":\"2659 S. Kedvale\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "2659 S. Kedvale",
+  "name" : "Project VIDA",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60622",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69465024099969",
+    "latitude" : "41.902930848000494",
+    "human_address" : "{\"address\":\"2703 W. Division\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "2703 W. Division",
+  "name" : "Pureto Rican Cultural Center/VIDA SIDA",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60623",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72495065799967",
+    "latitude" : "41.85856106400047",
+    "human_address" : "{\"address\":\"1606 S. Pulaski Rd.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "1606 S. Pulaski Rd.",
+  "name" : "Robert's Touch Hair Salon",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Community Center",
+  "zip_code" : "60626",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66889175899968",
+    "latitude" : "42.0078842150005",
+    "human_address" : "{\"address\":\"1530 W. Morse\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "1530 W. Morse",
+  "name" : "Rogers Park Community Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64936093499966",
+    "latitude" : "41.94346007700045",
+    "human_address" : "{\"address\":\"3356 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3356 N. Halsted",
+  "name" : "Roscoe's",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Community Center",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62085984099969",
+    "latitude" : "41.69702106400047",
+    "human_address" : "{\"address\":\"10858 S. Michigan\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "10858 S. Michigan",
+  "name" : "Roseland Community Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CDPH Clinic",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61792957899968",
+    "latitude" : "41.68540951200049",
+    "human_address" : "{\"address\":\"200 E. 115th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "200 E. 115th Street",
+  "name" : "Roseland Specialty Clinic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60603",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62565041999966",
+    "latitude" : "41.88079089500047",
+    "human_address" : "{\"address\":\"55 E. Monroe\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60603\"}"
+  },
+  "address" : "55 E. Monroe",
+  "name" : "Salon 55 Hair Salon",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Non-Funded CBO",
+  "zip_code" : "60616",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62223044499967",
+    "latitude" : "41.854200827000454",
+    "human_address" : "{\"address\":\"2101 S. Indiana\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60616\"}"
+  },
+  "address" : "2101 S. Indiana",
+  "name" : "SASI",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67538595599967",
+    "latitude" : "41.96148215800048",
+    "human_address" : "{\"address\":\"1829 W. Montrose\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "1829 W. Montrose",
+  "name" : "Scot's",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65692860999968",
+    "latitude" : "41.95275240300049",
+    "human_address" : "{\"address\":\"157 E. Oak\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "157 E. Oak",
+  "name" : "Second Story",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60639",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76684073199965",
+    "latitude" : "41.91205001200046",
+    "human_address" : "{\"address\":\"1726 N. Parkside\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "1726 N. Parkside",
+  "name" : "Sista's of the Hood",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CDPH Clinic",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74965178699966",
+    "latitude" : "41.88049493800048",
+    "human_address" : "{\"address\":\"4958 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "4958 W. Madison",
+  "name" : "South Austin Specialty Clinic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60628",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64286838299967",
+    "latitude" : "41.7046582750005",
+    "human_address" : "{\"address\":\"10420 S. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "10420 S. Halsted",
+  "name" : "South Side Help Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65647946399969",
+    "latitude" : "41.94719419600045",
+    "human_address" : "{\"address\":\"5307 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "5307 N. Clark",
+  "name" : "Speciality Video",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64945081199966",
+    "latitude" : "41.93996059500046",
+    "human_address" : "{\"address\":\"800 W. Belmont\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "800 W. Belmont",
+  "name" : "Spin",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64933683499964",
+    "latitude" : "41.94125326700049",
+    "human_address" : "{\"address\":\"3246 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3246 N. Halsted",
+  "name" : "Steamworks",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Co-Op",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66934673999964",
+    "latitude" : "41.96617630200046",
+    "human_address" : "{\"address\":\"4637 N. Ashland\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "4637 N. Ashland",
+  "name" : "Stone Soup Co-Op",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60622",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67796751299966",
+    "latitude" : "41.910415773000466",
+    "human_address" : "{\"address\":\"2011 W. North Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "2011 W. North Ave.",
+  "name" : "Subterranean",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69455114399966",
+    "latitude" : "41.87835036100046",
+    "human_address" : "{\"address\":\"2718 W. Adams\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "2718 W. Adams",
+  "name" : "Tap Roots Foundation",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74523616199969",
+    "latitude" : "41.88066383600045",
+    "human_address" : "{\"address\":\"9 North Cicero\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "9 North Cicero",
+  "name" : "Task Force Prevention",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66001366199964",
+    "latitude" : "41.98284326000049",
+    "human_address" : "{\"address\":\"5537 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "5537 N. Broadway",
+  "name" : "Test Positive Aware Network",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60610",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63160907999969",
+    "latitude" : "41.91027298400047",
+    "human_address" : "{\"address\":\"1547 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60610\"}"
+  },
+  "address" : "1547 N. Clark",
+  "name" : "The Call",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64444533999966",
+    "latitude" : "41.94253382900047",
+    "human_address" : "{\"address\":\"3325 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3325 N. Broadway",
+  "name" : "The Closet",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Church",
+  "zip_code" : "60620",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65344826099965",
+    "latitude" : "41.742793047000475",
+    "human_address" : "{\"address\":\"8900 E. Emerald\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "8900 E. Emerald",
+  "name" : "The Hall",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70339604499969",
+    "latitude" : "41.9174038160005",
+    "human_address" : "{\"address\":\"3017 W. Armitage\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "3017 W. Armitage",
+  "name" : "The Music Lounge",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Hotel",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69702048599964",
+    "latitude" : "41.91096110400048",
+    "human_address" : "{\"address\":\"1622 N. California\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "1622 N. California",
+  "name" : "The North Hotel",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Lingerie Company",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56006122999969",
+    "latitude" : "41.75865532100045",
+    "human_address" : "{\"address\":\"7506 S. Saginaw\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "7506 S. Saginaw",
+  "name" : "Thin N That Lingerie",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67379084099969",
+    "latitude" : "41.95616344300049",
+    "human_address" : "{\"address\":\"4101 N. Ravenswood\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "4101 N. Ravenswood",
+  "name" : "Thresholds",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Beauty/Barber Shop",
+  "zip_code" : "60619",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60481275799964",
+    "latitude" : "41.73740867100048",
+    "human_address" : "{\"address\":\"8637 S. Cottage Grove\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "8637 S. Cottage Grove",
+  "name" : "TNT Barber Shop",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clothing Store",
+  "zip_code" : "60624",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72467447099967",
+    "latitude" : "41.88077536300045",
+    "human_address" : "{\"address\":\"3960 W. Madison\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60624\"}"
+  },
+  "address" : "3960 W. Madison",
+  "name" : "Tops & Bottoms",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60626",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67080525699964",
+    "latitude" : "41.998594564000484",
+    "human_address" : "{\"address\":\"6412 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "6412 N. Clark",
+  "name" : "Touche",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64916831499966",
+    "latitude" : "41.93646018800047",
+    "human_address" : "{\"address\":\"3000 N. Halsted\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "3000 N. Halsted",
+  "name" : "TRIAD",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60640",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65904619299965",
+    "latitude" : "41.96534852800045",
+    "human_address" : "{\"address\":\"1145 W. Wilson Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "1145 W. Wilson Ave.",
+  "name" : "Truman College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Auto Repair Shop",
+  "zip_code" : "60649",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56934633399965",
+    "latitude" : "41.76254109700045",
+    "human_address" : "{\"address\":\"5828 S. Union\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "5828 S. Union",
+  "name" : "Union Auto",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60637",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60488815299965",
+    "latitude" : "41.78881255800047",
+    "human_address" : "{\"address\":\"5841 S. Maryland Ave., Rm C-628\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60637\"}"
+  },
+  "address" : "5841 S. Maryland Ave., Rm C-628",
+  "name" : "University of Chicago Mobile Unit",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Clinic",
+  "zip_code" : "60612",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67151031999964",
+    "latitude" : "41.86916408900049",
+    "human_address" : "{\"address\":\"1801 W. Taylor St.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "1801 W. Taylor St.",
+  "name" : "University of Illinois at Chicago",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60622",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67808041999967",
+    "latitude" : "41.89592036300047",
+    "human_address" : "{\"address\":\"2024 W. Chicago Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "2024 W. Chicago Ave.",
+  "name" : "Urban Fashions",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar",
+  "zip_code" : "60605",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62580021699966",
+    "latitude" : "41.86655099000046",
+    "human_address" : "{\"address\":\"1233 S. Wabash\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60605\"}"
+  },
+  "address" : "1233 S. Wabash",
+  "name" : "Wabash Tap",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65456003199967",
+    "latitude" : "41.95519031100048",
+    "human_address" : "{\"address\":\"4025 N. Sheridan\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "4025 N. Sheridan",
+  "name" : "Walgreens",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Hair Studio",
+  "zip_code" : "60647",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71564021699965",
+    "latitude" : "41.910010472000465",
+    "human_address" : "{\"address\":\"3540 W. North Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "3540 W. North Ave.",
+  "name" : "Wences Hair Studio",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CDPH Clinic",
+  "zip_code" : "60622",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68782578699967",
+    "latitude" : "41.90302998900046",
+    "human_address" : "{\"address\":\"2418 W. Division\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "2418 W. Division",
+  "name" : "West Town Specialty Clinic",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Bar/Club",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64729935299965",
+    "latitude" : "41.947380189000455",
+    "human_address" : "{\"address\":\"4810 N. Broadway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "4810 N. Broadway",
+  "name" : "Wild Pig",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Store",
+  "zip_code" : "60613",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65647946399969",
+    "latitude" : "41.94719419600045",
+    "human_address" : "{\"address\":\"5233 N. Clark\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "5233 N. Clark",
+  "name" : "Women and Children First",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "Treatment Facility",
+  "zip_code" : "60636",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65544806799966",
+    "latitude" : "41.772222359000466",
+    "human_address" : "{\"address\":\"6701 S. Elizabeth\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60636\"}"
+  },
+  "address" : "6701 S. Elizabeth",
+  "name" : "Women\u0019s Professional",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "School",
+  "zip_code" : "60634",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.78681619999969",
+    "latitude" : "41.95843933700047",
+    "human_address" : "{\"address\":\"4300 N. Narragansett Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60634\"}"
+  },
+  "address" : "4300 N. Narragansett Ave.",
+  "name" : "Wright College",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66141752299967",
+    "latitude" : "41.85783523300046",
+    "human_address" : "{\"address\":\"1401 W. 18th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "1401 W. 18th Street",
+  "name" : "Yollocalli Arts Reach",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+, {
+  "venue_type" : "CBO",
+  "zip_code" : "60605",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62911749099965",
+    "latitude" : "41.8734812830005",
+    "human_address" : "{\"address\":\"637 S. Dearborrn\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60605\"}"
+  },
+  "address" : "637 S. Dearborrn",
+  "name" : "Youth Pride Center",
+  "state" : "IL",
+  "city_" : "Chicago"
+}
+ ]
