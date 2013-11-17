@@ -4,14 +4,14 @@ type WICClinic struct {
 	Address              string   `json:"street_address"`
 	State                string   `json:"state"`
 	City                 string   `json:"city"`
-	PhoneNumber          string   `json:"phone_number"`
+	PhoneNumber          string   `json:"phone_1"`
 	ZipCode              int      `json:"zipcode,string"`
-	Location             Location `json:"physical_address"`
+	Location             Location `json:"location"`
 	Hours                string   `json:"hours_of_operation"`
 	Name                 string   `json:"site_name"`
 	WIC                  string   `json:"wic"`
 	SiteNumber           int      `json:"site_number,string"`
-	FamilyCaseManagement string   `json:'family_case_management'`
+	FamilyCaseManagement string   `json:"family_case_management"`
 }
 
 // {

@@ -10,12 +10,12 @@ import (
 )
 
 func main() {
-	f, err := ioutil.ReadFile("./data/condom-distribution-sites.json")
+	f, err := ioutil.ReadFile("./data/wic-clinics.json")
 	if err != nil {
 		log.Printf("err loading file: %s", err)
 	}
 
-	var cds []healthnearme.CondomDistributionSite
+	var cds []healthnearme.WICClinic
 
 	if err := json.Unmarshal(f, &cds); err != nil {
 		log.Printf("err loading json: %s", err)
