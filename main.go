@@ -9,7 +9,7 @@ import (
 
 	"github.com/cgansen/elastigo/api"
 	"github.com/cgansen/elastigo/core"
-	// "github.com/cgansen/health-near-me/healthnearme"
+	"github.com/cgansen/health-near-me/healthnearme"
 )
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
@@ -61,7 +61,33 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	jsn, err := json.MarshalIndent(result.Hits.Hits, "", "  ")
+	type Result struct {
+		Name, Address, Phone string
+		Location             healthnearme.Location
+	}
+
+	var hits []*Result
+
+	for _, hit := range result.Hits.Hits {
+		// unmarshal to a struct
+		var cds healthnearme.CondomDistributionSite
+		jsn, _ := hit.Source.MarshalJSON()
+		if err := json.Unmarshal(jsn, &cds); err != nil {
+			log.Printf("could not translate to struct: %s", err)
+			http.Error(w, "error translating search results", 500)
+			return
+		}
+
+		r := &Result{
+			Name:     cds.Name,
+			Address:  cds.Address,
+			Location: cds.Location,
+		}
+
+		hits = append(hits, r)
+	}
+
+	jsn, err := json.MarshalIndent(hits, "", "  ")
 	if err != nil {
 		log.Print(err)
 		http.Error(w, "error dumping search results to json", 500)
