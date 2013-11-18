@@ -2,7 +2,8 @@ var healthApp = angular.module("healthApp", []);
 
 healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
     $scope.searchLocation = "";
-    // $scope.searchResults = [];
+    $scope.geocodeError = false;
+    $scope.noResultsError = false;
     $scope.lat = "";
     $scope.lon = "";
     
@@ -25,7 +26,9 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
                     map: $scope.map,
                     position: results[0].geometry.location
                 });
+                $scope.geocodeError = false
             } else {
+                $scope.geocodeError = true
                 console.log("Geocode was not successful for the following reason: " + status);
             }
         });        
@@ -37,10 +40,12 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
                     { params: { lat: $scope.lat, lon: $scope.lon, dist: 1500, callback: "JSON_CALLBACK" } }
         )
         .success(function(data){
+            $scope.noResultsError = false;
             console.log(data);
             $scope.searchResults = angular.copy(data);
         })
         .error(function(data, status, headers, config){
+            $scope.noResultsError = true;
             $scope.searchResults = []
             console.log(data);
             console.log(status);
