@@ -17,7 +17,7 @@ title: Health Near Me
         
     <ol>
         <li ng-repeat="res in searchResults">
-            {% raw %}{{ res.name }}, {{ res.address }}, {{ res.zip_code }}{% endraw %}
+            {% raw %}{{ res.name }}, {{ res.address }}, {{ res.zip_code }}, {{ res.provider_type}}{% endraw %}
         </li>
     </ol>
 

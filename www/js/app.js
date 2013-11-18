@@ -41,6 +41,7 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
             $scope.searchResults = angular.copy(data);
         })
         .error(function(data, status, headers, config){
+            $scope.searchResults = []
             console.log(data);
             console.log(status);
             console.log(headers);
