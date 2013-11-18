@@ -1,13 +1,26 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Health Near Me
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div id="home" >
+    <form name="searchForm">
+        <input type="text" ng-model="searchLocation" style="width: 200px; font-size: 16pt" maxlength="120" placeholder="enter a chicago address"/>
+        <button type="submit" ng-click="doGeocode()">geocode</button>
+    </form>
+
+    <pre>
+        {% raw %}{{ lat }}{% endraw %}
+        {% raw %}{{ lon }}{% endraw %}
+    </pre>
+
+        
+    <ol>
+        <li ng-repeat="res in searchResults">
+            {% raw %}{{ res.name }}, {{ res.address }}, {{ res.zip_code }}{% endraw %}
+        </li>
+    </ol>
+
+    <div id="map-canvas" style="width: 480px; height: 480px;"/>
+    
 </div>
