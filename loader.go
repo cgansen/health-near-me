@@ -20,7 +20,7 @@ func main() {
 		healthnearme.CondomDistributionSite: "condom-distribution-sites.json",
 		healthnearme.SubstanceAbuseProvider: "licensed-substance-abuse-providers.json",
 		healthnearme.MentalHealthClinic:     "mental-health-clinics.json",
-		healthnearme.STISpecialtyClinic:              "sti-specialty-clinics.json",
+		healthnearme.STISpecialtyClinic:     "sti-specialty-clinics.json",
 		healthnearme.WICClinic:              "wic-clinics.json",
 	}
 

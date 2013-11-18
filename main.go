@@ -84,10 +84,10 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 	}
 
 	w.Header().Add("Content-type", "application/json")
-	// delim := ")]}',\n"	
-	delim := ""	
+	// delim := ")]}',\n"
+	delim := ""
 	resp := fmt.Sprintf("%s%s(%s);", delim, req.FormValue("callback"), string(jsn))
-	
+
 	_, err = w.Write([]byte(resp))
 	return
 
