@@ -3,9 +3,10 @@ layout: default
 title: Health Near Me
 ---
 
-<div id="home" >
+<div id="home" >    
     <form name="searchForm">
-        <input type="text" ng-model="searchLocation" style="width: 400px; font-size: 16pt" length="60" maxlength="120" placeholder="enter a chicago address"/>
+        <label for="address">Chicago street address</label><br/>
+        <input type="text" id="address" ng-model="searchLocation" style="width: 500px; font-size: 16pt" length="60" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'"/>
         <button type="submit" ng-click="doGeocode()">geocode</button>
     </form>
 
@@ -23,6 +24,6 @@ title: Health Near Me
         </li>
     </ol>
 
-    <div id="map-canvas" style="width: 480px; height: 480px;"/>
+    <div id="map-canvas" style="width: 480px; height: 120px;"/>
     
 </div>
