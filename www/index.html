@@ -6,6 +6,15 @@ title: Health Near Me
 <div id="home" >    
     <form name="searchForm">
         <label for="address">Chicago street address</label><br/>
+        <select name="providerType" ng-model="searchType">
+            <option value="all">All</option>
+            <option value="0">Condom Distribution Site</option>
+            <option value="1">Licensed Substance Abuse Provider</option>
+            <option value="2">Mental Health Clinic</option>
+            <option value="3">STI Specialty Clinic</option>
+            <option value="4">WIC Clinic</option>
+        </select>
+        
         <input type="text" id="address" ng-model="searchLocation" style="width: 500px; font-size: 16pt" length="60" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'"/>
         <button type="submit" ng-click="doGeocode()">search</button>
     </form>

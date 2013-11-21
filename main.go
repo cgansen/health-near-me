@@ -14,7 +14,7 @@ import (
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%#v", req)
-	slat, slon, sdist := req.FormValue("lat"), req.FormValue("lon"), req.FormValue("dist")
+	slat, slon, sdist, styp := req.FormValue("lat"), req.FormValue("lon"), req.FormValue("dist"), req.FormValue("searchType")
 
 	lat, err := strconv.ParseFloat(slat, 64)
 	if err != nil {
@@ -34,9 +34,21 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
+	var queryMatch string
+	if styp == "all" {
+		queryMatch = `"match_all": {}`
+	} else {
+		typ, err := strconv.Atoi(styp)
+		if err != nil {
+			http.Error(w, "searchType is required and must be an integer", 400)
+			return
+		}
+		queryMatch = fmt.Sprintf(`"term": { "provider_type": "%d"}`, typ)
+	}
+
 	query := fmt.Sprintf(`{
 		"query":{
-			"match_all": {}
+			%s
 		},
 		"sort": [
 			{
@@ -59,7 +71,7 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 				}
 			}
 		}
-	}`, lat, lon, dist, lat, lon)
+	}`, queryMatch, lat, lon, dist, lat, lon)
 
 	log.Print(query)
 
