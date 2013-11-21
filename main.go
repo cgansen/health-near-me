@@ -98,6 +98,7 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		}
 
 		hp.Distance = hp.CalcDistance(origin)
+		hp.TypeName = hp.FriendlyTypeName()
 		log.Printf("dist: %f", hp.Distance)
 		hits = append(hits, hp)
 	}
