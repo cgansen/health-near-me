@@ -3,10 +3,11 @@ layout: default
 title: Health Near Me
 ---
 
-<div id="home" >    
+<div id="home" class="col-md-6 col-md-offset-3">    
+    <p>Fill out this form to find health providers near a location in Chicago.</p>
     <form name="searchForm">
         <p>
-            <label for="providerType">Kinds of Health Provider</label>
+            <label for="providerType">Kinds of Health Provider</label><br/>
             <select name="providerType" ng-model="searchType" id="providerType">
                 <option value="all">All</option>
                 <option value="0">Condom Distribution Site</option>
@@ -19,7 +20,7 @@ title: Health Near Me
         </p>
         
         <p>
-            <label for="distance">Within a certain distance</label>
+            <label for="distance">Within a certain distance</label><br/>
             <select name="distance" ng-model="dist" id="distance">
                 <option value="1609">Less than one mile</option>
                 <option value="3218">Less than two miles</option>
@@ -30,27 +31,27 @@ title: Health Near Me
         </p>
 
         <p>
-            <label for="address">Chicago street address</label><br/>
+            <label for="address">Near Chicago street address</label><br/>
 
             <input type="text" id="address" ng-model="searchLocation" style="width: 500px; font-size: 16pt" length="60" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'"/>
             
         </p>
-        <button type="submit" ng-click="doGeocode()">search</button>
+        <p>
+            <button type="submit" class="btn btn-primary" ng-click="doGeocode()">search</button>
+        </p>        
     </form>
 
-    <pre>
-        {% raw %}{{ lat }}{% endraw %}
-        {% raw %}{{ lon }}{% endraw %}
-    </pre>
-
-    <p ng-show="geocodeError">I don't know where that address is. Sorry!</p>
-    <p ng-show="noResultsError">There's nothing near that address. Sorry!</p>
-        
+    <p ng-show="geocodeError" class="alert alert-warning">I don't know where that address is. Sorry!</p>
+    <p ng-show="noResultsError" class="alert alert-warning">There's nothing near that address. Sorry!</p>
+    
+    {% raw %}    
     <ol>
         <li ng-repeat="res in searchResults">
-            {% raw %}{{ res.name }}, {{ res.address }}, {{ res.zip_code }}, {{ res.type_name }}, {{ res.distance | number:1 }} miles away.{% endraw %}
+            <span class="hp-name">{{ res.name }}</span>
+            {{ res.address }}, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
         </li>
     </ol>
+    {% endraw %}
 
     <div id="map-canvas" style="width: 480px; height: 120px;"/>
     

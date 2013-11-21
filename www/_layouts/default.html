@@ -6,8 +6,10 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"></link>
+
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/main.css"></link>
 
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5rlYTw-LSBmr7uyGlh1qyifotLDSvlck&sensor=false"></script>
 
@@ -15,20 +17,26 @@
         <script src="js/app.js"></script>
     </head>
     <body ng-controller="SearchCtrl">
+        <div class="container">
+            <header>
+                <nav class="navbar navbar-default">
+                    <ul class="nav navbar-nav">
+                        <li><a href='/'>Health Near Me</a></li>
+                    </ul>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+                </nav>
+            </header>
+            <content>
 
-          {{ content }}
+                {{ content }}
 
-          <div class="footer">
-            <div class="contact">
-            </div>
-          </div>
+            </content>
+            <footer>
+                <nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+                  <address>HealthNear.me &copy Copyright 2013 Melissa Buenger and Chris Gansen. Raw data provided by the City of Chicago.</address>
+                </nav>            
+            </footer>
+            
         </div>
-
     </body>
 </html>
