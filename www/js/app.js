@@ -6,6 +6,7 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
     $scope.noResultsError = false;
     $scope.lat = "";
     $scope.lon = "";
+    $scope.dist = 1609;
     $scope.searchType = "all";
     
     $scope.map = new google.maps.Map(document.getElementById("map-canvas"), {zoom: 12, mapTypeId: google.maps.MapTypeId.ROADMAP});
@@ -41,7 +42,7 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
                     { params: { 
                         lat: $scope.lat, 
                         lon: $scope.lon, 
-                        dist: 1500, 
+                        dist: $scope.dist, 
                         searchType: $scope.searchType,
                         callback: "JSON_CALLBACK" } }
         )

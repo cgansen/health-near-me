@@ -10,6 +10,7 @@ import (
 	"github.com/cgansen/elastigo/api"
 	"github.com/cgansen/elastigo/core"
 	"github.com/cgansen/health-near-me/healthnearme"
+	geo "github.com/kellydunn/golang-geo"
 )
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
@@ -47,6 +48,7 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 	}
 
 	query := fmt.Sprintf(`{
+		"size": 100,		
 		"query":{
 			%s
 		},
@@ -82,6 +84,7 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
+	origin := geo.NewPoint(lat, lon)
 	var hits []*healthnearme.HealthProvider
 
 	for _, hit := range result.Hits.Hits {
@@ -94,6 +97,8 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 			return
 		}
 
+		hp.Distance = hp.CalcDistance(origin)
+		log.Printf("dist: %f", hp.Distance)
 		hits = append(hits, hp)
 	}
 

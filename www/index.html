@@ -5,17 +5,36 @@ title: Health Near Me
 
 <div id="home" >    
     <form name="searchForm">
-        <label for="address">Chicago street address</label><br/>
-        <select name="providerType" ng-model="searchType">
-            <option value="all">All</option>
-            <option value="0">Condom Distribution Site</option>
-            <option value="1">Licensed Substance Abuse Provider</option>
-            <option value="2">Mental Health Clinic</option>
-            <option value="3">STI Specialty Clinic</option>
-            <option value="4">WIC Clinic</option>
-        </select>
+        <p>
+            <label for="providerType">Kinds of Health Provider</label>
+            <select name="providerType" ng-model="searchType" id="providerType">
+                <option value="all">All</option>
+                <option value="0">Condom Distribution Site</option>
+                <option value="1">Licensed Substance Abuse Provider</option>
+                <option value="2">Mental Health Clinic</option>
+                <option value="3">STI Specialty Clinic</option>
+                <option value="4">WIC Clinic</option>
+            </select>
+            
+        </p>
         
-        <input type="text" id="address" ng-model="searchLocation" style="width: 500px; font-size: 16pt" length="60" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'"/>
+        <p>
+            <label for="distance">Within a certain distance</label>
+            <select name="distance" ng-model="dist" id="distance">
+                <option value="1609">Less than one mile</option>
+                <option value="3218">Less than two miles</option>
+                <option value="8046">Less than five miles</option>
+                <option value="16093">Less than ten miles</option>            
+            </select>        
+            
+        </p>
+
+        <p>
+            <label for="address">Chicago street address</label><br/>
+
+            <input type="text" id="address" ng-model="searchLocation" style="width: 500px; font-size: 16pt" length="60" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'"/>
+            
+        </p>
         <button type="submit" ng-click="doGeocode()">search</button>
     </form>
 
@@ -29,7 +48,7 @@ title: Health Near Me
         
     <ol>
         <li ng-repeat="res in searchResults">
-            {% raw %}{{ res.name }}, {{ res.address }}, {{ res.zip_code }}, {{ res.provider_type}}{% endraw %}
+            {% raw %}{{ res.name }}, {{ res.address }}, {{ res.zip_code }}, {{ res.provider_type}}, {{ res.distance | number:1 }} miles away.{% endraw %}
         </li>
     </ol>
 
