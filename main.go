@@ -34,23 +34,32 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	query := fmt.Sprintf(`{"query":{
-	  "filtered": {
-	    "query": {
-	      "match_all": {}
-	    },
-	    "filter": {
-	      "geo_distance": {
-	        "distance": "%dm",
-	        "location.lat_lon": {
-	          "lat": %f,
-	          "lon": %f
-	        }
-	      }
-	    }
-	  }
-	}
-	}`, dist, lat, lon)
+	query := fmt.Sprintf(`{
+		"query":{
+			"match_all": {}
+		},
+		"sort": [
+			{
+				"_geo_distance":{
+					"location.lat_lon": {
+						"lat": %f,
+						"lon": %f						
+					},
+					"order": "asc",
+					"unit": "mi"
+				}
+			}
+		],
+		"filter": {
+			"geo_distance": {
+				"distance": "%dm",
+				"location.lat_lon": {
+					"lat": %f,
+					"lon": %f
+				}
+			}
+		}
+	}`, lat, lon, dist, lat, lon)
 
 	log.Print(query)
 
