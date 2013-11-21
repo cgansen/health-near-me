@@ -47,8 +47,12 @@ title: Health Near Me
     {% raw %}    
     <ol>
         <li ng-repeat="res in searchResults">
-            <span class="hp-name">{{ res.name }}</span>
-            {{ res.address }}, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
+            <p>
+                <span class="hp-name">{{ res.name }}</span>
+                {{ res.address }}, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
+            </p>
+            <p ng-if="res.phone">Call: <a href="tel://{{res.phone}}">{{ res.phone }}</a></p>
+            <p ng-if="res.hours_of_operation">Hours: <span class="hours">{{ res.hours_of_operation }}</span></p>
         </li>
     </ol>
     {% endraw %}
