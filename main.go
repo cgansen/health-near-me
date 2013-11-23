@@ -6,12 +6,64 @@ import (
 	"log"
 	"net/http"
 	"strconv"
+	"strings"
 
 	"github.com/cgansen/elastigo/api"
-	"github.com/cgansen/elastigo/core"
 	"github.com/cgansen/health-near-me/healthnearme"
 	geo "github.com/kellydunn/golang-geo"
 )
+
+// Perform a search for a SMS user.
+func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
+	search := req.FormValue("body")
+
+	// TODO(cgansen):
+	// support sessions
+	// search regex
+	// geocoding
+
+	// result, err := healthnearme.DoSearch(lat, lon, dist, styp)
+
+	switch search {
+	case "help":
+		w.Write([]byte("help message"))
+		return
+	default:
+		// split query
+		pieces := strings.Split(strings.ToLower(search), "near")
+		log.Printf("pieces: %#v", pieces)
+
+		// term := strings.TrimSpace(pieces[0])
+		location := strings.TrimSpace(pieces[1])
+
+		// geocode
+		geocoder := &geo.GoogleGeocoder{}
+		point, err := geocoder.Geocode(pieces[1])
+		if err != nil {
+			// handle
+			log.Printf("error geocoding: %s, location is: %s", err, location)
+			http.Error(w, "error geocoding", 500)
+			return
+		}
+
+		log.Printf("geocoded %s to %#v", location, point)
+
+		// TODO map term to searchType
+
+		// lookup
+		result, err := healthnearme.DoSearch(point.Lat(), point.Lng(), 1609, "all")
+
+		// respond
+		// FIXME temp for now
+
+		w.Header().Add("Content-type", "text/xml")
+		resp := fmt.Sprintf("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Response><Message>Got %d hits for %s</Message></Response>", len(result.Hits.Hits), search)
+		w.Write([]byte(resp))
+		return
+	}
+
+	return
+}
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%#v", req)
@@ -35,49 +87,13 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	var queryMatch string
-	if styp == "all" {
-		queryMatch = `"match_all": {}`
-	} else {
-		typ, err := strconv.Atoi(styp)
-		if err != nil {
-			http.Error(w, "searchType is required and must be an integer", 400)
-			return
-		}
-		queryMatch = fmt.Sprintf(`"term": { "provider_type": "%d"}`, typ)
+	if styp == "" {
+		http.Error(w, "searchType is required and must be an integer or 'all'", 400)
+		return
 	}
 
-	query := fmt.Sprintf(`{
-		"size": 100,		
-		"query":{
-			%s
-		},
-		"sort": [
-			{
-				"_geo_distance":{
-					"location.lat_lon": {
-						"lat": %f,
-						"lon": %f						
-					},
-					"order": "asc",
-					"unit": "mi"
-				}
-			}
-		],
-		"filter": {
-			"geo_distance": {
-				"distance": "%dm",
-				"location.lat_lon": {
-					"lat": %f,
-					"lon": %f
-				}
-			}
-		}
-	}`, queryMatch, lat, lon, dist, lat, lon)
+	result, err := healthnearme.DoSearch(lat, lon, dist, styp)
 
-	log.Print(query)
-
-	result, err := core.SearchRequest(true, "health-near-me", "health-provider", query, "", 0)
 	if err != nil {
 		log.Printf("error searching: %s", err)
 		http.Error(w, "error searching index", 503)
@@ -122,6 +138,7 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 func main() {
 	api.Domain = "localhost"
 
+	http.HandleFunc("/sms_search", SMSSearchHandler)
 	http.HandleFunc("/search", SearchHandler)
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
