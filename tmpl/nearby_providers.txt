@@ -2,7 +2,7 @@
 <Response>
 	<Message>
 Found {{ .Count }} places near {{ .Location | html }}
-{{ range $index, $result := .Results }}{{ $result.Name }}, a {{ $result.TypeName }}, {{ $result.Address }}, {{ $result.Distance }}.
+{{ range $index, $result := .Results }}{{ $result.Name }}, a {{ $result.TypeName }}, {{ $result.Address }}, {{ round $result.Distance "f" 1 64 }}.
 {{ end }}
 	</Message>
 </Response>

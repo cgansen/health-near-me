@@ -66,13 +66,13 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 			http.Error(w, "error processing search results", 500)
 		}
 
-		// w.Header().Add("Content-type", "text/xml")
-		// resp := fmt.Sprintf("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Response><Message>Got %d hits for %s</Message></Response>", len(result.Hits.Hits), search)
-		// w.Write([]byte(resp))
 		t, err := template.ParseFiles("./tmpl/nearby_providers.txt")
 		if err != nil {
-			//
+			log.Print("template error: ", err)
+			http.Error(w, "error loading template", 500)			
 		}
+
+		t.Funcs(template.FuncMap{ "round": strconv.FormatFloat })		
 
 		ctxt := map[string]interface{}{
 			"Count":    len(hits),
@@ -85,6 +85,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 			http.Error(w, "error writing results", 500)
 		}
 
+		w.Header().Add("Content-type", "text/xml")		
 		return
 	}
 
