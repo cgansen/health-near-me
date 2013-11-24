@@ -1,0 +1,3 @@
+Health Near Me Help: use this service to find public health care providers near an address.
+
+Text message like: "condoms near 1060 W Addison" or "warming center near 55th and State St".

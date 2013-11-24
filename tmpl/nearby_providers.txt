@@ -1,0 +1,4 @@
+Found {{ .Count }} places near {{ .Location }}
+{{ range $index, $result := .Results }}
+{{ $index }}. {{ $result.Name }}, a {{ $result.TypeName }}, {{ $result.Address }}, {{ $result.Distance }}.
+{{ end }}
