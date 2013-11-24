@@ -21,7 +21,8 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 	// search regex
 
 	search := req.FormValue("body")
-	switch cmd = strings.TrimSpace(strings.ToLower(search)) {
+	cmd := strings.TrimSpace(strings.ToLower(search))
+	switch cmd {
 	case "help":
 		t, err := template.ParseFiles("./tmpl/help.txt")
 		if err != nil {
