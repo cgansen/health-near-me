@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
+	"text/template"
 
 	"github.com/cgansen/elastigo/api"
 	"github.com/cgansen/health-near-me/healthnearme"
@@ -26,7 +27,15 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 	switch search {
 	case "help":
-		w.Write([]byte("help message"))
+		t, err := template.ParseFiles("./tmpl/help.txt")
+		if err != nil {
+			// handle
+		}
+
+		if err := t.Execute(w, nil); err != nil {
+			// handle
+		}
+
 		return
 	default:
 		// split query
