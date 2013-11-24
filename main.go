@@ -16,16 +16,12 @@ import (
 
 // Perform a search for a SMS user.
 func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
-	search := req.FormValue("body")
-
 	// TODO(cgansen):
 	// support sessions
 	// search regex
-	// geocoding
 
-	// result, err := healthnearme.DoSearch(lat, lon, dist, styp)
-
-	switch search {
+	search := req.FormValue("body")
+	switch cmd = strings.TrimSpace(strings.ToLower(search)) {
 	case "help":
 		t, err := template.ParseFiles("./tmpl/help.txt")
 		if err != nil {
@@ -39,7 +35,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	default:
 		// split query
-		pieces := strings.Split(strings.ToLower(search), "near")
+		pieces := strings.Split(cmd, "near")
 		log.Printf("pieces: %#v", pieces)
 
 		// term := strings.TrimSpace(pieces[0])
