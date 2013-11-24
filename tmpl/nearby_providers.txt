@@ -1,4 +1,9 @@
-Found {{ .Count }} places near {{ .Location }}
-{{ range $index, $result := .Results }}
-{{ $index }}. {{ $result.Name }}, a {{ $result.TypeName }}, {{ $result.Address }}, {{ $result.Distance }}.
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Message>
+Found {{ .Count }} places near {{ .Location | html }}
+{{ range $index, $result := .Results }}{{ $result.Name }}, a {{ $result.TypeName }}, {{ $result.Address }}, {{ $result.Distance }}.
 {{ end }}
+	</Message>
+</Response>
+
