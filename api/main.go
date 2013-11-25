@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"io/ioutil"
 	"log"
 	"net/http"
 	"strconv"
@@ -27,14 +26,6 @@ func init() {
 func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%s %s %s %s", req.Method, req.RequestURI, req.URL.RawQuery, req.Header.Get("User-Agent"))
 
-	search, err := ioutil.ReadAll(req.Body)
-	if err != nil {
-		log.Printf("error reading body: %s", err)
-		http.Error(w, "error reading body", 500)
-		return
-	}
-	defer req.Body.Close()
-
 	if err := req.ParseForm(); err != nil {
 		log.Printf("error parsing form: %s", err)
 		http.Error(w, "error parsing form body", 500)
@@ -45,9 +36,10 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 	// support sessions
 	// search regex
 
+	search := req.FormValue("Body")
 	log.Printf("sms search: %s", search)
 
-	cmd := strings.TrimSpace(strings.ToLower(string(search)))
+	cmd := strings.TrimSpace(strings.ToLower(search))
 	switch cmd {
 	case "help":
 		t, err := template.ParseFiles(tmplPath + "help.txt")
