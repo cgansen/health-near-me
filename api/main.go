@@ -150,10 +150,16 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 
 }
 
+func HealthCheckHandler(w http.ResponseWriter, req *http.Request) {
+	w.Write([]byte("OK"))
+	return
+}
+
 func main() {
 	api.Domain = "localhost"
 
 	http.HandleFunc("/sms_search", SMSSearchHandler)
 	http.HandleFunc("/search", SearchHandler)
+	http.HandleFunc("/healthcheck", HealthCheckHandler)
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
