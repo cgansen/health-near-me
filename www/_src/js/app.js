@@ -1,3 +1,5 @@
+---
+---
 var healthApp = angular.module("healthApp", []);
 
 healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
@@ -38,7 +40,7 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
     
     $scope.doSearch = function(){
         // hit API for nearby health providers
-        $http.jsonp("http://localhost:8080/search",
+        $http.jsonp("{{ site.api_url }}/search",
                     { params: { 
                         lat: $scope.lat, 
                         lon: $scope.lon, 
@@ -48,16 +50,11 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
         )
         .success(function(data){
             $scope.noResultsError = false;
-            console.log(data);
             $scope.searchResults = angular.copy(data);
         })
         .error(function(data, status, headers, config){
             $scope.noResultsError = true;
             $scope.searchResults = []
-            console.log(data);
-            console.log(status);
-            console.log(headers);
-            console.log(config);
         });
     };
 }]);
