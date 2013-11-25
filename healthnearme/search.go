@@ -53,7 +53,7 @@ func DoSearch(lat, lon float64, dist int64, typ string) (result core.SearchResul
 		}
 	}`, queryMatch, lat, lon, dist, lat, lon)
 
-	log.Print(query)
+	// log.Print(query)
 
 	result, err = core.SearchRequest(true, "health-near-me", "health-provider", query, "", 0)
 

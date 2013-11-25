@@ -2,7 +2,9 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"strconv"
@@ -14,23 +16,51 @@ import (
 	geo "github.com/kellydunn/golang-geo"
 )
 
+var tmplPath string
+
+func init() {
+	flag.StringVar(&tmplPath, "tmpl", "../tmpl/", "path to templates")
+	flag.Parse()
+}
+
 // Perform a search for a SMS user.
 func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
+	log.Printf("%s %s %s %s", req.Method, req.RequestURI, req.URL.RawQuery, req.Header.Get("User-Agent"))
+
+	search, err := ioutil.ReadAll(req.Body)
+	if err != nil {
+		log.Printf("error reading body: %s", err)
+		http.Error(w, "error reading body", 500)
+		return
+	}
+	defer req.Body.Close()
+
+	if err := req.ParseForm(); err != nil {
+		log.Printf("error parsing form: %s", err)
+		http.Error(w, "error parsing form body", 500)
+		return
+	}
+
 	// TODO(cgansen):
 	// support sessions
 	// search regex
 
-	search := req.FormValue("body")
-	cmd := strings.TrimSpace(strings.ToLower(search))
+	log.Printf("sms search: %s", search)
+
+	cmd := strings.TrimSpace(strings.ToLower(string(search)))
 	switch cmd {
 	case "help":
-		t, err := template.ParseFiles("./tmpl/help.txt")
+		t, err := template.ParseFiles(tmplPath + "help.txt")
 		if err != nil {
-			// handle
+			log.Printf("error loading template: %s", err)
+			http.Error(w, "error loading template", 500)
+			return
 		}
 
 		if err := t.Execute(w, nil); err != nil {
-			// handle
+			log.Printf("error executing template: %s", err)
+			http.Error(w, "error executing template", 500)
+			return
 		}
 
 		return
@@ -66,8 +96,9 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 			http.Error(w, "error processing search results", 500)
 			return
 		}
+		log.Printf("%d results for %s", len(hits), cmd)
 
-		t, err := template.New("nearby_providers.txt").Funcs(template.FuncMap{"round": strconv.FormatFloat}).ParseFiles("./tmpl/nearby_providers.txt")
+		t, err := template.New("nearby_providers.txt").Funcs(template.FuncMap{"round": strconv.FormatFloat}).ParseFiles(tmplPath + "nearby_providers.txt")
 		if err != nil {
 			log.Print("template error: ", err)
 			http.Error(w, "error loading template", 500)
