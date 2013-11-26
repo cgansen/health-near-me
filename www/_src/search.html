@@ -1,0 +1,64 @@
+---
+layout: none
+title: Health Near Me
+---
+
+<div id="home" class="col-md-6 col-md-offset-3" ng-controller="SearchCtrl">    
+    <h2>Fill out this form to find health providers near a location in Chicago.</h2>
+    <p class="alert alert-info">You can search via text message, too! Send a message to <strong>312-548-3951</strong>.<br><br>Samples: "<em>services near Logan Square</em>" or "<em>Heating center near 5500 S State</em>"</p>
+    <form name="searchForm">
+        <div class="row">
+            <div class="col-md-6">
+                <label for="providerType">Kinds of Health Provider</label><br/>
+                <select name="providerType" ng-model="searchType" id="providerType" class="form-control">
+                    <option value="all">All</option>
+                    <option value="0">Condom Distribution Site</option>
+                    <option value="1">Licensed Substance Abuse Provider</option>
+                    <option value="2">Mental Health Clinic</option>
+                    <option value="3">STI Specialty Clinic</option>
+                    <option value="4">WIC Clinic</option>
+                    <option value="5">Community Service Center</option>
+                    <option value="6">Cooling Center</option>
+                    <option value="7">Senior Center</option>
+                    <option value="8">Warming Center</option>
+                </select>                
+            </div>
+            <div class="col-md-6">
+                <label for="distance">Within a certain distance</label><br/>
+                <select name="distance" ng-model="dist" id="distance" class="form-control">
+                    <option value="1609">Less than one mile</option>
+                    <option value="3218">Less than two miles</option>
+                    <option value="8046">Less than five miles</option>
+                    <option value="16093">Less than ten miles</option>            
+                </select>                        
+            </div>
+        </div>        
+        <div class="row">
+            <div class="col-md-12">
+                <label for="address">Near Chicago street address</label><br/>
+                <input type="text" id="address" ng-model="searchLocation" class="col-md-9 input-lg" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'" class=""/>
+                <button type="submit" class="btn btn-primary col-md-2 col-md-offset-1 input-lg" ng-click="doGeocode()">search</button>
+        </div>
+    </form>
+
+    <div class="row">
+        <p ng-show="geocodeError" class="alert alert-warning">I don't know where that address is. Sorry!</p>
+        <p ng-show="noResultsError" class="alert alert-warning">There's nothing near that address. Sorry!</p>        
+    </div>
+
+    <div class="row">
+        {% raw %}    
+        <ol>
+            <li ng-repeat="res in searchResults">
+                <p>
+                    <span class="hp-name">{{ res.name }}</span>
+                    {{ res.address }}, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
+                </p>
+                <p ng-if="res.phone">Call: <a href="tel://{{res.phone}}">{{ res.phone }}</a></p>
+                <p ng-if="res.hours_of_operation">Hours: <span class="hours">{{ res.hours_of_operation }}</span></p>
+            </li>
+        </ol>
+        {% endraw %}
+    
+    </div>
+</div>
