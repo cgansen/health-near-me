@@ -24,6 +24,10 @@ const (
 	MentalHealthClinic
 	STISpecialtyClinic
 	WICClinic
+	CommunityServiceCenter
+	CoolingCenter
+	SeniorCenter
+	WarmingCenter
 )
 
 func (hp *HealthProvider) FormatLocation() {
@@ -47,6 +51,14 @@ func (hp HealthProvider) FriendlyTypeName() string {
 		return "STI Specialty Clinic"
 	case WICClinic:
 		return "WIC Clinic"
+	case CommunityServiceCenter:
+		return "Community Service Center"
+	case CoolingCenter:
+		return "Cooling Center"
+	case SeniorCenter:
+		return "Senior Center"
+	case WarmingCenter:
+		return "Warming Center"
 	}
 
 	return ""

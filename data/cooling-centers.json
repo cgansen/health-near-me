@@ -1,0 +1,1809 @@
+[ {
+  "zip_code" : "60625",
+  "phone" : "312-744-0784",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67975768517618",
+    "latitude" : "41.968694977057105",
+    "human_address" : "{\"address\":\"2019 W. Lawrence Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60625\"}"
+  },
+  "address" : "2019 W. Lawrence Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat 9:00 a.m. to 4:00 p.m.",
+  "state" : "IL",
+  "site_type" : "Regional Senior Center",
+  "name" : "Northeast",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60629",
+  "phone" : "312-747-0440",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70315660949412",
+    "latitude" : "41.78229468702299",
+    "human_address" : "{\"address\":\"6117 S. Kedzie Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "6117 S. Kedzie Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat 9:00 a.m. to 4:00 p.m.",
+  "state" : "IL",
+  "site_type" : "Regional Senior Center",
+  "name" : "Southwest",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60618",
+  "phone" : "312-744-6681",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72265595766675",
+    "latitude" : "41.938325732152336",
+    "human_address" : "{\"address\":\"3160 N. Milwaukee Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60618\"}"
+  },
+  "address" : "3160 N. Milwaukee Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat - Sun 9:00 a.m. to 4:00 p.m",
+  "state" : "IL",
+  "site_type" : "Regional Senior Center",
+  "name" : "Northwest",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60612",
+  "phone" : "312-746-5300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67907470907325",
+    "latitude" : "41.870607218318284",
+    "human_address" : "{\"address\":\"2102 W. Ogden Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "2102 W. Ogden Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "state" : "IL",
+  "site_type" : "Regional Senior Center",
+  "name" : "Central West",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60649",
+  "phone" : "312-747-0189",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58127911489927",
+    "latitude" : "41.75148528422407",
+    "human_address" : "{\"address\":\"1767 E. 79th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "1767 E. 79th Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat - Sun 9:00 a.m. to 4:00 p.m",
+  "state" : "IL",
+  "site_type" : "Regional Senior Center",
+  "name" : "Southeast",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60602",
+  "phone" : "312-744-4550",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62522219047514",
+    "latitude" : "41.88327494122517",
+    "human_address" : "{\"address\":\"78 E. Washington Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60602\"}"
+  },
+  "address" : "78 E. Washington Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "state" : "IL",
+  "site_type" : "Regional Senior Center",
+  "name" : "Renaissance Court",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60640",
+  "phone" : "312-744-2580",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65488723277781",
+    "latitude" : "41.96800354653189",
+    "human_address" : "{\"address\":\"4740 N. Sheridan Road\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "4740 N. Sheridan Road",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "site_type" : "Community Service Center",
+  "name" : "North Area Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60621",
+  "phone" : "312-747-0200",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6459870083005",
+    "latitude" : "41.768739512285926",
+    "human_address" : "{\"address\":\"845 W. 69th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "845 W. 69th Street",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "site_type" : "Community Service Center",
+  "name" : "Englewood Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60612",
+  "phone" : "312-746-5400",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70617830105714",
+    "latitude" : "41.88083351336819",
+    "human_address" : "{\"address\":\"10 S. Kedzie Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "10 S. Kedzie Avenue",
+  "hours_of_operation" : "M-F Open 24 Hours",
+  "state" : "IL",
+  "site_type" : "Community Service Center",
+  "name" : "Garfield Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60653",
+  "phone" : "312-747-2300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61229000038304",
+    "latitude" : "41.81866000005914",
+    "human_address" : "{\"address\":\"4314 S. Cottage Grove\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "4314 S. Cottage Grove",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "site_type" : "Community Service Center",
+  "name" : "King Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60639",
+  "phone" : "312-744-2014",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73554927780232",
+    "latitude" : "41.91698823973889",
+    "human_address" : "{\"address\":\"4357 W. Armitage Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "4357 W. Armitage Avenue",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "site_type" : "Community Service Center",
+  "name" : "Trina Davila Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "312-747-0331",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.55147015689619",
+    "latitude" : "41.73767280915678",
+    "human_address" : "{\"address\":\"8650 S. Commercial Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "8650 S. Commercial Avenue",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "site_type" : "Community Service Center",
+  "name" : "South Chicago Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60616",
+  "phone" : "312-745-4290",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62736911979094",
+    "latitude" : "41.85875348329675",
+    "human_address" : "{\"address\":\"1718 S State St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60616\"}"
+  },
+  "address" : "1718 S State St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 1",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60609",
+  "phone" : "312-747-8366",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63063516381594",
+    "latitude" : "41.80181236132043",
+    "human_address" : "{\"address\":\"5101 S Wentworth Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "5101 S Wentworth Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 2",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60637",
+  "phone" : "312-747-8201",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60565422037726",
+    "latitude" : "41.766487809914835",
+    "human_address" : "{\"address\":\"7040 S Cottage Grove Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60637\"}"
+  },
+  "address" : "7040 S Cottage Grove Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 3",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "312-747-7581",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56760626085435",
+    "latitude" : "41.708010995083974",
+    "human_address" : "{\"address\":\"2255 E 103rd St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "2255 E 103rd St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 4",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60628",
+  "phone" : "312-747-8210",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60546461966248",
+    "latitude" : "41.692768796775",
+    "human_address" : "{\"address\":\"727 E 111th St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "727 E 111th St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 5",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60620",
+  "phone" : "312-745-3617",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64413530585745",
+    "latitude" : "41.75227376972855",
+    "human_address" : "{\"address\":\"7808 S Halsted St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "7808 S Halsted St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 6",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60636",
+  "phone" : "312-747-8223",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66086368854025",
+    "latitude" : "41.779554236061244",
+    "human_address" : "{\"address\":\"1438 W 63rd St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60636\"}"
+  },
+  "address" : "1438 W 63rd St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 7",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60629",
+  "phone" : "312-747-8730",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70886949846425",
+    "latitude" : "41.77891571742043",
+    "human_address" : "{\"address\":\"3420 W 63rd St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "3420 W 63rd St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 8",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60608",
+  "phone" : "312-747-8227",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64635129661039",
+    "latitude" : "41.83770312989609",
+    "human_address" : "{\"address\":\"3120 S Halsted St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "3120 S Halsted St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 9",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60623",
+  "phone" : "312-747-7511",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70861768829604",
+    "latitude" : "41.85661714075195",
+    "human_address" : "{\"address\":\"3315 W Ogden Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3315 W Ogden Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 10",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60612",
+  "phone" : "312-746-8386",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70470139136083",
+    "latitude" : "41.87363569375314",
+    "human_address" : "{\"address\":\"3151 W Harrison St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "3151 W Harrison St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 11",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60607",
+  "phone" : "312-746-8309",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65718605280287",
+    "latitude" : "41.88029254022915",
+    "human_address" : "{\"address\":\"100 S Racine Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60607\"}"
+  },
+  "address" : "100 S Racine Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 12",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60622",
+  "phone" : "312-746-8357",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6721713911488",
+    "latitude" : "41.89868827517644",
+    "human_address" : "{\"address\":\"937 N Wood St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "937 N Wood St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 13",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60647",
+  "phone" : "312-744-8250",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6973694461494",
+    "latitude" : "41.92094381440253",
+    "human_address" : "{\"address\":\"2150 N California Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "2150 N California Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 14",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60644",
+  "phone" : "312-743-1440",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7683326710416",
+    "latitude" : "41.88016139147908",
+    "human_address" : "{\"address\":\"5701 W Madison St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5701 W Madison St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 15",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60630",
+  "phone" : "312-742-4480",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76622325596205",
+    "latitude" : "41.97406875064436",
+    "human_address" : "{\"address\":\"5151 N Milwaukee Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60630\"}"
+  },
+  "address" : "5151 N Milwaukee Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 16",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60630",
+  "phone" : "312-742-4410",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72801606446808",
+    "latitude" : "41.96617255036131",
+    "human_address" : "{\"address\":\"4650 N Pulaski Rd\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60630\"}"
+  },
+  "address" : "4650 N Pulaski Rd",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 17",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60610",
+  "phone" : "312-742-5870",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64321899032535",
+    "latitude" : "41.90324698797116",
+    "human_address" : "{\"address\":\"1160 N Larrabee St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60610\"}"
+  },
+  "address" : "1160 N Larrabee St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 18",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60613",
+  "phone" : "312-744-8320",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65096073232333",
+    "latitude" : "41.94734508071834",
+    "human_address" : "{\"address\":\"850 W Addison St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "850 W Addison St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 19",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60625",
+  "phone" : "312-742-8714",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69275364769919",
+    "latitude" : "41.97968036724137",
+    "human_address" : "{\"address\":\"5400 N Lincoln Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60625\"}"
+  },
+  "address" : "5400 N Lincoln Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 20",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60643",
+  "phone" : "312-745-0710",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66849878751209",
+    "latitude" : "41.69137510453929",
+    "human_address" : "{\"address\":\"1900 W Monterey Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "1900 W Monterey Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 22",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60626",
+  "phone" : "312-744-5907",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6711905180936",
+    "latitude" : "41.999646075961806",
+    "human_address" : "{\"address\":\"6464 N Clark St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "6464 N Clark St",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 24",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60639",
+  "phone" : "312-746-8605",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76438070966057",
+    "latitude" : "41.918443447300604",
+    "human_address" : "{\"address\":\"5555 W Grand Ave\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "5555 W Grand Ave",
+  "hours_of_operation" : "Open Saturday and Sunday",
+  "state" : "IL",
+  "site_type" : "Police Station",
+  "name" : "District 25",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60625",
+  "phone" : "(312) 744-1933",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71358529181015",
+    "latitude" : "41.97484541004977",
+    "human_address" : "{\"address\":\"5150 N. Kimball Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60625\"}"
+  },
+  "address" : "5150 N. Kimball Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Albany Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60827",
+  "phone" : "(312) 747-3270",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60220329340268",
+    "latitude" : "41.654748194923336",
+    "human_address" : "{\"address\":\"13281 S. Corliss Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60827\"}"
+  },
+  "address" : "13281 S. Corliss Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Altgeld",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60632",
+  "phone" : "(312) 747-9241",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72648637582104",
+    "latitude" : "41.8011516408391",
+    "human_address" : "{\"address\":\"5055 S. Archer Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "address" : "5055 S. Archer Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Archer Heights",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60644",
+  "phone" : "(312) 746-5038",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76572190710762",
+    "latitude" : "41.88923971478115",
+    "human_address" : "{\"address\":\"5615 W. Race Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5615 W. Race Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Austin",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60634",
+  "phone" : "(312) 744-6222",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.77944829132372",
+    "latitude" : "41.95303345551321",
+    "human_address" : "{\"address\":\"6100 W. Irving Park Road\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60634\"}"
+  },
+  "address" : "6100 W. Irving Park Road",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Austin-Irving",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "(312) 747-5234",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58587821773722",
+    "latitude" : "41.74634227351919",
+    "human_address" : "{\"address\":\"8148 S. Stony Island Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "8148 S. Stony Island Avenue ",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Avalon",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60643",
+  "phone" : "(312) 747-9673",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6718259361853",
+    "latitude" : "41.721201982994785",
+    "human_address" : "{\"address\":\"1962 W. 95th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "1962 W. 95th Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Beverly",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60640",
+  "phone" : "(312) 744-0019",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66010941497308",
+    "latitude" : "41.97150782906277",
+    "human_address" : "{\"address\":\"1226 W. Ainslie Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "1226 W. Ainslie Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Bezazian",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60615",
+  "phone" : "(312) 747-0511",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.58911460582341",
+    "latitude" : "41.80549856317075",
+    "human_address" : "{\"address\":\"4904 S. Lake Park Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "4904 S. Lake Park Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Blackstone",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60620",
+  "phone" : "(312) 747-6291",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65729514660165",
+    "latitude" : "41.73238846647307",
+    "human_address" : "{\"address\":\"1350 W. 89th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "1350 W. 89th Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Brainerd",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60632",
+  "phone" : "(312) 747-0666",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70266951690104",
+    "latitude" : "41.8151249356551",
+    "human_address" : "{\"address\":\"4314 S. Archer Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "address" : "4314 S. Archer Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Brighton Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60647",
+  "phone" : "(312) 744-6022",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68034300369487",
+    "latitude" : "41.91227618114533",
+    "human_address" : "{\"address\":\"1701 N. Milwaukee Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "1701 N. Milwaukee Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Bucktown-Wicker Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60659",
+  "phone" : "(312) 742-9590",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69783932335078",
+    "latitude" : "41.984663209242136",
+    "human_address" : "{\"address\":\"5630 N. Lincoln Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60659\"}"
+  },
+  "address" : "5630 N. Lincoln Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Budlong Woods",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60609",
+  "phone" : "(312) 747-0644",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64256248524396",
+    "latitude" : "41.81533825960713",
+    "human_address" : "{\"address\":\"642 W. 43rd Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "642 W. 43rd Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Canaryville",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60609",
+  "phone" : "(312) 747-6872",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62645562769922",
+    "latitude" : "41.82814460530432",
+    "human_address" : "{\"address\":\"3647 S. State Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "3647 S. State Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Chicago Bee",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60629",
+  "phone" : "(312) 747-0639",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70329432075633",
+    "latitude" : "41.78197629571594",
+    "human_address" : "{\"address\":\"6120 S. Kedzie Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "6120 S. Kedzie Avenue ",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Chicago Lawn",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60616",
+  "phone" : "(312) 747-8013",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63187088623415",
+    "latitude" : "41.84976142050114",
+    "human_address" : "{\"address\":\"2353 S. Wentworth Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60616\"}"
+  },
+  "address" : "2353 S. Wentworth Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Chinatown",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60638",
+  "phone" : "(312) 747-5657",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.78179293415415",
+    "latitude" : "41.77669602524939",
+    "human_address" : "{\"address\":\"6423 W. 63rd Place\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60638\"}"
+  },
+  "address" : "6423 W. 63rd Place",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Clearing",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60637",
+  "phone" : "(312) 747-7760",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60713524338108",
+    "latitude" : "41.78032733934338",
+    "human_address" : "{\"address\":\"731 E. 63rd Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60637\"}"
+  },
+  "address" : "731 E. 63rd Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Coleman",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60608",
+  "phone" : "(312) 747-8990",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6462238075908",
+    "latitude" : "41.83254459934408",
+    "human_address" : "{\"address\":\"3400 S. Halsted Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "3400 S. Halsted Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Daley, Richard J.-Bridgeport",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60612",
+  "phone" : "(312) 743-0555",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70646180239689",
+    "latitude" : "41.89469362575641",
+    "human_address" : "{\"address\":\"733 N. Kedzie Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "733 N. Kedzie Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Daley, Richard M.-W Humboldt",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60623",
+  "phone" : "(312) 747-3725",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70965742761399",
+    "latitude" : "41.86447035277306",
+    "human_address" : "{\"address\":\"3353 W. 13th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "3353 W. 13th Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Douglass",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60634",
+  "phone" : "(312) 743-0480",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.81342276248131",
+    "latitude" : "41.94327523068454",
+    "human_address" : "{\"address\":\"7455 W. Cornelia Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60634\"}"
+  },
+  "address" : "7455 W. Cornelia Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Dunning",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60646",
+  "phone" : "(312) 744-8313",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7621183558191",
+    "latitude" : "41.99724412647362",
+    "human_address" : "{\"address\":\"5331 W. Devon Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60646\"}"
+  },
+  "address" : "5331 W. Devon Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Edgebrook",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60660",
+  "phone" : "(312) 744-0718",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66078987686434",
+    "latitude" : "41.990942289427046",
+    "human_address" : "{\"address\":\"1210 W. Elmdale Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60660\"}"
+  },
+  "address" : "1210 W. Elmdale Avenue",
+  "hours_of_operation" : "M: Closed; TU-TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed; ",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Edgewater",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60632",
+  "phone" : "(312) 747-0032",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69412961040405",
+    "latitude" : "41.79366459870096",
+    "human_address" : "{\"address\":\"2807 W. 55th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60632\"}"
+  },
+  "address" : "2807 W. 55th Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Gage Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60707",
+  "phone" : "(312) 746-0165",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.79728784408778",
+    "latitude" : "41.92109609237066",
+    "human_address" : "{\"address\":\"6871 W. Belden Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60707\"}"
+  },
+  "address" : "6871 W. Belden Avenue",
+  "hours_of_operation" : "M-TH: 10AM-6PM; F: 9AM-5PM; SA, SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Galewood-Mont Clare",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60638",
+  "phone" : "(312) 747-6094",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.78018573538776",
+    "latitude" : "41.79281923599342",
+    "human_address" : "{\"address\":\"6348 S. Archer Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60638\"}"
+  },
+  "address" : "6348 S. Archer Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Garfield Ridge",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60619",
+  "phone" : "(312) 745-1608",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60040226851038",
+    "latitude" : "41.76231423275959",
+    "human_address" : "{\"address\":\"1000 East 73rd Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "1000 East 73rd Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Greater Grand Crossing",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60615",
+  "phone" : "(312) 747-2541",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62272923100159",
+    "latitude" : "41.80740636174217",
+    "human_address" : "{\"address\":\"4801 S. Michigan Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60615\"}"
+  },
+  "address" : "4801 S. Michigan Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Hall",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60605",
+  "phone" : "(312) 747-4300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6277248103858",
+    "latitude" : "41.876895532791686",
+    "human_address" : "{\"address\":\"400 S. State Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60605\"}"
+  },
+  "address" : "400 S. State Street",
+  "hours_of_operation" : "M-TH: 9AM-9PM; F, SA: 9AM-5PM; SU: 1PM-5PM",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Harold Washington-HWLC",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60633",
+  "phone" : "(312) 747-0046",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.54920989297193",
+    "latitude" : "41.65923625090685",
+    "human_address" : "{\"address\":\"3048 E. 130th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60633\"}"
+  },
+  "address" : "3048 E. 130th Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Hegewisch",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60618",
+  "phone" : "(312) 744-0900",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71691771117403",
+    "latitude" : "41.95384370879839",
+    "human_address" : "{\"address\":\"3548 W. Irving Park Road\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60618\"}"
+  },
+  "address" : "3548 W. Irving Park Road",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Independence",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60630",
+  "phone" : "(312) 744-1998",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76172176849617",
+    "latitude" : "41.967562324592144",
+    "human_address" : "{\"address\":\"5363 W. Lawrence Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60630\"}"
+  },
+  "address" : "5363 W. Lawrence Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Jefferson Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "(312) 747-6479",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5654186415706",
+    "latitude" : "41.713490039788894",
+    "human_address" : "{\"address\":\"2401 E. 100th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "2401 E. 100th Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Jeffery Manor",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60621",
+  "phone" : "(312) 747-8418",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63746875075267",
+    "latitude" : "41.782343495330295",
+    "human_address" : "{\"address\":\"6151 S. Normal Boulevard\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "6151 S. Normal Boulevard",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Kelly",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60616",
+  "phone" : "(312) 747-7543",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61739931187078",
+    "latitude" : "41.83225513635272",
+    "human_address" : "{\"address\":\"3436 S. King Drive\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60616\"}"
+  },
+  "address" : "3436 S. King Drive",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "King",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60624",
+  "phone" : "(312) 746-7730",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7255367645667",
+    "latitude" : "41.87930825979932",
+    "human_address" : "{\"address\":\"115 S. Pulaski Road\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60624\"}"
+  },
+  "address" : "115 S. Pulaski Road",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Legler",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60657",
+  "phone" : "(312) 744-0166",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67026591076159",
+    "latitude" : "41.94051995055977",
+    "human_address" : "{\"address\":\"1659 W. Melrose Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "1659 W. Melrose Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Lincoln Belmont",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60614",
+  "phone" : "(312) 744-1926",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65806679702911",
+    "latitude" : "41.9253163505702",
+    "human_address" : "{\"address\":\"1150 W. Fullerton Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60614\"}"
+  },
+  "address" : "1150 W. Fullerton Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Lincoln Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60623",
+  "phone" : "(312) 745-1862",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70511291339608",
+    "latitude" : "41.84967263862272",
+    "human_address" : "{\"address\":\"2311 S. Kedzie Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "2311 S. Kedzie Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Little Village",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60647",
+  "phone" : "(312) 744-5295",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70341960696669",
+    "latitude" : "41.92478575057294",
+    "human_address" : "{\"address\":\"3030 W. Fullerton Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60647\"}"
+  },
+  "address" : "3030 W. Fullerton Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Logan Square",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60608",
+  "phone" : "(312) 746-4329",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66122498707978",
+    "latitude" : "41.857820778174656",
+    "human_address" : "{\"address\":\"1805 S. Loomis Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "1805 S. Loomis Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Lozano",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60612",
+  "phone" : "(312) 746-6800",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67916344433422",
+    "latitude" : "41.88117718045707",
+    "human_address" : "{\"address\":\"6 S. Hoyne Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "6 S. Hoyne Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Manning",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60630",
+  "phone" : "(312) 744-1254",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73825034916149",
+    "latitude" : "41.968151058825754",
+    "human_address" : "{\"address\":\"4400 W. Lawrence Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60630\"}"
+  },
+  "address" : "4400 W. Lawrence Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Mayfair",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60609",
+  "phone" : "(312) 747-6082",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67343099318283",
+    "latitude" : "41.83035158005777",
+    "human_address" : "{\"address\":\"1915 W. 35th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "1915 W. 35th Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "McKinley Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60657",
+  "phone" : "(312) 744-1139",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64568431625388",
+    "latitude" : "41.94009280245566",
+    "human_address" : "{\"address\":\"644 W. Belmont Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60657\"}"
+  },
+  "address" : "644 W. Belmont Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Merlo",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60655",
+  "phone" : "(312) 747-2805",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70091049850498",
+    "latitude" : "41.69298549752085",
+    "human_address" : "{\"address\":\"11010 S. Kedzie Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60655\"}"
+  },
+  "address" : "11010 S. Kedzie Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Mount Greenwood",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60610",
+  "phone" : "(312) 744-0991",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6369110556418",
+    "latitude" : "41.90383476840986",
+    "human_address" : "{\"address\":\"310 W. Division Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60610\"}"
+  },
+  "address" : "310 W. Division Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Near North",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60639",
+  "phone" : "(312) 746-4233",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76886746051726",
+    "latitude" : "41.909385967328426",
+    "human_address" : "{\"address\":\"5724 W. North Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "5724 W. North Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "North Austin",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60639",
+  "phone" : "(312) 744-9573",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73432031189344",
+    "latitude" : "41.90982103200537",
+    "human_address" : "{\"address\":\"4300 W. North Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "4300 W. North Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "North Pulaski",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60645",
+  "phone" : "(312) 744-2292",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.69958791971804",
+    "latitude" : "41.998212242087206",
+    "human_address" : "{\"address\":\"6435 N. California Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60645\"}"
+  },
+  "address" : "6435 N. California Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Northtown",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60656",
+  "phone" : "(312) 744-1965",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.81330682610985",
+    "latitude" : "41.97806049179239",
+    "human_address" : "{\"address\":\"7454 W. Balmoral Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60656\"}"
+  },
+  "address" : "7454 W. Balmoral Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Oriole Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60641",
+  "phone" : "(312) 744-0152",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75463221938679",
+    "latitude" : "41.938785132222925",
+    "human_address" : "{\"address\":\"5108 W. Belmont Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60641\"}"
+  },
+  "address" : "5108 W. Belmont Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Portage-Cragin",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60628",
+  "phone" : "(312) 747-2033",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61821423954542",
+    "latitude" : "41.6943993478663",
+    "human_address" : "{\"address\":\"11001 S. Indiana Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "11001 S. Indiana Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Pullman",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60631",
+  "phone" : "(312) 744-1478",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.79821674928576",
+    "latitude" : "41.99195084318547",
+    "human_address" : "{\"address\":\"6083 N. Northwest Highway\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60631\"}"
+  },
+  "address" : "6083 N. Northwest Highway",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Roden",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60626",
+  "phone" : "(312) 744-0156",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67336257682068",
+    "latitude" : "42.006781595898914",
+    "human_address" : "{\"address\":\"6907 N. Clark Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60626\"}"
+  },
+  "address" : "6907 N. Clark Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Rogers Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60607",
+  "phone" : "(312) 746-5656",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65444252925101",
+    "latitude" : "41.86943247966951",
+    "human_address" : "{\"address\":\"1101 W. Taylor Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60607\"}"
+  },
+  "address" : "1101 W. Taylor Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Roosevelt",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60652",
+  "phone" : "(312) 747-0193",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72436124811308",
+    "latitude" : "41.749352804211014",
+    "human_address" : "{\"address\":\"4101 W. 79th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60652\"}"
+  },
+  "address" : "4101 W. 79th Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Scottsdale",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60609",
+  "phone" : "(312) 747-0477",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65497322295496",
+    "latitude" : "41.79522560459017",
+    "human_address" : "{\"address\":\"5440 S. Racine Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60609\"}"
+  },
+  "address" : "5440 S. Racine Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Sherman Park",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "(312) 747-8065",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.54977619813424",
+    "latitude" : "41.73091178472393",
+    "human_address" : "{\"address\":\"9055 S. Houston Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "9055 S. Houston Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "South Chicago",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60649",
+  "phone" : "(312) 747-5281",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.56213611616369",
+    "latitude" : "41.761792625982594",
+    "human_address" : "{\"address\":\"2505 E. 73rd Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "2505 E. 73rd Street",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "South Shore",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60625",
+  "phone" : "(312) 744-7616",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68448133764942",
+    "latitude" : "41.96250382118604",
+    "human_address" : "{\"address\":\"4455 N. Lincoln Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60625\"}"
+  },
+  "address" : "4455 N. Lincoln Avenue",
+  "hours_of_operation" : "M-TH: 9AM-9PM; F, SA: 9AM-5PM; SU: 1PM-5PM",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Sulzer Regional",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60620",
+  "phone" : "(312) 747-5927",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65398226057334",
+    "latitude" : "41.75745172208852",
+    "human_address" : "{\"address\":\"7506 S. Racine Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "7506 S. Racine Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Thurgood Marshall",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60623",
+  "phone" : "(312) 745-1660",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72452669499438",
+    "latitude" : "41.842057117097625",
+    "human_address" : "{\"address\":\"2708 S. Pulaski Road\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60623\"}"
+  },
+  "address" : "2708 S. Pulaski Road",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Toman",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60613",
+  "phone" : "(312) 744-8400",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65349928925056",
+    "latitude" : "41.95837819368438",
+    "human_address" : "{\"address\":\"929 W. Buena Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60613\"}"
+  },
+  "address" : "929 W. Buena Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Uptown",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "(312) 747-5500",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.53351069597107",
+    "latitude" : "41.70277012119965",
+    "human_address" : "{\"address\":\"3710 E. 106th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "3710 E. 106th Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Vodak-East Side",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60643",
+  "phone" : "(312) 747-1920",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67413447354456",
+    "latitude" : "41.692425806405964",
+    "human_address" : "{\"address\":\"11071 S. Hoyne Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "11071 S. Hoyne Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Walker",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60611",
+  "phone" : "(312) 742-8811",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62299896446554",
+    "latitude" : "41.897534902298894",
+    "human_address" : "{\"address\":\"163 E. Pearson Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60611\"}"
+  },
+  "address" : "163 E. Pearson Street",
+  "hours_of_operation" : "M-TH: 9AM-7PM; F, SA: 9AM-5PM; SU: 1PM-5PM",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Water Works",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60634",
+  "phone" : "(312) 746-5142",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.78594973344748",
+    "latitude" : "41.93661158805253",
+    "human_address" : "{\"address\":\"3104 N. Narragansett Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60634\"}"
+  },
+  "address" : "3104 N. Narragansett Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "West Belmont",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60651",
+  "phone" : "(312) 743-0260",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74789108131557",
+    "latitude" : "41.89500919818278",
+    "human_address" : "{\"address\":\"4856 W. Chicago Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60651\"}"
+  },
+  "address" : "4856 W. Chicago Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "West Chicago Avenue",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60636",
+  "phone" : "(312) 747-3481",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66814610717171",
+    "latitude" : "41.77934452087478",
+    "human_address" : "{\"address\":\"1745 W. 63rd Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60636\"}"
+  },
+  "address" : "1745 W. 63rd Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "West Englewood",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60629",
+  "phone" : "(312) 747-7381",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72357170491985",
+    "latitude" : "41.778718730032836",
+    "human_address" : "{\"address\":\"4020 W. 63rd Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "4020 W. 63rd Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "West Lawn",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60643",
+  "phone" : "(312) 747-1425",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64351692717509",
+    "latitude" : "41.677842548079575",
+    "human_address" : "{\"address\":\"830 W. 119th Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60643\"}"
+  },
+  "address" : "830 W. 119th Street",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "West Pullman",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60622",
+  "phone" : "(312) 743-0450",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66849893256898",
+    "latitude" : "41.89603442529619",
+    "human_address" : "{\"address\":\"1625 W. Chicago Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "1625 W. Chicago Avenue",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "West Town",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60619",
+  "phone" : "(312) 747-0039",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6148795540565",
+    "latitude" : "41.75108787672468",
+    "human_address" : "{\"address\":\"7901 S. King Drive\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "7901 S. King Drive",
+  "hours_of_operation" : "M, W: 10AM-6PM;  TU, TH: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Whitney M. Young, Jr.",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60628",
+  "phone" : "(312) 747-6900",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64305653437839",
+    "latitude" : "41.72096170139649",
+    "human_address" : "{\"address\":\"9525 S. Halsted Street\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60628\"}"
+  },
+  "address" : "9525 S. Halsted Street",
+  "hours_of_operation" : "M-TH: 9AM-9PM; F, SA: 9AM-5PM; SU: 1PM-5PM",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Woodson Regional",
+  "city" : "CHICAGO"
+}
+, {
+  "zip_code" : "60652",
+  "phone" : "(312) 747-2696",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70215502694877",
+    "latitude" : "41.73836545679345",
+    "human_address" : "{\"address\":\"8530 S. Kedzie Avenue\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"60652\"}"
+  },
+  "address" : "8530 S. Kedzie Avenue",
+  "hours_of_operation" : "M, W: 12PM-8PM; TU, TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed",
+  "state" : "IL",
+  "site_type" : "Library",
+  "name" : "Wrightwood-Ashburn",
+  "city" : "CHICAGO"
+}
+ ]

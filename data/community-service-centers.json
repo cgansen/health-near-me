@@ -1,0 +1,91 @@
+[ {
+  "name" : "North Area Center",
+  "zip_code" : "60640",
+  "phone" : "312-744-2580",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65488723277781",
+    "latitude" : "41.96800354653189",
+    "human_address" : "{\"address\":\"4740 N. Sheridan Road\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "4740 N. Sheridan Road",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "city" : "Chicago"
+}
+, {
+  "name" : "Englewood Center",
+  "zip_code" : "60620",
+  "phone" : "312-747-0200",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65293166824182",
+    "latitude" : "41.75052412095545",
+    "human_address" : "{\"address\":\"1140 W. 79th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "1140 W. 79th Street",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "city" : "Chicago"
+}
+, {
+  "name" : "Garfield Center",
+  "zip_code" : "60612",
+  "phone" : "312-746-5400",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70617830105714",
+    "latitude" : "41.88083351336819",
+    "human_address" : "{\"address\":\"10 S. Kedzie Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "10 S. Kedzie Avenue",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "city" : "Chicago"
+}
+, {
+  "name" : "King Center",
+  "zip_code" : "60653",
+  "phone" : "312-747-2300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61229000038304",
+    "latitude" : "41.81866000005914",
+    "human_address" : "{\"address\":\"4314 S. Cottage Grove\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60653\"}"
+  },
+  "address" : "4314 S. Cottage Grove",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "city" : "Chicago"
+}
+, {
+  "name" : "Trina Davila Center",
+  "zip_code" : "60639",
+  "phone" : "312-744-2014",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.73554927780232",
+    "latitude" : "41.91698823973889",
+    "human_address" : "{\"address\":\"4357 W. Armitage Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "4357 W. Armitage Avenue",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "city" : "Chicago"
+}
+, {
+  "name" : "South Chicago Center",
+  "zip_code" : "60617",
+  "phone" : "312-747-0331",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.55147015689619",
+    "latitude" : "41.73767280915678",
+    "human_address" : "{\"address\":\"8650 S. Commercial Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "8650 S. Commercial Avenue",
+  "hours_of_operation" : "M.T.Th. F 9am-5pm Wed. 11am-7pm",
+  "state" : "IL",
+  "city" : "Chicago"
+}
+ ]
