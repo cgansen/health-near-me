@@ -1,3 +1,5 @@
+---
+---
 var healthApp = angular.module("healthApp", []);
 
 healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
@@ -6,6 +8,8 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
     $scope.noResultsError = false;
     $scope.lat = "";
     $scope.lon = "";
+    $scope.dist = 1609;
+    $scope.searchType = "all";
     
     $scope.map = new google.maps.Map(document.getElementById("map-canvas"), {zoom: 12, mapTypeId: google.maps.MapTypeId.ROADMAP});
     
@@ -36,21 +40,21 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', function($scope, $http){
     
     $scope.doSearch = function(){
         // hit API for nearby health providers
-        $http.jsonp("http://localhost:8080/search",
-                    { params: { lat: $scope.lat, lon: $scope.lon, dist: 1500, callback: "JSON_CALLBACK" } }
+        $http.jsonp("{{ site.api_url }}/search",
+                    { params: { 
+                        lat: $scope.lat, 
+                        lon: $scope.lon, 
+                        dist: $scope.dist, 
+                        searchType: $scope.searchType,
+                        callback: "JSON_CALLBACK" } }
         )
         .success(function(data){
             $scope.noResultsError = false;
-            console.log(data);
             $scope.searchResults = angular.copy(data);
         })
         .error(function(data, status, headers, config){
             $scope.noResultsError = true;
             $scope.searchResults = []
-            console.log(data);
-            console.log(status);
-            console.log(headers);
-            console.log(config);
         });
     };
 }]);

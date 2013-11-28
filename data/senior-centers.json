@@ -1,0 +1,337 @@
+[ {
+  "zip_code" : "60625",
+  "phone" : "312-744-0784",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68019238203728",
+    "latitude" : "41.96872254686461",
+    "human_address" : "{\"address\":\"2019 W. Lawrence Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60625\"}"
+  },
+  "address" : "2019 W. Lawrence Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat 9:00 a.m. to 4:00 p.m.",
+  "program" : "Regional Senior Center",
+  "state" : "IL",
+  "name" : "Northeast",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60629",
+  "phone" : "312-747-0440",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70319764951621",
+    "latitude" : "41.78212991978889",
+    "human_address" : "{\"address\":\"6117 S. Kedzie Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60629\"}"
+  },
+  "address" : "6117 S. Kedzie Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat 9:00 a.m. to 4:00 p.m.",
+  "program" : "Regional Senior Center",
+  "state" : "IL",
+  "name" : "Southwest",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60618",
+  "phone" : "312-744-6681",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.72268832479132",
+    "latitude" : "41.938368983472756",
+    "human_address" : "{\"address\":\"3160 N. Milwaukee Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60618\"}"
+  },
+  "address" : "3160 N. Milwaukee Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat - Sun 9:00 a.m. to 4:00 p.m",
+  "program" : "Regional Senior Center",
+  "state" : "IL",
+  "name" : "Northwest",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60612",
+  "phone" : "312-746-5300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67859824824583",
+    "latitude" : "41.87104299405995",
+    "human_address" : "{\"address\":\"2102 W. Ogden Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60612\"}"
+  },
+  "address" : "2102 W. Ogden Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Regional Senior Center",
+  "state" : "IL",
+  "name" : "Central West",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60649",
+  "phone" : "312-747-0189",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5819826459126",
+    "latitude" : "41.751512943458266",
+    "human_address" : "{\"address\":\"1767 E. 79th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60649\"}"
+  },
+  "address" : "1767 E. 79th Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. Sat - Sun 9:00 a.m. to 4:00 p.m",
+  "program" : "Regional Senior Center",
+  "state" : "IL",
+  "name" : "Southeast",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60602",
+  "phone" : "312-744-4550",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62495524186401",
+    "latitude" : "41.883854158623144",
+    "human_address" : "{\"address\":\"78 E. Washington Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60602\"}"
+  },
+  "address" : "78 E. Washington Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Regional Senior Center",
+  "state" : "IL",
+  "name" : "Renaissance Court",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60619",
+  "phone" : "312-745-3493",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62236238854524",
+    "latitude" : "41.721658859945016",
+    "human_address" : "{\"address\":\"49 East 95th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "49 East 95th Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Abbott Park",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60660",
+  "phone" : "312-744-4016",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66014332799551",
+    "latitude" : "41.98948336912841",
+    "human_address" : "{\"address\":\"5917 N. Broadway Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60660\"}"
+  },
+  "address" : "5917 N. Broadway Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Edgewater",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60621",
+  "phone" : "312-745-3328",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63308324283993",
+    "latitude" : "41.77992531402681",
+    "human_address" : "{\"address\":\"653-657 W. 63rd Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60621\"}"
+  },
+  "address" : "653-657 W. 63rd Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Englewood",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60622",
+  "phone" : "312-743-1016",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6682665907951",
+    "latitude" : "41.895752189070784",
+    "human_address" : "{\"address\":\"1613 W. Chicago Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60622\"}"
+  },
+  "address" : "1613 W. Chicago Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "West Town",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60639",
+  "phone" : "312-744-4016",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.74606693954983",
+    "latitude" : "41.92990843974359",
+    "human_address" : "{\"address\":\"2715 N. Cicero Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60639\"}"
+  },
+  "address" : "2715 N. Cicero Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Kelvyn Park",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60620",
+  "phone" : "312-745-4798",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65029061794029",
+    "latitude" : "41.750577216156685",
+    "human_address" : "{\"address\":\"1040 W. 79th Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60620\"}"
+  },
+  "address" : "1040 W. 79th Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Auburn Gresham",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60631",
+  "phone" : "312-744-4016",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.79412346217883",
+    "latitude" : "41.98653177632919",
+    "human_address" : "{\"address\":\"5801 N. Natoma Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60631\"}"
+  },
+  "address" : "5801 N. Natoma Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Norwood Park",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60638",
+  "phone" : "312-745-4250",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75315471018392",
+    "latitude" : "41.797226434618594",
+    "human_address" : "{\"address\":\"5674-B S. Archer Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60638\"}"
+  },
+  "address" : "5674-B S. Archer Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Garfield Ridge",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60619",
+  "phone" : "312-745-0385",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.60553887925143",
+    "latitude" : "41.743344084765305",
+    "human_address" : "{\"address\":\"8300 S. Cottage Grove Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60619\"}"
+  },
+  "address" : "8300 S. Cottage Grove Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Chatham",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60644",
+  "phone" : "312-743-1538",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75205184121931",
+    "latitude" : "41.87393384627249",
+    "human_address" : "{\"address\":\"5071 W. Congress Parkway\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60644\"}"
+  },
+  "address" : "5071 W. Congress Parkway",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Austin",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60640",
+  "phone" : "312-744-4016",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65901561549461",
+    "latitude" : "41.96537172202582",
+    "human_address" : "{\"address\":\"1145 W. Wilson Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60640\"}"
+  },
+  "address" : "1145 W. Wilson Avenue",
+  "hours_of_operation" : "Computer Classes Only -Schedule varies",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Truman College",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60618",
+  "phone" : "312-745-4029",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68608804614789",
+    "latitude" : "41.954849869961514",
+    "human_address" : "{\"address\":\"4040 N. Oakley Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60618\"}"
+  },
+  "address" : "4040 N. Oakley Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "North Center",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60641",
+  "phone" : "312-744-9022",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76210231986396",
+    "latitude" : "41.95497573162156",
+    "human_address" : "{\"address\":\"4100 N. Long Avenue\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60641\"}"
+  },
+  "address" : "4100 N. Long Avenue",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Portage Park",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60608",
+  "phone" : "312-743-0493",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.651544",
+    "latitude" : "41.855146",
+    "human_address" : "{\"address\":\"2021 S. Morgan Street\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60608\"}"
+  },
+  "address" : "2021 S. Morgan Street",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m. ",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "Pilsen",
+  "city" : "Chicago"
+}
+, {
+  "zip_code" : "60617",
+  "phone" : "312-745-1282",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.54550604728695",
+    "latitude" : "41.72769331491184",
+    "human_address" : "{\"address\":\"9233 S. Burley Ave.\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60617\"}"
+  },
+  "address" : "9233 S. Burley",
+  "hours_of_operation" : "Mon - Fri 8:30 a.m. to 4:30 p.m.",
+  "program" : "Satellite Senior Center",
+  "state" : "IL",
+  "name" : "South Chicago",
+  "city" : "Chicago"
+}
+ ]
