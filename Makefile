@@ -26,7 +26,7 @@ reset: deleteIndex createIndex createMapping
 	@echo "\n\ndeleted and recreated index"
 	
 load:
-	go run loader.go	
+	go run loader/main.go	
 	
 search:
 	curl -XGET 'http://localhost:9200/health-near-me/health-provider/_search' -d '{ "query": { "filtered" : { "query": { "match_all": {} }, "filter" : { "geo_distance" : { "distance" : "1mi", "location.lat_lon" : { "lat" : 41.866592082671566, "lon" : -87.69819577390969 } } } } } }'
