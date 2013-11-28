@@ -59,7 +59,6 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 	default:
 		// split query
 		pieces := strings.Split(cmd, "near")
-		log.Printf("pieces: %#v", pieces)
 
 		// term := strings.TrimSpace(pieces[0])
 		location := strings.TrimSpace(pieces[1])
@@ -117,7 +116,8 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 }
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
-	log.Printf("%#v", req)
+	log.Printf("%s %s %s %s", req.Method, req.RequestURI, req.RemoteAddr, req.Header.Get("User-Agent"))
+	
 	slat, slon, sdist, styp := req.FormValue("lat"), req.FormValue("lon"), req.FormValue("dist"), req.FormValue("searchType")
 
 	lat, err := strconv.ParseFloat(slat, 64)
@@ -143,6 +143,8 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
+        log.Printf("http search: %f,%f %d %s", lat, lon, dist, styp)
+        
 	result, err := healthnearme.DoSearch(lat, lon, dist, styp)
 	if err != nil {
 		log.Printf("error searching: %s", err)
