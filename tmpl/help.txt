@@ -1,3 +1,15 @@
-Health Near Me Help: use this service to find public health care providers near an address.
+Health Near Me: find public health care providers near an address.
 
-Text message like: "condoms near 1060 W Addison" or "warming center near 55th and State St".
+Text msg like: "condoms near 1060 W Addison" or "warming center near 55th and State St"
+
+Services supported:
+
+* Community Service Centers
+* Condom Distribution Sites
+* Cooling Centers
+* Licensed Substance Abuse Providers
+* Mental Health Clinics
+* Senior Centers
+* STI Speciality Clinics
+* Warming Centers
+* WIC Clinics
