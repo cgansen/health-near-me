@@ -6,7 +6,7 @@ title: Health Near Me
 <div ng-controller="SearchCtrl">    
     <div class="row">
       <div class="col-md-12">
-        <h2>Fill out this form to find health providers near a location in Chicago.</h2>
+        <h2>Find health providers near a location in Chicago.</h2>
         <p class="col-md-6 col-md-offset-3 alert alert-info">
           You can search via text message, too! Text <strong><em>list services</em></strong> to <strong><a href="tel://3125483951">312-548-3951</a></strong> to start.
           <br><a href="#/sms">Learn more about SMS searching &rarr;</a>
@@ -16,7 +16,7 @@ title: Health Near Me
     <form name="searchForm" class="form">
         <div class="row">
             <div class="col-md-6">
-                <label for="providerType">Kinds of Health Provider</label><br/>
+                <label for="providerType" class="control-label">Kinds of Health Provider</label><br/>
                 <select name="providerType" ng-model="searchType" id="providerType" class="form-control">
                     <option value="all">All</option>
                     <option value="0">Condom Distribution Site</option>
@@ -31,7 +31,7 @@ title: Health Near Me
                 </select>                
             </div>
             <div class="col-md-6">
-                <label for="distance">Within a certain distance</label><br/>
+                <label for="distance" class="control-label">Within a certain distance</label><br/>
                 <select name="distance" ng-model="dist" id="distance" class="form-control">
                     <option value="1609">Less than one mile</option>
                     <option value="3218">Less than two miles</option>
@@ -41,10 +41,14 @@ title: Health Near Me
             </div>
         </div>        
         <div class="row">
-            <div class="col-md-12">
-                <label for="address">Near Chicago street address</label><br/>
-                <input type="text" id="address" ng-model="searchLocation" class="col-md-8 col-xs-12 input-lg" maxlength="120" placeholder="e.g. '1060 W Addison' or 'Madison at State'"/>
-                <button type="submit" class="btn btn-primary col-md-3 col-md-offset-1 col-xs-12 col-xs-offset-0 input-lg" ng-click="doGeocode()">search</button>
+            <div class="col-md-8 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">
+                <label for="address" class="control-label">Near Chicago street address</label><br/>
+                <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
+                placeholder="e.g. '1060 W Addison' or 'Madison at State'" required/>
+            </div>
+            <div class="col-md-4 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
+                <label class="control-label">&nbsp;</label>
+                <button type="submit" ng-disabled="!searchForm.$valid" class="btn btn-primary input-lg form-control" ng-click="doGeocode()">search</button>
             </div>
         </div>
     </form>
