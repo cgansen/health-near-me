@@ -116,7 +116,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 }
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
-	log.Printf("%s %s %s %s", req.Method, req.RequestURI, req.RemoteAddr, req.Header.Get("User-Agent"))
+	log.Printf("%s %s %s %s %s", req.Method, req.RequestURI, req.RemoteAddr, req.Header.Get("X-Real-IP"), req.Header.Get("User-Agent"))
 	
 	slat, slon, sdist, styp := req.FormValue("lat"), req.FormValue("lon"), req.FormValue("dist"), req.FormValue("searchType")
 
