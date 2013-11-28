@@ -1,7 +1,17 @@
 ---
 ---
 
-var healthApp = angular.module("healthApp", ['ngRoute'])
+// h/t http://stackoverflow.com/a/12262820/1247272
+angular.module('analytics', ['ng']).service('analytics', [
+      '$rootScope', '$window', '$location', function($rootScope, $window, $location) {
+        var track = function() {
+            ga('send', 'pageview', {'page': $location.path()});
+        };
+      $rootScope.$on('$routeChangeSuccess', track);
+    }
+]);
+
+var healthApp = angular.module("healthApp", ['ngRoute', 'analytics'])
 .config(function($routeProvider, $locationProvider){
     $routeProvider.when("/help", {
         templateUrl: "help.html",
@@ -25,11 +35,11 @@ var healthApp = angular.module("healthApp", ['ngRoute'])
 });
 
 
-healthApp.controller('IndexCtrl', ['$scope', '$http', function($scope, $http){
+healthApp.controller('IndexCtrl', ['$scope', '$http', 'analytics', function($scope, $http, analytics){
     
 }]);
 
-healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', function($scope, $http, $location){
+healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics', function($scope, $http, $location, analytics){
     $scope.searchLocation = ($location.search()).l;
     $scope.geocodeError = false;
     $scope.noResultsError = false;
