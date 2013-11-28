@@ -12,6 +12,11 @@ var healthApp = angular.module("healthApp", ['ngRoute'])
         templateUrl: "about.html",
         controller: "IndexCtrl",        
     });
+
+    $routeProvider.when("/sms", {
+        templateUrl: "sms.html",
+        controller: "IndexCtrl",        
+    });    
     
     $routeProvider.when("/", {
         templateUrl: "search.html",
