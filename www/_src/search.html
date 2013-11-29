@@ -63,14 +63,14 @@ title: Health Near Me
     <div class="row" style="padding-top: 20px">
         <div class="col-md-12">
             {% raw %}    
-            <ol>
-                <li ng-repeat="res in searchResults">
+            <ol style="margin-left: 0; padding-left: 0;">
+                <li style="list-style:none;" ng-repeat="res in searchResults" class="hp-row">
                     <p>
                         <span class="hp-name">{{ res.name }}</span>
-                        {{ res.address }}, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
+                        <a target="_blank" title="Show directions in Google Maps" href="https://maps.google.com/?daddr={{ res.address | escape }}&saddr={{ lat | escape }},{{ lon | escape }}">{{ res.address }}</a>, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
                     </p>
                     <p ng-if="res.phone">Call: <a href="tel://{{res.phone}}">{{ res.phone }}</a></p>
-                    <p ng-if="res.hours_of_operation">Hours: <span class="hours">{{ res.hours_of_operation }}</span></p>
+                    <p ng-if="res.hours_of_operation">Hours: <span class="hours">{{ res.hours_of_operation }}</span></p>                      
                 </li>
             </ol>
             {% endraw %}

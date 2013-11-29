@@ -34,6 +34,9 @@ var healthApp = angular.module("healthApp", ['ngRoute', 'analytics'])
     });    
 });
 
+healthApp.filter('escape', function() {
+  return window.encodeURIComponent;
+});
 
 healthApp.controller('IndexCtrl', ['$scope', '$http', 'analytics', function($scope, $http, analytics){
     

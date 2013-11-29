@@ -3,3 +3,8 @@
     font-weight: bold;
     display: block;
 }
+
+.hp-row {    
+    border-bottom: 1px solid #ccc;    
+    margin: 5px 0;
+}
