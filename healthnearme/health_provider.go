@@ -75,7 +75,7 @@ func SearchType(term string) (HealthProviderType, error) {
 	cleaned := strings.ToLower(strings.TrimSpace(term))
 
 	switch cleaned {
-	case "condom", "free condoms":
+	case "condom", "condoms", "free condoms":
 		return CondomDistributionSite, nil
 	case "substance abuse", "substance abuse provider", "licensed substance abuse provider":
 		return SubstanceAbuseProvider, nil
