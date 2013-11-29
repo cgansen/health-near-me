@@ -20,6 +20,21 @@ Technical Overview
 
 The application consists of a HTTP API and data loader tool, both written in Go. The web frontend is HTML and AngularJS, with Jekyll behind the scenes. ElasticSearch powers the backend datastore and search index. All of the components are hosted on Amazon Web Services (namely EC2 and S3).
 
+Data
+----
+
+This tool includes data from nine public datasets on the [City of Chicago Data Portal](http://data.cityofchicago.org):
+
+- [Community Service Centers](http://data.cityofchicago.org/resource/bspy-6mw8.json)
+- [Condom Distribution Sites](http://data.cityofchicago.org/resource/azpf-uc4s.json)
+- [Cooling Centers](http://data.cityofchicago.org/resource/msrk-w9ih.json)
+- [Licensed Substance Abuse Providers](http://data.cityofchicago.org/resource/9zqv-3uhs.json)
+- [Mental Health Clinics](http://data.cityofchicago.org/resource/v56e-cy8y.json)
+- [Senior Centers](http://data.cityofchicago.org/resource/qhfc-4cw2.json)
+- [STI Specialty Clinic](http://data.cityofchicago.org/resource/ajzs-akmm.json)
+- [Warming Centers](http://data.cityofchicago.org/resource/h243-v2q5.json)
+- [WIC Clinics](http://data.cityofchicago.org/resource/g85x-gwmp.json)
+
 Contact
 -------
 
