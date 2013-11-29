@@ -34,7 +34,6 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 	// TODO(cgansen):
 	// support sessions
-	// search regex
 
 	search := req.FormValue("Body")
 	log.Printf("sms search: %s", search)
@@ -60,7 +59,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 		// split query
 		pieces := strings.Split(cmd, "near")
 
-		// term := strings.TrimSpace(pieces[0])
+		term := strings.TrimSpace(pieces[0])
 		location := strings.TrimSpace(pieces[1])
 
 		// geocode
@@ -75,10 +74,34 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 		log.Printf("geocoded %s to %#v", location, point)
 
-		// TODO map term to searchType
+		// map term to searchType
+		searchType, err := healthnearme.SearchType(term)
+		if err != nil {
+			// couldn't map it, so send a message asking user to retry
+
+			t, err := template.New("problem.txt").ParseFiles(tmplPath + "problem.txt")
+			if err != nil {
+				log.Print("template error: ", err)
+				http.Error(w, "error loading template", 500)
+				return
+			}
+
+			ctxt := map[string]string{
+				"Term": term,
+			}
+
+			if err := t.Execute(w, ctxt); err != nil {
+				log.Print(err)
+				http.Error(w, "error writing results", 500)
+				return
+			}
+
+			w.Header().Add("Content-type", "text/xml")
+			return
+		}
 
 		// lookup
-		result, err := healthnearme.DoSearch(point.Lat(), point.Lng(), 1609, "all")
+		result, err := healthnearme.DoSearch(point.Lat(), point.Lng(), 1609, strconv.Itoa(int(searchType)))
 
 		// respond
 		hits, err := healthnearme.LoadResults(result, point)
@@ -117,7 +140,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 func SearchHandler(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%s %s %s %s %s", req.Method, req.RequestURI, req.RemoteAddr, req.Header.Get("X-Real-IP"), req.Header.Get("User-Agent"))
-	
+
 	slat, slon, sdist, styp := req.FormValue("lat"), req.FormValue("lon"), req.FormValue("dist"), req.FormValue("searchType")
 
 	lat, err := strconv.ParseFloat(slat, 64)
@@ -143,8 +166,8 @@ func SearchHandler(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-        log.Printf("http search: %f,%f %d %s", lat, lon, dist, styp)
-        
+	log.Printf("http search: %f,%f %d %s", lat, lon, dist, styp)
+
 	result, err := healthnearme.DoSearch(lat, lon, dist, styp)
 	if err != nil {
 		log.Printf("error searching: %s", err)

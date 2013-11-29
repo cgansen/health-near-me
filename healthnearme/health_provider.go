@@ -1,6 +1,11 @@
 package healthnearme
 
-import geo "github.com/kellydunn/golang-geo"
+import (
+	"errors"
+	"strings"
+
+	geo "github.com/kellydunn/golang-geo"
+)
 
 type HealthProvider struct {
 	Name        string             `json:"name"`
@@ -19,7 +24,8 @@ type HealthProvider struct {
 type HealthProviderType int
 
 const (
-	CondomDistributionSite HealthProviderType = iota
+	Dummy HealthProviderType = iota // use this to signify "all" in some use cases
+	CondomDistributionSite
 	SubstanceAbuseProvider
 	MentalHealthClinic
 	STISpecialtyClinic
@@ -62,4 +68,32 @@ func (hp HealthProvider) FriendlyTypeName() string {
 	}
 
 	return ""
+}
+
+// Given a search term, figure out what kind of HP it refers to
+func SearchType(term string) (HealthProviderType, error) {
+	cleaned := strings.ToLower(strings.TrimSpace(term))
+
+	switch cleaned {
+	case "condom", "free condoms":
+		return CondomDistributionSite, nil
+	case "substance abuse", "substance abuse provider", "licensed substance abuse provider":
+		return SubstanceAbuseProvider, nil
+	case "mental health", "mental health clinic":
+		return MentalHealthClinic, nil
+	case "sti", "std", "sti clinic", "std clinic", "sti specialty clinic":
+		return STISpecialtyClinic, nil
+	case "wic", "wic clinic":
+		return WICClinic, nil
+	case "community service center", "service center":
+		return CommunityServiceCenter, nil
+	case "cooling", "cooling center":
+		return CoolingCenter, nil
+	case "warming", "warming center":
+		return WarmingCenter, nil
+	case "services", "everything", "all", "anything":
+		return Dummy, nil
+	default:
+		return Dummy, errors.New("unknown search type")
+	}
 }

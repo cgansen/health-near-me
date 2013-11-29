@@ -23,9 +23,9 @@ func main() {
 		healthnearme.STISpecialtyClinic:     "sti-specialty-clinics.json",
 		healthnearme.WICClinic:              "wic-clinics.json",
 		healthnearme.CommunityServiceCenter: "community-service-centers.json",
-		healthnearme.CoolingCenter: "cooling-centers.json",
-		healthnearme.SeniorCenter: "senior-centers.json",
-		healthnearme.WarmingCenter: "warming-centers.json",
+		healthnearme.CoolingCenter:          "cooling-centers.json",
+		healthnearme.SeniorCenter:           "senior-centers.json",
+		healthnearme.WarmingCenter:          "warming-centers.json",
 	}
 
 	for typ, filename := range to_load {
