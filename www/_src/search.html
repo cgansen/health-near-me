@@ -16,22 +16,22 @@ title: Health Near Me
     <form name="searchForm" class="form">
         <div class="row">
             <div class="col-md-6">
-                <label for="providerType" class="control-label">Kinds of Health Provider</label><br/>
+                <label for="providerType" class="control-label">Type of Provider</label><br/>
                 <select name="providerType" ng-model="searchType" id="providerType" class="form-control">
                     <option value="0">All</option>
+                    <option value="6">Community Service Center</option>
                     <option value="1">Condom Distribution Site</option>
+                    <option value="7">Cooling Center</option>
                     <option value="2">Licensed Substance Abuse Provider</option>
                     <option value="3">Mental Health Clinic</option>
-                    <option value="4">STI Specialty Clinic</option>
-                    <option value="5">WIC Clinic</option>
-                    <option value="6">Community Service Center</option>
-                    <option value="7">Cooling Center</option>
                     <option value="8">Senior Center</option>
+                    <option value="4">STI Specialty Clinic</option>
                     <option value="9">Warming Center</option>
+                    <option value="5">WIC Clinic</option>
                 </select>                
             </div>
             <div class="col-md-6">
-                <label for="distance" class="control-label">Within a certain distance</label><br/>
+                <label for="distance" class="control-label">Within a distance</label><br/>
                 <select name="distance" ng-model="dist" id="distance" class="form-control">
                     <option value="1609">Less than one mile</option>
                     <option value="3218">Less than two miles</option>
