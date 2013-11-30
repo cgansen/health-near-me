@@ -49,7 +49,7 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics',
     $scope.lat = ($location.search()).lat;
     $scope.lon = ($location.search()).lon;
     $scope.dist = ($location.search()).d || 1609;
-    $scope.searchType = ($location.search()).typ || "all";
+    $scope.searchType = ($location.search()).typ || 0;
     
     // $scope.map = new google.maps.Map(document.getElementById("map-canvas"), {zoom: 12, mapTypeId: google.maps.MapTypeId.ROADMAP});
     
