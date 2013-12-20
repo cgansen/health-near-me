@@ -59,8 +59,8 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics',
         
         geocoder.geocode( { 'address': $scope.searchLocation + " chicago, il"}, function(results, status) {
             if (status == google.maps.GeocoderStatus.OK) {
-                $scope.lat = results[0].geometry.location.ob;
-                $scope.lon = results[0].geometry.location.pb;
+                $scope.lat = results[0].geometry.location.lat();
+                $scope.lon = results[0].geometry.location.lng();
                            
                 $scope.doSearch();
                 
