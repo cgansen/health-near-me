@@ -30,3 +30,6 @@ load:
 	
 search:
 	curl -XGET 'http://localhost:9200/health-near-me/health-provider/_search' -d '{ "query": { "filtered" : { "query": { "match_all": {} }, "filter" : { "geo_distance" : { "distance" : "1mi", "location.lat_lon" : { "lat" : 41.866592082671566, "lon" : -87.69819577390969 } } } } } }'
+
+es:
+	elasticsearch -f -D es.config=/usr/local/opt/elasticsearch/config/elasticsearch.yml
