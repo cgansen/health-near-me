@@ -11,12 +11,12 @@ title: Health Near Me
     </div>
     <form name="searchForm" class="form">
         <div class="row">
-            <div class="col-md-8 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">
+            <div class="col-md-10 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">
                 <label for="address" class="control-label">Near Chicago street address</label><br/>
                 <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
                 placeholder="e.g. '1060 W Addison' or 'Madison at State'" required/>
             </div>
-            <div class="col-md-4 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
+            <div class="col-md-2 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
                 <label class="control-label">&nbsp;</label>
                 <button type="submit" ng-disabled="!searchForm.$valid" class="btn btn-primary input-lg form-control" ng-click="doGeocode()">search</button>
             </div>
