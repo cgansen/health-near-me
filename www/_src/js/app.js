@@ -44,6 +44,7 @@ healthApp.controller('IndexCtrl', ['$scope', '$http', 'analytics', function($sco
 
 healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics', function($scope, $http, $location, analytics){
     $scope.searchLocation = ($location.search()).l || "";
+    $scope.searched = ($location.search()).s || false;
     $scope.geocodeError = false;
     $scope.noResultsError = false;
     $scope.lat = ($location.search()).lat;

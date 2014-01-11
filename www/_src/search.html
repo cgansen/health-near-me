@@ -57,6 +57,19 @@ title: Health Near Me
         </div>
     </div>
 
+    <div class="row" ng-show="noResultsError || geocodeError || !searched">
+        <div class="col-md-12">
+            <h3>Need some inspiration?</h3>
+            <ul>
+                <li><a href="#/?l=kedzie%20and%20belmont&amp;typ=9&amp;lat=41.9393619&amp;lon=-87.70772920000002&amp;d=3218&amp;s=1">Warming centers near Kedzie and Belmont</a</li>
+                <li><a href="#/?l=2133%20S%20State%20Street&amp;typ=1&amp;lat=41.85355149999999&amp;lon=-87.62709289999998&amp;d=1609&amp;s=1">Condoms near the former Everleigh Club</a></li>
+                <li>All services near <a href="#/?l=wrigley%20field&amp;typ=0&amp;lat=41.9486471&amp;lon=-87.6572329&amp;d=1609&amp;s=1">Wrigley Field</a> or <a href="#/?l=us%20cellular&amp;typ=0&amp;lat=41.7900411&amp;lon=-87.60561109999998&amp;d=1609&amp;s=1">US Cellular Field</a></li>
+                <li><a href="#/?l=loop&amp;typ=3&amp;lat=41.8786351&amp;lon=-87.62505490000001&amp;d=16093&amp;s=1">Mental health centers in Chicago</a></li>
+            </ul>            
+        </div>
+    </div>
+    
+
     <div class="row" style="padding-top: 20px">
         <div class="col-md-12">
             {% raw %}    
