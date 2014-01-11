@@ -33,13 +33,25 @@
             <content ng-view>
                 <!-- content! -->
             </content>
-            <footer>
+            <footer>                
                 <nav class="navbar navbar-default navbar-bottom" role="navigation">
-                  <p class="text-center"><small><a href="http://healthnear.me">HealthNear.me</a> &copy Copyright 2013 <a href="https://twitter.com/mbuengerMPH">Melissa Buenger</a> and <a href="https://twitter.com/cgansen">Chris Gansen</a>. <a href="#/about">Learn more about this application and the data</a>.</small></p>
+                    <div class="row">
+                        <p class="text-center">
+                          <a href="http://healthnear.me">HealthNear.me</a> &copy Copyright 2014 <a href="https://twitter.com/mbuengerMPH">Melissa Buenger</a> and <a href="https://twitter.com/cgansen">Chris Gansen</a>
+                        </p>
+                        <p class="text-center">
+                            <a href="#/about">Learn more about this application and the data</a>.
+                        </p>
+                        <p class="text-center">
+                            <a href="https://twitter.com/healthnearme" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @healthnearme</a>
+                        </p>
+                        
+                    </div>
                 </nav>            
             </footer>
             
         </div>
         <div id="map-canvas" style="display:none" class="col-md-12"/>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>                                                      
     </body>
 </html>
