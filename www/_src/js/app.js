@@ -11,13 +11,8 @@ angular.module('analytics', ['ng']).service('analytics', [
     }
 ]);
 
-var healthApp = angular.module("healthApp", ['ngRoute', 'analytics'])
+var healthApp = angular.module("healthApp", ['ngRoute', 'analytics', 'ngCookies'])
 .config(function($routeProvider, $locationProvider){
-    $routeProvider.when("/help", {
-        templateUrl: "help.html",
-        controller: "IndexCtrl",        
-    });
-    
     $routeProvider.when("/about", {
         templateUrl: "about.html",
         controller: "IndexCtrl",        
@@ -42,14 +37,16 @@ healthApp.controller('IndexCtrl', ['$scope', '$http', 'analytics', function($sco
     
 }]);
 
-healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics', function($scope, $http, $location, analytics){
+healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics', '$cookies', function($scope, $http, $location, analytics, $cookies){
     $scope.searchLocation = ($location.search()).l || "";
+    $scope.searched = ($location.search()).s || false;
     $scope.geocodeError = false;
     $scope.noResultsError = false;
     $scope.lat = ($location.search()).lat;
     $scope.lon = ($location.search()).lon;
     $scope.dist = ($location.search()).d || 1609;
     $scope.searchType = ($location.search()).typ || 0;
+    $scope.showSMS = ($cookies.showSMS != "false");
     
     // $scope.map = new google.maps.Map(document.getElementById("map-canvas"), {zoom: 12, mapTypeId: google.maps.MapTypeId.ROADMAP});
     
@@ -113,4 +110,10 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics',
             $scope.searchResults = []
         });
     };
+    
+    $scope.hideSMS = function(){
+        $scope.showSMS = false;
+        $cookies.showSMS = 'false';
+    };
+    
 }]);

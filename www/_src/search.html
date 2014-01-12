@@ -6,14 +6,22 @@ title: Health Near Me
 <div ng-controller="SearchCtrl">    
     <div class="row">
       <div class="col-md-12">
-        <h2>Find public health providers in Chicago.</h2>
-        <p class="col-md-6 col-md-offset-3 alert alert-info">
-          You can search via text message, too! Text <strong><em>list services</em></strong> to <strong><a href="tel://3125483951">312-548-3951</a></strong> to start.
-          <br><a href="#/sms">Learn more about SMS searching &rarr;</a>
-        </p>                
+        <h2><strong><a href="#/" class="root-link">HealthNear.Me</a></strong> <small>Find public health providers in Chicago</small></h2>
       </div>
     </div>
     <form name="searchForm" class="form">
+        <div class="row">
+            <div class="col-md-10 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">
+                <label for="address" class="control-label">Near Chicago street address</label><br/>
+                <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
+                placeholder="e.g. '1060 W Addison' or 'Madison at State'" required/>
+            </div>
+            <div class="col-md-2 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
+                <label class="control-label">&nbsp;</label>
+                <button type="submit" ng-disabled="!searchForm.$valid" class="btn btn-primary input-lg form-control" ng-click="doGeocode()">search</button>
+            </div>
+        </div>
+        
         <div class="row">
             <div class="col-md-6">
                 <label for="providerType" class="control-label">Type of Provider</label><br/>
@@ -40,17 +48,6 @@ title: Health Near Me
                 </select>                        
             </div>
         </div>        
-        <div class="row">
-            <div class="col-md-8 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">
-                <label for="address" class="control-label">Near Chicago street address</label><br/>
-                <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
-                placeholder="e.g. '1060 W Addison' or 'Madison at State'" required/>
-            </div>
-            <div class="col-md-4 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
-                <label class="control-label">&nbsp;</label>
-                <button type="submit" ng-disabled="!searchForm.$valid" class="btn btn-primary input-lg form-control" ng-click="doGeocode()">search</button>
-            </div>
-        </div>
     </form>
 
     <div class="row" ng-show="geocodeError || noResultsError" style="padding-top: 20px">
@@ -59,6 +56,19 @@ title: Health Near Me
             <p ng-show="noResultsError" class="alert alert-warning">There's nothing near that address. Sorry!</p>                    
         </div>
     </div>
+
+    <div class="row" ng-show="noResultsError || geocodeError || !searched">
+        <div class="col-md-12">
+            <h3>Need some inspiration?</h3>
+            <ul>
+                <li><a href="#/?l=kedzie%20and%20belmont&amp;typ=9&amp;lat=41.9393619&amp;lon=-87.70772920000002&amp;d=3218&amp;s=1">Warming centers near Kedzie and Belmont</a</li>
+                <li><a href="#/?l=2133%20S%20State%20Street&amp;typ=1&amp;lat=41.85355149999999&amp;lon=-87.62709289999998&amp;d=1609&amp;s=1">Condoms near the former Everleigh Club</a></li>
+                <li>All services near <a href="#/?l=wrigley%20field&amp;typ=0&amp;lat=41.9486471&amp;lon=-87.6572329&amp;d=1609&amp;s=1">Wrigley Field</a> or <a href="#/?l=us%20cellular&amp;typ=0&amp;lat=41.7900411&amp;lon=-87.60561109999998&amp;d=1609&amp;s=1">US Cellular Field</a></li>
+                <li><a href="#/?l=loop&amp;typ=3&amp;lat=41.8786351&amp;lon=-87.62505490000001&amp;d=16093&amp;s=1">Mental health centers in Chicago</a></li>
+            </ul>            
+        </div>
+    </div>
+    
 
     <div class="row" style="padding-top: 20px">
         <div class="col-md-12">
@@ -77,4 +87,14 @@ title: Health Near Me
             
         </div>
     </div>
+    
+    <div class="row" ng-show="showSMS">
+        <div class="col-md-12">
+        <p class=" alert alert-info">
+            You can search via text message, too! Text <strong><em>list services</em></strong> to <strong><a href="tel://3125483951">312-548-3951</a></strong> to start.
+            <a href="#/sms">Learn more about SMS searching &rarr;</a>
+            <button type="button" class="close" aria-hidden="true" ng-click="hideSMS()">&times;</button>            
+        </p>
+        </div>                        
+    </div>    
 </div>

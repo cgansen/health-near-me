@@ -8,3 +8,11 @@
     border-bottom: 1px solid #ccc;    
     margin: 5px 0;
 }
+
+.row {
+    padding-top: 15px;
+}
+
+.root-link {
+    color: black;
+}
