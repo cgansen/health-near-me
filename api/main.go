@@ -40,7 +40,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 	cmd := strings.TrimSpace(strings.ToLower(search))
 	switch cmd {
-	case "list", "list services":
+	case "help", "list", "list services":
 		t, err := template.ParseFiles(tmplPath + "help.txt")
 		if err != nil {
 			log.Printf("error loading template: %s", err)
