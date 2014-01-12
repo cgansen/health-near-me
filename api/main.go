@@ -22,6 +22,28 @@ func init() {
 	flag.Parse()
 }
 
+func renderProblem(term string, w http.ResponseWriter) {
+	t, err := template.New("problem.txt").ParseFiles(tmplPath + "problem.txt")
+	if err != nil {
+		log.Print("template error: ", err)
+		http.Error(w, "error loading template", 500)
+		return
+	}
+
+	ctxt := map[string]string{
+		"Term": term,
+	}
+
+	if err := t.Execute(w, ctxt); err != nil {
+		log.Print(err)
+		http.Error(w, "error writing results", 500)
+		return
+	}
+
+	w.Header().Add("Content-type", "text/xml")
+	return
+}
+
 // Perform a search for a SMS user.
 func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%s %s %s %s", req.Method, req.RequestURI, req.URL.RawQuery, req.Header.Get("User-Agent"))
@@ -40,7 +62,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 	cmd := strings.TrimSpace(strings.ToLower(search))
 	switch cmd {
-	case "help", "list", "list services":
+	case "help", "list", "list services":  // note that "help" will be intercepted by Twilio. Oh well.
 		t, err := template.ParseFiles(tmplPath + "help.txt")
 		if err != nil {
 			log.Printf("error loading template: %s", err)
@@ -58,6 +80,11 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 	default:
 		// split query
 		pieces := strings.Split(cmd, "near")
+
+		if len(pieces) < 2 {
+			renderProblem(cmd, w)
+			return
+		}
 
 		term := strings.TrimSpace(pieces[0])
 		location := strings.TrimSpace(pieces[1])
@@ -78,25 +105,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 		searchType, err := healthnearme.SearchType(term)
 		if err != nil {
 			// couldn't map it, so send a message asking user to retry
-
-			t, err := template.New("problem.txt").ParseFiles(tmplPath + "problem.txt")
-			if err != nil {
-				log.Print("template error: ", err)
-				http.Error(w, "error loading template", 500)
-				return
-			}
-
-			ctxt := map[string]string{
-				"Term": term,
-			}
-
-			if err := t.Execute(w, ctxt); err != nil {
-				log.Print(err)
-				http.Error(w, "error writing results", 500)
-				return
-			}
-
-			w.Header().Add("Content-type", "text/xml")
+			renderProblem(cmd, w)
 			return
 		}
 
