@@ -13,11 +13,6 @@ angular.module('analytics', ['ng']).service('analytics', [
 
 var healthApp = angular.module("healthApp", ['ngRoute', 'analytics', 'ngCookies'])
 .config(function($routeProvider, $locationProvider){
-    $routeProvider.when("/help", {
-        templateUrl: "help.html",
-        controller: "IndexCtrl",        
-    });
-    
     $routeProvider.when("/about", {
         templateUrl: "about.html",
         controller: "IndexCtrl",        
