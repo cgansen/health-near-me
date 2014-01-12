@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Message>
 Health Near Me: find public health care providers near an address.
 
 Text msg like: "condoms near 1060 W Addison" or "warming center near 55th and State St"
@@ -13,3 +16,5 @@ Services supported:
 * STI Speciality Clinics
 * Warming Centers
 * WIC Clinics
+  </Message>
+</Response>
