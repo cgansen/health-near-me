@@ -14,7 +14,7 @@ import (
 func DoSearch(lat, lon float64, dist int64, typ string) (result core.SearchResult, err error) {
 	var queryMatch string
 
-	if typ == "all"  || typ == "0" {
+	if typ == "all" || typ == "0" {
 		queryMatch = `"match_all": {}`
 	} else {
 		ityp, serr := strconv.Atoi(typ)
