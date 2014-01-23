@@ -6,15 +6,15 @@ title: Health Near Me
 <div ng-controller="SearchCtrl">    
     <div class="row">
       <div class="col-md-12">
-        <h2><strong><a href="#/" class="root-link">HealthNear.Me</a></strong> <small>Find public health providers in Chicago</small></h2>
+        <h2><strong><a href="#/" class="root-link">HealthNear.Me</a></strong> <small>Find public health providers near you</small></h2>
       </div>
     </div>
     <form name="searchForm" class="form">
         <div class="row">
-            <div class="col-md-10 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">
-                <label for="address" class="control-label">Near Chicago street address</label><br/>
+            <div class="col-md-10 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">        
+                <label for="address" class="control-label">Near street address</label><br/>                
                 <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
-                placeholder="e.g. '1060 W Addison' or 'Madison at State'" required/>
+                placeholder="e.g. '1060 W Addison' or 'Madison at State, Chicago' or 'Rockford, IL'" required/>                
             </div>
             <div class="col-md-2 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
                 <label class="control-label">&nbsp;</label>
@@ -30,6 +30,7 @@ title: Health Near Me
                     <option value="6">Community Service Center</option>
                     <option value="1">Condom Distribution Site</option>
                     <option value="7">Cooling Center</option>
+                    <option value="10">Hospital</option>
                     <option value="2">Licensed Substance Abuse Provider</option>
                     <option value="3">Mental Health Clinic</option>
                     <option value="8">Senior Center</option>
@@ -41,10 +42,11 @@ title: Health Near Me
             <div class="col-md-6">
                 <label for="distance" class="control-label">Within a distance</label><br/>
                 <select name="distance" ng-model="dist" id="distance" class="form-control">
-                    <option value="1609">Less than one mile</option>
-                    <option value="3218">Less than two miles</option>
-                    <option value="8046">Less than five miles</option>
-                    <option value="16093">Less than ten miles</option>            
+                    <option value="1609">Within one mile</option>
+                    <option value="3218">Within two miles</option>
+                    <option value="8046">Within five miles</option>
+                    <option value="16093">Within 10 miles</option>
+                    <option value="32186">Within 20 miles</option>
                 </select>                        
             </div>
         </div>        
@@ -77,7 +79,7 @@ title: Health Near Me
                 <li style="list-style:none;" ng-repeat="res in searchResults" class="hp-row">
                     <p>
                         <span class="hp-name">{{ res.name }}</span>
-                        <a target="_blank" title="Show directions in Google Maps" href="https://maps.google.com/?daddr={{ res.address | escape }}&saddr={{ lat | escape }},{{ lon | escape }}">{{ res.address }}</a>, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
+                        <a target="_blank" title="Show directions in Google Maps" href="https://maps.google.com/?daddr={{ res.address + ',' + res.zip_code  | escape }}&saddr={{ lat | escape }},{{ lon | escape }}">{{ res.address }}, {{ res.city }}, {{ res.state }}</a>, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
                     </p>
                     <p ng-if="res.phone">Call: <a href="tel://{{res.phone}}">{{ res.phone }}</a></p>
                     <p ng-if="res.hours_of_operation">Hours: <span class="hours">{{ res.hours_of_operation }}</span></p>                      

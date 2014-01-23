@@ -62,7 +62,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 	cmd := strings.TrimSpace(strings.ToLower(search))
 	switch cmd {
-	case "help", "list", "list services":  // note that "help" will be intercepted by Twilio. Oh well.
+	case "help", "list", "list services": // note that "help" will be intercepted by Twilio. Oh well.
 		t, err := template.ParseFiles(tmplPath + "help.txt")
 		if err != nil {
 			log.Printf("error loading template: %s", err)
@@ -111,6 +111,11 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 		// lookup
 		result, err := healthnearme.DoSearch(point.Lat(), point.Lng(), 1609, strconv.Itoa(int(searchType)))
+
+		if len(result.Hits.Hits) == 0 {
+			// retry search w/larger radius (10 miles) if there are no hits on the first
+			result, err = healthnearme.DoSearch(point.Lat(), point.Lng(), 16093, strconv.Itoa(int(searchType)))
+		}
 
 		// respond
 		hits, err := healthnearme.LoadResults(result, point)

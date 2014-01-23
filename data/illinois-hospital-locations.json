@@ -1,0 +1,3487 @@
+[
+  {
+    "name": "PINCKNEYVILLE COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "101 NORTH WALNUT STREET",
+    "address_2": "",
+    "city": "PINCKNEYVILLE",
+    "state": "IL",
+    "zip_code": "62274",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "38.080794",
+      "longitude": "-89.382825",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RUSH UNIVERSITY MEDICAL CENTER",
+    "name2": "",
+    "address": "1653 WEST CONGRESS PARKWAY",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60612",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.rush.edu",
+    "location": {
+      "latitude": "41.874946",
+      "longitude": "-87.668349",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROCTOR COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "5409 NORTH KNOXVILLE AVENUE",
+    "address_2": "",
+    "city": "PEORIA",
+    "state": "IL",
+    "zip_code": "61614",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.proctor.org",
+    "location": {
+      "latitude": "40.752399",
+      "longitude": "-89.593504",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RESURRECTION MEDICAL CENTER",
+    "name2": "",
+    "address": "7435 WEST TALCOTT AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60631",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.reshealth.org/locations/hospitals.cfm",
+    "location": {
+      "latitude": "41.988369",
+      "longitude": "-87.812661",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RIVERSIDE MEDICAL CENTER",
+    "name2": "",
+    "address": "350 NORTH WALL STREET",
+    "address_2": "",
+    "city": "KANKAKEE",
+    "state": "IL",
+    "zip_code": "60901",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.riversidehealthcare.org",
+    "location": {
+      "latitude": "41.124117",
+      "longitude": "-87.882351",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ROCHELLE COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "900 NORTH 2ND STREET",
+    "address_2": "",
+    "city": "ROCHELLE",
+    "state": "IL",
+    "zip_code": "61068",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.rcha.net",
+    "location": {
+      "latitude": "41.928314",
+      "longitude": "-89.062818",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ROCKFORD MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "2400 NO. ROCKTON AVE.",
+    "address_2": "",
+    "city": "ROCKFORD",
+    "state": "IL",
+    "zip_code": "61103",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.rhsnet.org",
+    "location": {
+      "latitude": "42.297808",
+      "longitude": "-89.096958",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ROSELAND COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "45 WEST 111TH STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60628",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.roselandhospital.org",
+    "location": {
+      "latitude": "41.692434",
+      "longitude": "-87.624329",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "COMMUNITY HOSPITAL OF OTTAWA",
+    "name2": "",
+    "address": "1100 EAST NORRIS DRIVE",
+    "address_2": "",
+    "city": "OTTAWA",
+    "state": "IL",
+    "zip_code": "61350",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.chottawa.org",
+    "location": {
+      "latitude": "41.355924",
+      "longitude": "-88.855491",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SALEM TOWNSHIP HOSPITAL",
+    "name2": "",
+    "address": "1201 RICKER DRIVE",
+    "address_2": "",
+    "city": "SALEM",
+    "state": "IL",
+    "zip_code": "62881",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.639498",
+      "longitude": "-88.944071",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SARAH D. CULBERTSON MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "238 SOUTH CONGRESS STREET",
+    "address_2": "",
+    "city": "RUSHVILLE",
+    "state": "IL",
+    "zip_code": "62681",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.cmhospital.com",
+    "location": {
+      "latitude": "40.118184",
+      "longitude": "-90.563399",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SHELBY MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "200 SOUTH CEDAR STREET",
+    "address_2": "",
+    "city": "SHELBYVILLE",
+    "state": "IL",
+    "zip_code": "62565",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "39.405706",
+      "longitude": "-88.807501",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SHERMAN HOSPITAL ASSOCIATION",
+    "name2": "",
+    "address": "934 CENTER STREET",
+    "address_2": "",
+    "city": "ELGIN",
+    "state": "IL",
+    "zip_code": "60120",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.shermanhealth.com",
+    "location": {
+      "latitude": "42.053852",
+      "longitude": "-88.28121",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SILVER CROSS HOSPITAL",
+    "name2": "",
+    "address": "1200 MAPLE STREET",
+    "address_2": "",
+    "city": "JOLIET",
+    "state": "IL",
+    "zip_code": "60432",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.silvercross.org",
+    "location": {
+      "latitude": "41.537155",
+      "longitude": "-88.053387",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RUSH NORTH SHORE MEDICAL CENTER",
+    "name2": "",
+    "address": "9600 GROSS POINT ROAD",
+    "address_2": "",
+    "city": "SKOKIE",
+    "state": "IL",
+    "zip_code": "60076",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.rnsmc.org",
+    "location": {
+      "latitude": "42.055317",
+      "longitude": "-87.740071",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ALEXIAN BROTHERS MEDICAL CENTER",
+    "name2": "",
+    "address": "800 WEST BIESTERFIELD ROAD",
+    "address_2": "",
+    "city": "ELK GROVE VILLAG",
+    "state": "IL",
+    "zip_code": "60007",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.alexian.org",
+    "location": {
+      "latitude": "42.003627",
+      "longitude": "-88.020254",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT ANTHONY MEDICAL CENTER",
+    "name2": "",
+    "address": "5666 EAST STATE STREET",
+    "address_2": "",
+    "city": "ROCKFORD",
+    "state": "IL",
+    "zip_code": "61108",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.osfhealth.com/",
+    "location": {
+      "latitude": "42.266222",
+      "longitude": "-89.005734",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. ANTHONY'S MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "503 NORTH MAPLE STREET",
+    "address_2": "",
+    "city": "EFFINGHAM",
+    "state": "IL",
+    "zip_code": "62401",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stanthonyshospital.org",
+    "location": {
+      "latitude": "39.125743",
+      "longitude": "-88.549517",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. BERNARD HOSPITAL",
+    "name2": "",
+    "address": "326 WEST 64TH STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60621",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stbernardhospital.com",
+    "location": {
+      "latitude": "41.778097",
+      "longitude": "-87.633359",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. ELIZABETH'S HOSPITAL",
+    "name2": "",
+    "address": "211 SOUTH 3RD STREET",
+    "address_2": "",
+    "city": "BELLEVILLE",
+    "state": "IL",
+    "zip_code": "62221",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.steliz.org",
+    "location": {
+      "latitude": "38.511608",
+      "longitude": "-89.988414",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. FRANCIS HOSPITAL",
+    "name2": "",
+    "address": "1215 EAST UNION AVENUE",
+    "address_2": "P. O. BOX 1215",
+    "city": "LITCHFIELD",
+    "state": "IL",
+    "zip_code": "62056",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stfrancis-litchfield.org",
+    "location": {
+      "latitude": "39.177893",
+      "longitude": "-89.640943",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. FRANCIS HOSPITAL OF EVANSTON",
+    "name2": "",
+    "address": "355 RIDGE AVENUE",
+    "address_2": "",
+    "city": "EVANSTON",
+    "state": "IL",
+    "zip_code": "60202",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.reshealth.org",
+    "location": {
+      "latitude": "42.023865",
+      "longitude": "-87.684837",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. JAMES HOSPITAL AND HEALTH CENTERS",
+    "name2": "",
+    "address": "1423 CHICAGO ROAD",
+    "address_2": "",
+    "city": "CHICAGO HEIGHTS",
+    "state": "IL",
+    "zip_code": "60411",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stjameshhc.org",
+    "location": {
+      "latitude": "41.514269",
+      "longitude": "-87.642272",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. JOSEPH'S HOSPITAL",
+    "name2": "",
+    "address": "9515 HOLY CROSS LANE",
+    "address_2": "",
+    "city": "BREESE",
+    "state": "IL",
+    "zip_code": "62230",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stjoebreese.com",
+    "location": {
+      "latitude": "38.62519",
+      "longitude": "-89.521017",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. JOSEPH MEDICAL CENTER",
+    "name2": "",
+    "address": "2200 EAST WASHINGTON STREET",
+    "address_2": "",
+    "city": "BLOOMINGTON",
+    "state": "IL",
+    "zip_code": "61701",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.osfstjoseph.org",
+    "location": {
+      "latitude": "40.480097",
+      "longitude": "-88.957233",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. JOSEPH'S HOSPITAL",
+    "name2": "",
+    "address": "1515 MAIN STREET",
+    "address_2": "",
+    "city": "HIGHLAND",
+    "state": "IL",
+    "zip_code": "62249",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stjosephs-highland.org",
+    "location": {
+      "latitude": "38.740653",
+      "longitude": "-89.672508",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. MARGARET'S HOSPITAL",
+    "name2": "",
+    "address": "600 EAST FIRST STREET",
+    "address_2": "",
+    "city": "SPRING VALLEY",
+    "state": "IL",
+    "zip_code": "61362",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.st-margarets.com",
+    "location": {
+      "latitude": "41.328824",
+      "longitude": "-89.192472",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINTS MARY AND ELIZABETH MEDICAL CENTER",
+    "name2": "D/B/A SAINT MARY OF NAZARETH HOSPITAL",
+    "address": "2233 WEST DIVISION STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60622",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.902874",
+      "longitude": "-87.682982",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. MARY'S HOSPITAL",
+    "name2": "",
+    "address": "1800 EAST LAKE SHORE DRIVE",
+    "address_2": "",
+    "city": "DECATUR",
+    "state": "IL",
+    "zip_code": "62521",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stmarys-hospital.com",
+    "location": {
+      "latitude": "39.826496",
+      "longitude": "-88.932195",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. MARY'S HOSPITAL",
+    "name2": "",
+    "address": "400 NORTH PLEASANT AVENUE",
+    "address_2": "",
+    "city": "CENTRALIA",
+    "state": "IL",
+    "zip_code": "62801",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.smgsi.com/internet/home/goodsam.nsf",
+    "location": {
+      "latitude": "38.530767",
+      "longitude": "-89.116056",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. MARY'S HOSPITAL",
+    "name2": "",
+    "address": "111 EAST SPRING STREET",
+    "address_2": "",
+    "city": "STREATOR",
+    "state": "IL",
+    "zip_code": "61364",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stmaryshospital.org",
+    "location": {
+      "latitude": "41.113988",
+      "longitude": "-88.835427",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "KENNETH HALL REGIONAL HOSPITAL",
+    "name2": "",
+    "address": "129 NORTH 8TH STREET",
+    "address_2": "",
+    "city": "EAST ST. LOUIS",
+    "state": "IL",
+    "zip_code": "62201",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.622581",
+      "longitude": "-90.157486",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. MARY MEDICAL CENTER",
+    "name2": "",
+    "address": "3333 NORTH SEMINARY STREET",
+    "address_2": "",
+    "city": "GALESBURG",
+    "state": "IL",
+    "zip_code": "61401",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.osfstmary.org",
+    "location": {
+      "latitude": "40.986975",
+      "longitude": "-90.363538",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. VINCENT MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "201 EAST PLEASANT STREET",
+    "address_2": "",
+    "city": "TAYLORVILLE",
+    "state": "IL",
+    "zip_code": "62568",
+    "description": "GENERAL HOSPITAL",
+    "website": "svmh.org",
+    "location": {
+      "latitude": "39.554013",
+      "longitude": "-89.29379",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SWEDISH COVENANT HOSPITAL",
+    "name2": "",
+    "address": "5145 NORTH CALIFORNIA AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60625",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.schosp.org",
+    "location": {
+      "latitude": "41.975121",
+      "longitude": "-87.698658",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SWEDISH AMERICAN HOSPITAL",
+    "name2": "",
+    "address": "1401 EAST STATE STREET",
+    "address_2": "",
+    "city": "ROCKFORD",
+    "state": "IL",
+    "zip_code": "61104",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.swedishamerican.org",
+    "location": {
+      "latitude": "42.266806",
+      "longitude": "-89.073527",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "JOHN \u0026 MARY E. KIRBY HOSPITAL",
+    "name2": "",
+    "address": "1111 NORTH STATE STREET",
+    "address_2": "",
+    "city": "MONTICELLO",
+    "state": "IL",
+    "zip_code": "61856",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.kirbyhospital.org",
+    "location": {
+      "latitude": "40.033743",
+      "longitude": "-88.570716",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "THOMAS H. BOYD MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "800 SCHOOL STREET",
+    "address_2": "",
+    "city": "CARROLLTON",
+    "state": "IL",
+    "zip_code": "62016",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "39.295954",
+      "longitude": "-90.412294",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "UNION COUNTY HOSPITAL DISTRICT",
+    "name2": "",
+    "address": "517 NORTH MAIN STREET",
+    "address_2": "",
+    "city": "ANNA",
+    "state": "IL",
+    "zip_code": "62906",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.unioncountyhospital.com",
+    "location": {
+      "latitude": "37.464905",
+      "longitude": "-89.245339",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "VICTORY MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "1324 NORTH SHERIDAN ROAD",
+    "address_2": "",
+    "city": "WAUKEGAN",
+    "state": "IL",
+    "zip_code": "60085",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.vistahealth.com",
+    "location": {
+      "latitude": "42.378268",
+      "longitude": "-87.83109",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "WABASH GENERAL HOSPITAL DISTRICT",
+    "name2": "",
+    "address": "1418 COLLEGE DRIVE",
+    "address_2": "",
+    "city": "MOUNT CARMEL",
+    "state": "IL",
+    "zip_code": "62863",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.wabashgeneral.com",
+    "location": {
+      "latitude": "38.421427",
+      "longitude": "-87.768484",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "WASHINGTON COUNTY HOSPITAL",
+    "name2": "",
+    "address": "705 SOUTH GRAND AVENUE",
+    "address_2": "",
+    "city": "NASHVILLE",
+    "state": "IL",
+    "zip_code": "62263",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "38.339088",
+      "longitude": "-89.390186",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "WESTLAKE HOSPITAL",
+    "name2": "",
+    "address": "1225 LAKE STREET",
+    "address_2": "",
+    "city": "MELROSE PARK",
+    "state": "IL",
+    "zip_code": "60160",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.reshealth.org",
+    "location": {
+      "latitude": "41.89172",
+      "longitude": "-87.848289",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MIDWESTERN REGIONAL MEDICAL CENTER",
+    "name2": "",
+    "address": "2520 ELISHA AVENUE",
+    "address_2": "",
+    "city": "ZION",
+    "state": "IL",
+    "zip_code": "60099",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.449391",
+      "longitude": "-87.827028",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SHRINERS HOSPITAL FOR CRIPPLED CHILDREN",
+    "name2": "",
+    "address": "2211 NORTH OAK PARK AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60635",
+    "description": "PEDIATRIC HOSPITAL",
+    "website": "www.shrinershq.org/shc/chicago/index.html",
+    "location": {
+      "latitude": "41.920022",
+      "longitude": "-87.794849",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "TRINITY MEDICAL CENTER (WEST)",
+    "name2": "",
+    "address": "2701 17TH STREET",
+    "address_2": "",
+    "city": "ROCK ISLAND",
+    "state": "IL",
+    "zip_code": "61201",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.trinityqc.com",
+    "location": {
+      "latitude": "41.483423",
+      "longitude": "-90.572626",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "NORTHWESTERN MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "251 EAST HURON STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60611",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.nmh.org",
+    "location": {
+      "latitude": "41.894786",
+      "longitude": "-87.621452",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVOCATE-GOOD SAMARITAN HOSPITAL",
+    "name2": "",
+    "address": "3815 HIGHLAND AVENUE",
+    "address_2": "",
+    "city": "DOWNERS GROVE",
+    "state": "IL",
+    "zip_code": "60515",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/gsam/",
+    "location": {
+      "latitude": "41.819659",
+      "longitude": "-88.010108",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ILLINOIS VALLEY COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "925 WEST STREET",
+    "address_2": "",
+    "city": "PERU",
+    "state": "IL",
+    "zip_code": "61354",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.ivch.org",
+    "location": {
+      "latitude": "41.328786",
+      "longitude": "-89.125252",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SOUTH SHORE HOSPITAL",
+    "name2": "",
+    "address": "8012 SOUTH CRANDON AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60617",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.southshorehospital.com",
+    "location": {
+      "latitude": "41.749647",
+      "longitude": "-87.568772",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GLENBROOK HOSPITAL",
+    "name2": "",
+    "address": "2100 PFINGSTEN ROAD",
+    "address_2": "",
+    "city": "GLENVIEW",
+    "state": "IL",
+    "zip_code": "60025",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.08766",
+      "longitude": "-87.849361",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "EUREKA COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "101 SOUTH MAJOR ST.",
+    "address_2": "",
+    "city": "EUREKA",
+    "state": "IL",
+    "zip_code": "61530",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.bromenn.com/eureka",
+    "location": {
+      "latitude": "40.721428",
+      "longitude": "-89.271882",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MERCER COUNTY HOSPITAL",
+    "name2": "",
+    "address": "409 NORTH WEST 9TH AVENUE",
+    "address_2": "",
+    "city": "ALEDO",
+    "state": "IL",
+    "zip_code": "61231",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.mercerhospital.org",
+    "location": {
+      "latitude": "41.204408",
+      "longitude": "-90.758766",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CARLE FOUNDATION HOSPITAL",
+    "name2": "",
+    "address": "611 WEST PARK STREET",
+    "address_2": "",
+    "city": "URBANA",
+    "state": "IL",
+    "zip_code": "61801",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.carle.com",
+    "location": {
+      "latitude": "40.11718",
+      "longitude": "-88.214674",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVENTIST GLENOAKS",
+    "name2": "GLENOAKS HOSPITAL",
+    "address": "701 WINTHROP AVENUE",
+    "address_2": "",
+    "city": "GLENDALE HEIGHTS",
+    "state": "IL",
+    "zip_code": "60139",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.ahsmidwest.org/Facilities/glenoaks/",
+    "location": {
+      "latitude": "41.914804",
+      "longitude": "-88.060339",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "BETHANY HOSPITAL",
+    "name2": "",
+    "address": "3435 WEST VAN BUREN",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60624",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/beth/",
+    "location": {
+      "latitude": "41.875256",
+      "longitude": "-87.711862",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "NORTHERN ILLINOIS MEDICAL CENTER",
+    "name2": "",
+    "address": "4201 MEDICAL CENTER DRIVE",
+    "address_2": "",
+    "city": "MC HENRY",
+    "state": "IL",
+    "zip_code": "60050",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.317991",
+      "longitude": "-88.275495",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "UNIVERSITY OF CHICAGO HOSPITALS",
+    "name2": "",
+    "address": "5841 SOUTH MARYLAND",
+    "address_2": "MC 1112",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60637",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.uchospitals.edu",
+    "location": {
+      "latitude": "41.788426",
+      "longitude": "-87.604601",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "EDWARD HOSPITAL",
+    "name2": "",
+    "address": "801 SOUTH WASHINGTON STREET",
+    "address_2": "",
+    "city": "NAPERVILLE",
+    "state": "IL",
+    "zip_code": "60566",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.edward.org",
+    "location": {
+      "latitude": "41.761393",
+      "longitude": "-88.149334",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CROSSROADS COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "8 DOCTORS PARK ROAD",
+    "address_2": "",
+    "city": "MOUNT VERNON",
+    "state": "IL",
+    "zip_code": "62864",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.crossroadscommunityhospital.com",
+    "location": {
+      "latitude": "38.311908",
+      "longitude": "-88.933574",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ILLINI HOSPITAL",
+    "name2": "",
+    "address": "801 HOSPITAL DRIVE",
+    "address_2": "",
+    "city": "SILVIS",
+    "state": "IL",
+    "zip_code": "61282",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.genesishealth.com",
+    "location": {
+      "latitude": "41.50021",
+      "longitude": "-90.422694",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SACRED HEART HOSPITAL",
+    "name2": "",
+    "address": "3240 WEST FRANKLIN BOULEVARD",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60624",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.890364",
+      "longitude": "-87.707242",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "TRINITY HOSPITAL",
+    "name2": "",
+    "address": "2320 EAST 93RD STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60617",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/trin/",
+    "location": {
+      "latitude": "41.72638",
+      "longitude": "-87.567473",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HOOPESTON COMMUNITY MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "701 EAST ORANGE STREET",
+    "address_2": "",
+    "city": "HOOPESTON",
+    "state": "IL",
+    "zip_code": "60942",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.hoopestonhospital.org",
+    "location": {
+      "latitude": "40.459483",
+      "longitude": "-87.661974",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT CLARE'S HOSPITAL",
+    "name2": "",
+    "address": "915 EAST FIFTH STREET",
+    "address_2": "",
+    "city": "ALTON",
+    "state": "IL",
+    "zip_code": "62002",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.sahc.org",
+    "location": {
+      "latitude": "38.890922",
+      "longitude": "-90.17122",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "BLESSING HOSPITAL AT 14TH STREET",
+    "name2": "",
+    "address": "1415 VERMONT STREET",
+    "address_2": "",
+    "city": "QUINCY",
+    "state": "IL",
+    "zip_code": "62301",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.blessinghospital.org",
+    "location": {
+      "latitude": "39.934418",
+      "longitude": "-91.39018",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "TOUCHETTE REGIONAL HOSPITAL, INC.",
+    "name2": "",
+    "address": "5900 BOND AVENUE",
+    "address_2": "",
+    "city": "CENTREVILLE",
+    "state": "IL",
+    "zip_code": "62207",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.touchette.org",
+    "location": {
+      "latitude": "38.573165",
+      "longitude": "-90.110065",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVIDENT HOSPITAL OF COOK COUNTY",
+    "name2": "",
+    "address": "500 EAST 51ST STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60615",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.802128",
+      "longitude": "-87.614261",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. ANTHONY HOSPITAL",
+    "name2": "",
+    "address": "2875 WEST 19TH STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60623",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.cath-health.org",
+    "location": {
+      "latitude": "41.855262",
+      "longitude": "-87.698174",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. JOSEPH MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "2 SOUTH HOSPITAL DRIVE",
+    "address_2": "",
+    "city": "MURPHYSBORO",
+    "state": "IL",
+    "zip_code": "62966",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stjosephmemorialhospital.org",
+    "location": {
+      "latitude": "37.773467",
+      "longitude": "-89.326286",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "LOYOLA UNIVERSITY MEDICAL CENTER",
+    "name2": "FOSTER G. MCGAW HOSPITAL",
+    "address": "2160 SOUTH 1ST AVENUE",
+    "address_2": "",
+    "city": "MAYWOOD",
+    "state": "IL",
+    "zip_code": "60153",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.8651",
+      "longitude": "-87.833538",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RUSH COPLEY MEMORIAL HOSPITAL, INC.",
+    "name2": "RUSH-COPLEY MEDICAL CENTER",
+    "address": "2000 OGDEN AVENUE",
+    "address_2": "",
+    "city": "AURORA",
+    "state": "IL",
+    "zip_code": "60504",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.rushcopley.com",
+    "location": {
+      "latitude": "41.727802",
+      "longitude": "-88.268515",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "VALLEY WEST COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "11 EAST PLEASANT AVENUE",
+    "address_2": "",
+    "city": "SANDWICH",
+    "state": "IL",
+    "zip_code": "60548",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.vwch.org",
+    "location": {
+      "latitude": "41.656568",
+      "longitude": "-88.621775",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVOCATE-SOUTH SUBURBAN HOSPITAL",
+    "name2": "",
+    "address": "17800 S. KEDZIE AVENUE",
+    "address_2": "",
+    "city": "HAZEL CREST",
+    "state": "IL",
+    "zip_code": "60429",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/ssub/",
+    "location": {
+      "latitude": "41.566321",
+      "longitude": "-87.694547",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GOOD SAMARITAN REGIONAL HEALTH CENTER",
+    "name2": "",
+    "address": "605 NORTH 12TH STREET",
+    "address_2": "",
+    "city": "MOUNT VERNON",
+    "state": "IL",
+    "zip_code": "62864",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.322361",
+      "longitude": "-88.909983",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RICHLAND MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "800 EAST LOCUST STREET",
+    "address_2": "",
+    "city": "OLNEY",
+    "state": "IL",
+    "zip_code": "62450",
+    "description": "GENERAL HOSPITAL",
+    "website": "richlandmemorial.com",
+    "location": {
+      "latitude": "38.735185",
+      "longitude": "-88.076926",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVOCATE-LUTHERAN GENERAL HOSPITAL",
+    "name2": "",
+    "address": "1775 DEMPSTER STREET",
+    "address_2": "",
+    "city": "PARK RIDGE",
+    "state": "IL",
+    "zip_code": "60068",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/luth/",
+    "location": {
+      "latitude": "42.039517",
+      "longitude": "-87.848808",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "NORTHWEST SUBURBAN COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "1625 SOUTH STATE STREET",
+    "address_2": "",
+    "city": "BELVIDERE",
+    "state": "IL",
+    "zip_code": "61008",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.243185",
+      "longitude": "-88.839316",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVENA HOSPITALS",
+    "name2": "D/B/A SAINT JOSEPH MEDICAL CENTER",
+    "address": "333 NORTH MADISON STREET",
+    "address_2": "",
+    "city": "JOLIET",
+    "state": "IL",
+    "zip_code": "60435",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.provenasaintjoe.org",
+    "location": {
+      "latitude": "41.528007",
+      "longitude": "-88.134847",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVENA HOSPITALS",
+    "name2": "D/B/A UNITED SAMARITANS MEDICAL CENTER-LOGAN",
+    "address": "812 NORTH LOGAN AVENUE",
+    "address_2": "",
+    "city": "DANVILLE",
+    "state": "IL",
+    "zip_code": "61832",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "40.137253",
+      "longitude": "-87.645147",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVENA HOSPITALS",
+    "name2": "D/B/A SAINT MARYS HOSPITAL",
+    "address": "500 WEST COURT STREET",
+    "address_2": "",
+    "city": "KANKAKEE",
+    "state": "IL",
+    "zip_code": "60901",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.provenastmarys.com",
+    "location": {
+      "latitude": "41.121031",
+      "longitude": "-87.87184",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVENA HOSPITALS",
+    "name2": "D/B/A SAINT JOSEPH HOSPITAL",
+    "address": "77 NORTH AIRLITE STREET",
+    "address_2": "",
+    "city": "ELGIN",
+    "state": "IL",
+    "zip_code": "60123",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.provenasaintjoseph.com",
+    "location": {
+      "latitude": "42.03537",
+      "longitude": "-88.328385",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVENA HOSPITALS",
+    "name2": "D/B/A SAINT THERESE MEDICAL CENTER",
+    "address": "2615 WASHINGTON STREET",
+    "address_2": "",
+    "city": "WAUKEGAN",
+    "state": "IL",
+    "zip_code": "60085",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.359234",
+      "longitude": "-87.8667",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PROVENA MERCY CENTER",
+    "name2": "",
+    "address": "1325 NORTH HIGHLAND AVENUE",
+    "address_2": "",
+    "city": "AURORA",
+    "state": "IL",
+    "zip_code": "60506",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.784694",
+      "longitude": "-88.328665",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MERCY HARVARD HOSPITAL, INC.",
+    "name2": "",
+    "address": "901 SOUTH GRANT STREET",
+    "address_2": "P.O. BOX 850",
+    "city": "HARVARD",
+    "state": "IL",
+    "zip_code": "60033",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.harvardhospital.org",
+    "location": {
+      "latitude": "42.425729",
+      "longitude": "-88.607568",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "COMMUNITY MEDICAL CENTER OF",
+    "name2": "WESTERN ILLINOIS, INC.",
+    "address": "1000 WEST HARLEM AVENUE",
+    "address_2": "",
+    "city": "MONMOUTH",
+    "state": "IL",
+    "zip_code": "61462",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.cmchospital.com",
+    "location": {
+      "latitude": "40.921375",
+      "longitude": "-90.658991",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MICHAEL REESE MEDICAL CENTER CORP",
+    "name2": "D/B/A MICHAEL REESE HOSP \u0026 MED CTR",
+    "address": "2929 S.ELLIS AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60616",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.842516",
+      "longitude": "-87.613906",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. ALEXIUS MEDICAL CENTER",
+    "name2": "",
+    "address": "1555 BARRINGTON ROAD",
+    "address_2": "",
+    "city": "HOFFMAN ESTATES",
+    "state": "IL",
+    "zip_code": "60194",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stalexius.org",
+    "location": {
+      "latitude": "42.054145",
+      "longitude": "-88.144198",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVENTIST HEALTH SYSTEM SUNBELT, INC.",
+    "name2": "D/B/A LA GRANGE MEMORIAL HOSPITAL",
+    "address": "5101 SOUTH WILLOW SPRINGS ROAD",
+    "address_2": "",
+    "city": "LA GRANGE",
+    "state": "IL",
+    "zip_code": "60525",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.ahsmidwest.org/Facilities/lagrange/",
+    "location": {
+      "latitude": "41.798139",
+      "longitude": "-87.888303",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HIGHLAND PARK HOSPITAL",
+    "name2": "",
+    "address": "718 GLENVIEW AVENUE",
+    "address_2": "",
+    "city": "HIGHLAND PARK",
+    "state": "IL",
+    "zip_code": "60035",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.190899",
+      "longitude": "-87.806644",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SISTERS OF ST. FRANCIS HLTH SVS, INC.",
+    "name2": "D/B/A ST. JAMES \u0026 HLTH CTR-OLYMPIA FLDS",
+    "address": "20201 S. CRAWFORD",
+    "address_2": "",
+    "city": "OLYMPIA FIELDS",
+    "state": "IL",
+    "zip_code": "60461",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.522498",
+      "longitude": "-87.71306",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "VHS OF ILLINOIS",
+    "name2": "D/B/A MACNEAL HOSPITAL",
+    "address": "3249 SOUTH OAK PARK AVENUE",
+    "address_2": "",
+    "city": "BERWYN",
+    "state": "IL",
+    "zip_code": "60402",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.833203",
+      "longitude": "-87.792614",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CORNERSTONE HEALTHCARE OF ILLINOIS, INC",
+    "name2": "",
+    "address": "400 PLUM STREET",
+    "address_2": "",
+    "city": "CARMI",
+    "state": "IL",
+    "zip_code": "62821",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "38.083375",
+      "longitude": "-88.165619",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. FRANCIS HOSPITAL AND HEALTH CENTER",
+    "name2": "",
+    "address": "12935 SOUTH GREGORY STREET",
+    "address_2": "",
+    "city": "BLUE ISLAND",
+    "state": "IL",
+    "zip_code": "60406",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.stfrancisblueisland.com",
+    "location": {
+      "latitude": "41.658113",
+      "longitude": "-87.677987",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "BLESSING CARE CORPORATION",
+    "name2": "D/B/A ILLINI COMMUNITY HOSPITAL",
+    "address": "640 WEST WASHINGTON STREET",
+    "address_2": "",
+    "city": "PITTSFIELD",
+    "state": "IL",
+    "zip_code": "62363",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "39.60693",
+      "longitude": "-90.814772",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "TRINITY MEDICAL CENTER",
+    "name2": "",
+    "address": "500 JOHN DEERE ROAD",
+    "address_2": "7TH STREET CAMPUS",
+    "city": "MOLINE",
+    "state": "IL",
+    "zip_code": "61265",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.trinityqc.com",
+    "location": {
+      "latitude": "41.470631",
+      "longitude": "-90.529523",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVOCATE-NORTHSIDE HEALTH NETWORK",
+    "name2": "D/B/A ILLINOIS MASONIC MED CTR CAMPUS",
+    "address": "836 WEST WELLINGTON AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60657",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.936359",
+      "longitude": "-87.650008",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT JOSEPH HOSPITAL",
+    "name2": "",
+    "address": "2900 NORTH LAKE SHORE DRIVE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60657",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.reshealth.org/default.cfm",
+    "location": {
+      "latitude": "41.934626",
+      "longitude": "-87.63687",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RED BUD ILLINOIS HOSPITAL COMPANY, LLC",
+    "name2": "D/B/A RED BUD REGIONAL HOSPITAL",
+    "address": "325 SPRING STREET",
+    "address_2": "",
+    "city": "RED BUD",
+    "state": "IL",
+    "zip_code": "62278",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.209364",
+      "longitude": "-89.996251",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GRANITE CITY ILLINOIS HOSP COMPANY, LLC",
+    "name2": "D/B/A GATEWAY REGIONAL MEDICAL CENTER",
+    "address": "2100 MADISON AVENUE",
+    "address_2": "",
+    "city": "GRANITE CITY",
+    "state": "IL",
+    "zip_code": "62040",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.700767",
+      "longitude": "-90.144819",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "FRANKLIN HOSPITAL",
+    "name2": "",
+    "address": "201 BAILEY LANE",
+    "address_2": "",
+    "city": "BENTON",
+    "state": "IL",
+    "zip_code": "62812",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "38.009247",
+      "longitude": "-88.919834",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "VHS ACQUISITION SUBSIDIARY NUMBER 3, INC",
+    "name2": "D/B/A LOUIS A. WEISS MEMORIAL HOSPITAL",
+    "address": "4646 N. MARINE DRIVE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60640",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.96639",
+      "longitude": "-87.649053",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MERIT LINCOLN PARK, LLC",
+    "name2": "D/B/A LINCOLN PARK HOSPITAL",
+    "address": "550 WEST WEBSTER AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60614",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.921922",
+      "longitude": "-87.642634",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "JOHN H. STROGER, JR HOSPITAL",
+    "name2": "HOSPITAL OF COOK COUNTY",
+    "address": "1901 WEST HARRISON STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60612",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.873883",
+      "longitude": "-87.673819",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "UNIVERSITY OF ILLINIOS HOSPITAL",
+    "name2": "",
+    "address": "1740 WEST TAYLOR, SUITE 1400",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60612",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.uillinoismedcenter.org",
+    "location": {
+      "latitude": "41.869269",
+      "longitude": "-87.669774",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MARION HOSPITAL CORPORATION",
+    "name2": "D/B/A HEARTLAND REGIONAL MEDICAL CENTER",
+    "address": "3333 WEST DE YOUNG STREET",
+    "address_2": "",
+    "city": "MARION",
+    "state": "IL",
+    "zip_code": "62959",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "37.74483",
+      "longitude": "-88.986628",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINTS MARY AND ELIZABETH MEDICAL CENTER",
+    "name2": "D/B/A SAINT ELIZABETH HOSPITAL",
+    "address": "1431 NORTH CLAREMONT AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60622",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.907151",
+      "longitude": "-87.685609",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CRAWFORD MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "1000 N. ALLEN STREET",
+    "address_2": "P. O. BOX 151",
+    "city": "ROBINSON",
+    "state": "IL",
+    "zip_code": "62454",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.crawfordmh.com",
+    "location": {
+      "latitude": "39.013234",
+      "longitude": "-87.74901",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MARSHALL BROWNING HOSPITAL",
+    "name2": "",
+    "address": "900 NO.WASHINGTON ST.",
+    "address_2": "P.O. BOX 192",
+    "city": "DU QUOIN",
+    "state": "IL",
+    "zip_code": "62832",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "38.024074",
+      "longitude": "-89.236784",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MEMORIAL MEDICAL CENTER",
+    "name2": "",
+    "address": "701 N. FIRST STREET",
+    "address_2": "",
+    "city": "SPRINGFIELD",
+    "state": "IL",
+    "zip_code": "62781",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.memorialmedical.com",
+    "location": {
+      "latitude": "39.809568",
+      "longitude": "-89.65601",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "402 SOUTH ADAMS STREET",
+    "address_2": "P. O. BOX 160",
+    "city": "CARTHAGE",
+    "state": "IL",
+    "zip_code": "62321",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.mhtlc.com",
+    "location": {
+      "latitude": "40.409268",
+      "longitude": "-91.134407",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "METHODIST MEDICAL CENTER OF ILLINOIS",
+    "name2": "",
+    "address": "221 NORTHEAST GLEN OAK",
+    "address_2": "",
+    "city": "PEORIA",
+    "state": "IL",
+    "zip_code": "61636",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.mmci.org",
+    "location": {
+      "latitude": "40.70068",
+      "longitude": "-89.595496",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PASSAVANT AREA HOSPITAL",
+    "name2": "",
+    "address": "1600 WEST WALNUT STREET",
+    "address_2": "",
+    "city": "JACKSONVILLE",
+    "state": "IL",
+    "zip_code": "62650",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.passavanthospital.com",
+    "location": {
+      "latitude": "39.745386",
+      "longitude": "-90.258455",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SPARTA COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "818 EAST BROADWAY",
+    "address_2": "P. O. BOX 297",
+    "city": "SPARTA",
+    "state": "IL",
+    "zip_code": "62286",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.spartahospital.com",
+    "location": {
+      "latitude": "38.124369",
+      "longitude": "-89.691532",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT FRANCIS MEDICAL CENTER",
+    "name2": "",
+    "address": "530 NORTH EAST GLEN OAK AVENUE",
+    "address_2": "",
+    "city": "PEORIA",
+    "state": "IL",
+    "zip_code": "61637",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.osfsaintfrancis.org",
+    "location": {
+      "latitude": "40.70177",
+      "longitude": "-89.591241",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CHILDREN'S MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "2300 CHILDRENS PLAZA",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60614",
+    "description": "PEDIATRIC HOSPITAL",
+    "website": "www.childmmc.edu",
+    "location": {
+      "latitude": "41.924758",
+      "longitude": "-87.647115",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "BLESSING HOSPITAL AT 11TH STREET",
+    "name2": "",
+    "address": "BROADWAY AT 11TH STREET",
+    "address_2": "",
+    "city": "QUINCY",
+    "state": "IL",
+    "zip_code": "62301",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.blessinghospital.org",
+    "location": {
+      "latitude": "39.936789",
+      "longitude": "-91.399231",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CENTRAL DUPAGE HOSPITAL",
+    "name2": "",
+    "address": "25 NORTH WINFIELD ROAD",
+    "address_2": "",
+    "city": "WINFIELD",
+    "state": "IL",
+    "zip_code": "60190",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.cdh.org",
+    "location": {
+      "latitude": "41.872036",
+      "longitude": "-88.157492",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CLAY COUNTY HOSPITAL",
+    "name2": "",
+    "address": "911 STACY BURK DRIVE",
+    "address_2": "",
+    "city": "FLORA",
+    "state": "IL",
+    "zip_code": "62839",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.bjc.org/cch.html",
+    "location": {
+      "latitude": "38.675053",
+      "longitude": "-88.483608",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MT. SINAI HOSPITAL MEDICAL CENTER",
+    "name2": "",
+    "address": "CALIFORNIA AT 15TH STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60608",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.sinai.org",
+    "location": {
+      "latitude": "41.860856",
+      "longitude": "-87.694481",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT ANTHONY'S HOSPITAL",
+    "name2": "",
+    "address": "SAINT ANTHONY'S WAY",
+    "address_2": "",
+    "city": "ALTON",
+    "state": "IL",
+    "zip_code": "62002",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.sahc.org",
+    "location": {
+      "latitude": "38.907481",
+      "longitude": "-90.173603",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. JOHN'S HOSPITAL",
+    "name2": "",
+    "address": "800 EAST CARPENTER",
+    "address_2": "",
+    "city": "SPRINGFIELD",
+    "state": "IL",
+    "zip_code": "62769",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.st-johns.org",
+    "location": {
+      "latitude": "39.805694",
+      "longitude": "-89.644475",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "WEST SUBURBAN HOSPITAL MEDICAL CENTER",
+    "name2": "",
+    "address": "ERIE AT AUSTIN",
+    "address_2": "",
+    "city": "OAK PARK",
+    "state": "IL",
+    "zip_code": "60302",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.westsub.com",
+    "location": {
+      "latitude": "41.892278",
+      "longitude": "-87.775356",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "LA RABIDA CHILDREN'S HOSPITAL",
+    "name2": "",
+    "address": "EAST 65TH AT LAKE MICHIGAN",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60649",
+    "description": "PEDIATRIC HOSPITAL",
+    "website": "www.larabida.org",
+    "location": {
+      "latitude": "41.777947",
+      "longitude": "-87.571319",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "KISHWAUKEE COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "626 BETHANY ROAD",
+    "address_2": "",
+    "city": "DEKALB",
+    "state": "IL",
+    "zip_code": "60115",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.kishhospital.org",
+    "location": {
+      "latitude": "41.964731",
+      "longitude": "-88.733953",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ANDERSON HOSPITAL",
+    "name2": "",
+    "address": "6800 STATE ROUTE 162",
+    "address_2": "",
+    "city": "MARYVILLE",
+    "state": "IL",
+    "zip_code": "62062",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.andersonhospital.org",
+    "location": {
+      "latitude": "38.736786",
+      "longitude": "-89.946881",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "BROMENN REGIONAL MEDICAL CENTER",
+    "name2": "",
+    "address": "VIRGINIA AT FRANKLIN",
+    "address_2": "",
+    "city": "NORMAL",
+    "state": "IL",
+    "zip_code": "61761",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.bromenn.com/bromennregional",
+    "location": {
+      "latitude": "40.497361",
+      "longitude": "-88.990378",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MEMORIAL HOSPITAL OF CARBONDALE",
+    "name2": "",
+    "address": "405 WEST JACKSON",
+    "address_2": "P. O. BOX 10,000",
+    "city": "CARBONDALE",
+    "state": "IL",
+    "zip_code": "62902",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.memorialhospitalofcarbondale.org",
+    "location": {
+      "latitude": "37.727763",
+      "longitude": "-89.22053",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MEMORIAL MEDICAL CENTER",
+    "name2": "",
+    "address": "ROUTE 14 AND DOTY ROAD",
+    "address_2": "",
+    "city": "WOODSTOCK",
+    "state": "IL",
+    "zip_code": "60098",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.centegra.org",
+    "location": {
+      "latitude": "42.275395",
+      "longitude": "-88.399126",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HARDIN COUNTY GENERAL HOSPITAL",
+    "name2": "",
+    "address": "FERRELL ROAD",
+    "address_2": "",
+    "city": "ROSICLARE",
+    "state": "IL",
+    "zip_code": "62982",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "37.422286",
+      "longitude": "-88.351503",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PALOS COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "12251 SOUTH 80TH AVENUE",
+    "address_2": "",
+    "city": "PALOS HEIGHTS",
+    "state": "IL",
+    "zip_code": "60463",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.paloscommunityhospital.org",
+    "location": {
+      "latitude": "41.668465",
+      "longitude": "-87.815886",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SARAH BUSH LINCOLN HEALTH CENTER",
+    "name2": "",
+    "address": "1000 HEALTH CENTER DRIVE",
+    "address_2": "P. O. BOX 372",
+    "city": "MATTOON",
+    "state": "IL",
+    "zip_code": "61938",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.sarahbush.org",
+    "location": {
+      "latitude": "39.490001",
+      "longitude": "-88.273332",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVOCATE-HEALTH AND HOSPITALS CORP",
+    "name2": "D/B/A GOOD SHEPHERD HOSPITAL-ADVOCATE",
+    "address": "450 WEST HIGHWAY 22",
+    "address_2": "",
+    "city": "BARRINGTON",
+    "state": "IL",
+    "zip_code": "60010",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/gshp/",
+    "location": {
+      "latitude": "42.196818",
+      "longitude": "-88.176839",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "DELNOR COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "300 RANDALL ROAD",
+    "address_2": "",
+    "city": "GENEVA",
+    "state": "IL",
+    "zip_code": "60134",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.delnor.com",
+    "location": {
+      "latitude": "41.887213",
+      "longitude": "-88.342313",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "FERRELL HOSPITAL COMMUNITY FOUNDATION",
+    "name2": "D/B/A FERRELL HOSPITAL",
+    "address": "1201 PINE STREET",
+    "address_2": "",
+    "city": "ELDORADO",
+    "state": "IL",
+    "zip_code": "62930",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.sih.net/home.nsf/content/aboutsih",
+    "location": {
+      "latitude": "37.815256",
+      "longitude": "-88.441562",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT JAMES HOSPITAL",
+    "name2": "",
+    "address": "2500 WEST REYNOLDS STREET",
+    "address_2": "",
+    "city": "PONTIAC",
+    "state": "IL",
+    "zip_code": "61764",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.osfsaintjames.org",
+    "location": {
+      "latitude": "40.872039",
+      "longitude": "-88.674679",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ABRAHAM LINCOLN MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "315 EIGHTH STREET",
+    "address_2": "",
+    "city": "LINCOLN",
+    "state": "IL",
+    "zip_code": "62656",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.almh.org",
+    "location": {
+      "latitude": "40.150173",
+      "longitude": "-89.371382",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ALTON MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "ONE MEMORIAL DRIVE",
+    "address_2": "",
+    "city": "ALTON",
+    "state": "IL",
+    "zip_code": "62002",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.altonmemorialhospital.org",
+    "location": {
+      "latitude": "38.896959",
+      "longitude": "-90.15836",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "THOREK MEMORIAL HOSPITAL",
+    "name2": "THOREK HOSPITAL \u0026 MEDICAL CENTER",
+    "address": "850 WEST IRVING PARK ROAD",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60613",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.thorek.org",
+    "location": {
+      "latitude": "41.954531",
+      "longitude": "-87.650873",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "METHODIST HOSPITAL OF CHICAGO",
+    "name2": "",
+    "address": "5025 NORTH PAULINA STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60640",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.methodistchicago.org",
+    "location": {
+      "latitude": "41.973211",
+      "longitude": "-87.670932",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CARLINVILLE AREA HOSPITAL",
+    "name2": "",
+    "address": "1001 EAST MORGAN STREET",
+    "address_2": "",
+    "city": "CARLINVILLE",
+    "state": "IL",
+    "zip_code": "62626",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.carlinville.com/hospital.html",
+    "location": {
+      "latitude": "39.282204",
+      "longitude": "-89.870242",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVOCATE-CHRIST HOSPITAL AND MEDICAL CENTER",
+    "name2": "",
+    "address": "4440 W. 95TH STREET",
+    "address_2": "",
+    "city": "OAK LAWN",
+    "state": "IL",
+    "zip_code": "60453",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.advocatehealth.com/cmc/",
+    "location": {
+      "latitude": "41.720353",
+      "longitude": "-87.732406",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CGH MEDICAL CENTER",
+    "name2": "",
+    "address": "100 EAST LEFEVRE ROAD",
+    "address_2": "",
+    "city": "STERLING",
+    "state": "IL",
+    "zip_code": "61081",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.cghmc.com",
+    "location": {
+      "latitude": "41.801865",
+      "longitude": "-89.697186",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "COMMUNITY MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "400 CALDWELL",
+    "address_2": "",
+    "city": "STAUNTON",
+    "state": "IL",
+    "zip_code": "62088",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "39.015092",
+      "longitude": "-89.78972",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "CONDELL MEDICAL CENTER",
+    "name2": "",
+    "address": "801 S. MILWAUKEE AVENUE",
+    "address_2": "",
+    "city": "LIBERTYVILLE",
+    "state": "IL",
+    "zip_code": "60048",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.condell.org",
+    "location": {
+      "latitude": "42.269814",
+      "longitude": "-87.956985",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "DECATUR MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "2300 N. EDWARD STREET",
+    "address_2": "",
+    "city": "DECATUR",
+    "state": "IL",
+    "zip_code": "62526",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.dmhhs.com",
+    "location": {
+      "latitude": "39.86556",
+      "longitude": "-88.960588",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "KATHERINE SHAW BETHEA HOSPITAL",
+    "name2": "",
+    "address": "403 EAST FIRST STREET",
+    "address_2": "",
+    "city": "DIXON",
+    "state": "IL",
+    "zip_code": "61021",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.ksbhospital.com",
+    "location": {
+      "latitude": "41.844665",
+      "longitude": "-89.478328",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HARRISBURG MEDICAL CENTER INC.",
+    "name2": "",
+    "address": "100 HOSPITAL DRIVE",
+    "address_2": "P. O. BOX 428",
+    "city": "HARRISBURG",
+    "state": "IL",
+    "zip_code": "62946",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.harrisburgmedicalcenter.com",
+    "location": {
+      "latitude": "37.731154",
+      "longitude": "-88.524867",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GREENVILLE REGIONAL HOSPITAL",
+    "name2": "",
+    "address": "200 HEALTHCARE DRIVE",
+    "address_2": "",
+    "city": "GREENVILLE",
+    "state": "IL",
+    "zip_code": "62246",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.utlaut.com/Hospital/index.htm",
+    "location": {
+      "latitude": "38.90233",
+      "longitude": "-89.408505",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "EVANSTON HOSPITAL",
+    "name2": "",
+    "address": "2650 RIDGE AVENUE",
+    "address_2": "",
+    "city": "EVANSTON",
+    "state": "IL",
+    "zip_code": "60201",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.enh.org",
+    "location": {
+      "latitude": "42.065345",
+      "longitude": "-87.68333",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "FAIRFIELD MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "303 N.W. 11TH STREET",
+    "address_2": "",
+    "city": "FAIRFIELD",
+    "state": "IL",
+    "zip_code": "62837",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.fairfieldmemorial.org",
+    "location": {
+      "latitude": "38.381538",
+      "longitude": "-88.374575",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "FAYETTE COUNTY HOSPITAL",
+    "name2": "",
+    "address": "7TH \u0026 TAYLOR STREET",
+    "address_2": "",
+    "city": "VANDALIA",
+    "state": "IL",
+    "zip_code": "62471",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.bjc.org/fch.html",
+    "location": {
+      "latitude": "38.970595",
+      "longitude": "-89.098792",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "FREEPORT MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "1045 WEST STEPHENSON",
+    "address_2": "",
+    "city": "FREEPORT",
+    "state": "IL",
+    "zip_code": "61032",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "42.295855",
+      "longitude": "-89.637886",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GALENA-STAUSS HOSPITAL",
+    "name2": "",
+    "address": "215 SUMMIT STREET",
+    "address_2": "",
+    "city": "GALENA",
+    "state": "IL",
+    "zip_code": "61036",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.galenahealth.org",
+    "location": {
+      "latitude": "42.42256",
+      "longitude": "-90.436627",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GALESBURG COTTAGE HOSPITAL",
+    "name2": "",
+    "address": "695 NORTH KELLOGG STREET",
+    "address_2": "",
+    "city": "GALESBURG",
+    "state": "IL",
+    "zip_code": "61402",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.cottagehospital.com",
+    "location": {
+      "latitude": "40.955864",
+      "longitude": "-90.365962",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GIBSON COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "1120 N. MELVIN STREET",
+    "address_2": "",
+    "city": "GIBSON CITY",
+    "state": "IL",
+    "zip_code": "60936",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.gibsonhospital.org",
+    "location": {
+      "latitude": "40.477873",
+      "longitude": "-88.370625",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GOTTLIEB MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "701 WEST NORTH AVENUE",
+    "address_2": "",
+    "city": "MELROSE PARK",
+    "state": "IL",
+    "zip_code": "60160",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.gottliebhospital.org",
+    "location": {
+      "latitude": "41.908352",
+      "longitude": "-87.842434",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "GRAHAM HOSPITAL ASSOCIATION",
+    "name2": "",
+    "address": "210 WEST WALNUT STREET",
+    "address_2": "",
+    "city": "CANTON",
+    "state": "IL",
+    "zip_code": "61520",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.grahamhospital.org",
+    "location": {
+      "latitude": "40.553118",
+      "longitude": "-90.038212",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HAMILTON MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "611 S MARSHALL AVENUE",
+    "address_2": "",
+    "city": "MC LEANSBORO",
+    "state": "IL",
+    "zip_code": "62859",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "38.087008",
+      "longitude": "-88.541094",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HAMMOND-HENRY HOSPITAL",
+    "name2": "",
+    "address": "600 N. COLLEGE AVENUE",
+    "address_2": "",
+    "city": "GENESEO",
+    "state": "IL",
+    "zip_code": "61254",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.hammondhenry.com",
+    "location": {
+      "latitude": "41.460142",
+      "longitude": "-90.15797",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HERRIN HOSPITAL",
+    "name2": "",
+    "address": "201 S 14TH STREET",
+    "address_2": "",
+    "city": "HERRIN",
+    "state": "IL",
+    "zip_code": "62948",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.herrinhospital.org",
+    "location": {
+      "latitude": "37.802837",
+      "longitude": "-89.026651",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HILLSBORO AREA HOSPITAL",
+    "name2": "",
+    "address": "1200 EAST TREMONT STREET",
+    "address_2": "",
+    "city": "HILLSBORO",
+    "state": "IL",
+    "zip_code": "62049",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.hillsboroareahospital.org",
+    "location": {
+      "latitude": "39.153569",
+      "longitude": "-89.481799",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HINSDALE HOSPITAL",
+    "name2": "",
+    "address": "120 NORTH OAK STREET",
+    "address_2": "",
+    "city": "HINSDALE",
+    "state": "IL",
+    "zip_code": "60521",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.ahsmidwest.org/Facilities/hinsdale",
+    "location": {
+      "latitude": "41.805353",
+      "longitude": "-87.920233",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HOLY CROSS HOSPITAL",
+    "name2": "",
+    "address": "2701 WEST 68TH STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60629",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.holycrosshospital.org",
+    "location": {
+      "latitude": "41.769811",
+      "longitude": "-87.690659",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HOLY FAMILY MEDICAL CENTER",
+    "name2": "",
+    "address": "100 NORTH RIVER ROAD",
+    "address_2": "",
+    "city": "DES PLAINES",
+    "state": "IL",
+    "zip_code": "60016",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.reshealth.org/locations/hospitals.cfm",
+    "location": {
+      "latitude": "42.055759",
+      "longitude": "-87.888568",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "HOPEDALE HOSPITAL",
+    "name2": "",
+    "address": "107 TREMONT STREET",
+    "address_2": "P.O. BOX 267",
+    "city": "HOPEDALE",
+    "state": "IL",
+    "zip_code": "61747",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "40.424104",
+      "longitude": "-89.41782",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "INGALLS MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "ONE INGALLS DRIVE",
+    "address_2": "",
+    "city": "HARVEY",
+    "state": "IL",
+    "zip_code": "60426",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.ingallsmemorial.org",
+    "location": {
+      "latitude": "41.606527",
+      "longitude": "-87.659266",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "IROQUOIS MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "200 FAIRMAN STREET",
+    "address_2": "",
+    "city": "WATSEKA",
+    "state": "IL",
+    "zip_code": "60970",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.iroquoismemorial.com",
+    "location": {
+      "latitude": "40.765624",
+      "longitude": "-87.732771",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "JACKSON PARK HOSPITAL \u0026 MEDICAL CENTER",
+    "name2": "",
+    "address": "7531 STONY ISLAND AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60649",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.jacksonparkhospital.com",
+    "location": {
+      "latitude": "41.757867",
+      "longitude": "-87.585465",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "JERSEY COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "400 MAPLE SUMMIT ROAD",
+    "address_2": "",
+    "city": "JERSEYVILLE",
+    "state": "IL",
+    "zip_code": "62052",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.jch.org",
+    "location": {
+      "latitude": "39.113652",
+      "longitude": "-90.341482",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "DR. JOHN WARNER HOSPITAL",
+    "name2": "",
+    "address": "422 WEST WHITE STREET",
+    "address_2": "",
+    "city": "CLINTON",
+    "state": "IL",
+    "zip_code": "61727",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.djwhospital.org",
+    "location": {
+      "latitude": "40.148818",
+      "longitude": "-88.964979",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "KEWANEE HOSPITAL",
+    "name2": "",
+    "address": "719 ELLIOTT STREET",
+    "address_2": "",
+    "city": "KEWANEE",
+    "state": "IL",
+    "zip_code": "61443",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.kewaneehospital.com",
+    "location": {
+      "latitude": "41.235601",
+      "longitude": "-89.930325",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "LAKE FOREST HOSPITAL",
+    "name2": "",
+    "address": "660 NORTH WESTMORELAND ROAD",
+    "address_2": "",
+    "city": "LAKE FOREST",
+    "state": "IL",
+    "zip_code": "60045",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.lakeforesthospital.com",
+    "location": {
+      "latitude": "42.250458",
+      "longitude": "-87.86362",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "LAWRENCE COUNTY MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "2200 WEST STATE STREET",
+    "address_2": "",
+    "city": "LAWRENCEVILLE",
+    "state": "IL",
+    "zip_code": "62439",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.731568",
+      "longitude": "-87.698008",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "LITTLE COMPANY OF MARY HOSPITAL",
+    "name2": "",
+    "address": "2800 WEST 95TH STREET",
+    "address_2": "",
+    "city": "EVERGREEN PARK",
+    "state": "IL",
+    "zip_code": "60805",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.lcmh.org",
+    "location": {
+      "latitude": "41.720978",
+      "longitude": "-87.691901",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "LORETTO HOSPITAL",
+    "name2": "",
+    "address": "645 SOUTH CENTRAL AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60644",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.lorettohospital.org",
+    "location": {
+      "latitude": "41.872316",
+      "longitude": "-87.764252",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MASON DISTRICT HOSPITAL",
+    "name2": "",
+    "address": "615 NORTH PROMENADE STREET",
+    "address_2": "P. O. BOX 530",
+    "city": "HAVANA",
+    "state": "IL",
+    "zip_code": "62644",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "40.303698",
+      "longitude": "-90.055853",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MASSAC MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "28 CHICK STREET",
+    "address_2": "P. O. BOX 850",
+    "city": "METROPOLIS",
+    "state": "IL",
+    "zip_code": "62960",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.massacmemorialhospital.com",
+    "location": {
+      "latitude": "37.166653",
+      "longitude": "-88.738049",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MCDONOUGH DISTRICT HOSPITAL",
+    "name2": "",
+    "address": "525 EAST GRANT STREET",
+    "address_2": "",
+    "city": "MACOMB",
+    "state": "IL",
+    "zip_code": "61455",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.mdh.org",
+    "location": {
+      "latitude": "40.447771",
+      "longitude": "-90.665786",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "4500 MEMORIAL DRIVE",
+    "address_2": "",
+    "city": "BELLEVILLE",
+    "state": "IL",
+    "zip_code": "62226",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.memhosp.com",
+    "location": {
+      "latitude": "38.548756",
+      "longitude": "-90.019294",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "1900 STATE STREET",
+    "address_2": "",
+    "city": "CHESTER",
+    "state": "IL",
+    "zip_code": "62233",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.mhchester.com",
+    "location": {
+      "latitude": "37.918377",
+      "longitude": "-89.813346",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ELMHURST MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "200 BERTEAU AVENUE",
+    "address_2": "",
+    "city": "ELMHURST",
+    "state": "IL",
+    "zip_code": "60126",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.emhc.org",
+    "location": {
+      "latitude": "41.902189",
+      "longitude": "-87.929549",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MENDOTA COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "1315 MEMORIAL DRIVE",
+    "address_2": "",
+    "city": "MENDOTA",
+    "state": "IL",
+    "zip_code": "61342",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.mendotahospital.org",
+    "location": {
+      "latitude": "41.553539",
+      "longitude": "-89.128143",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MERCY HOSPITAL \u0026 MEDICAL CENTER",
+    "name2": "",
+    "address": "2525 SOUTH MICHIGAN AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60616",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.mercy-chicago.org",
+    "location": {
+      "latitude": "41.84697",
+      "longitude": "-87.623285",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MORRIS HOSPITAL AND HEALTHCARE CENTERS",
+    "name2": "",
+    "address": "150 WEST HIGH ST",
+    "address_2": "",
+    "city": "MORRIS",
+    "state": "IL",
+    "zip_code": "60450",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.morrishospital.org",
+    "location": {
+      "latitude": "41.369162",
+      "longitude": "-88.425957",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MORRISON COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "303 NORTH JACKSON STREET",
+    "address_2": "",
+    "city": "MORRISON",
+    "state": "IL",
+    "zip_code": "61270",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "",
+    "location": {
+      "latitude": "41.810502",
+      "longitude": "-89.956794",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "NORTHWEST COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "800 WEST CENTRAL ROAD",
+    "address_2": "",
+    "city": "ARLINGTON HGHTS",
+    "state": "IL",
+    "zip_code": "60005",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.nch.org",
+    "location": {
+      "latitude": "42.066754",
+      "longitude": "-87.99261",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "OUR LADY OF THE RESURRECTION MEDICAL CTR",
+    "name2": "",
+    "address": "5645 WEST ADDISON STREET",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60634",
+    "description": "GENERAL HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.945629",
+      "longitude": "-87.767765",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "NORWEGIAN-AMERICAN HOSP, INC.",
+    "name2": "",
+    "address": "1044 NORTH FRANCISCO AVENUE",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60622",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.n-ahs.org",
+    "location": {
+      "latitude": "41.900436",
+      "longitude": "-87.699318",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "RUSH OAK PARK HOSPITAL, INC.",
+    "name2": "",
+    "address": "520 SOUTH MAPLE AVENUE",
+    "address_2": "",
+    "city": "OAK PARK",
+    "state": "IL",
+    "zip_code": "60304",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.oakparkhospital.org",
+    "location": {
+      "latitude": "41.879256",
+      "longitude": "-87.803489",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PANA COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "101 EAST NINTH STREET",
+    "address_2": "",
+    "city": "PANA",
+    "state": "IL",
+    "zip_code": "62557",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.panahospital.com",
+    "location": {
+      "latitude": "39.380313",
+      "longitude": "-89.084169",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PARIS COMMUNITY HOSPITAL",
+    "name2": "",
+    "address": "721 EAST COURT STREET",
+    "address_2": "",
+    "city": "PARIS",
+    "state": "IL",
+    "zip_code": "61944",
+    "description": "CRITICAL ACCESS HOSP",
+    "website": "www.pariscommunityhospital.com",
+    "location": {
+      "latitude": "39.607411",
+      "longitude": "-87.67947",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PEKIN MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "600 SOUTH 13TH STREET",
+    "address_2": "",
+    "city": "PEKIN",
+    "state": "IL",
+    "zip_code": "61554",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.pekinhospital.org",
+    "location": {
+      "latitude": "40.563675",
+      "longitude": "-89.63295",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "PERRY MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "530 PARK AVENUE EAST",
+    "address_2": "",
+    "city": "PRINCETON",
+    "state": "IL",
+    "zip_code": "61356",
+    "description": "GENERAL HOSPITAL",
+    "website": "www.perry-memorial.org",
+    "location": {
+      "latitude": "41.367904",
+      "longitude": "-89.454996",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "BELOIT MEMORIAL HOSPITAL",
+    "name2": "",
+    "address": "1969 W. HART ROAD",
+    "address_2": "",
+    "city": "BELOIT",
+    "state": "WI",
+    "zip_code": "53511",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "42.546786",
+      "longitude": "-89.009293",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MERCY MEDICAL CENTER - CLINTON",
+    "name2": "",
+    "address": "1410 NORTH 4TH STREET",
+    "address_2": "",
+    "city": "CLINTON",
+    "state": "IA",
+    "zip_code": "52732",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "41.860704",
+      "longitude": "-90.188432",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "FINLEY HOSPITAL",
+    "name2": "",
+    "address": "350 N GRANDVIEW",
+    "address_2": "",
+    "city": "DUBUQUE",
+    "state": "IA",
+    "zip_code": "52001",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "42.495564",
+      "longitude": "-90.687669",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "THE MONROE CLINIC",
+    "name2": "",
+    "address": "515 22ND AVENUE",
+    "address_2": "",
+    "city": "MONROE",
+    "state": "WI",
+    "zip_code": "53566",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "42.607547",
+      "longitude": "-89.632635",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ST. MARY'S MEDICAL CENTER (EVANSVILLE)",
+    "name2": "",
+    "address": "3700 WASHINGTON AVENUE",
+    "address_2": "",
+    "city": "EVANSVILLE",
+    "state": "IN",
+    "zip_code": "47750",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "37.962351",
+      "longitude": "-87.505465",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "MERCY MEDICAL CENTER",
+    "name2": "",
+    "address": "250 MERCY DRIVE",
+    "address_2": "",
+    "city": "DUBUQUE",
+    "state": "IA",
+    "zip_code": "52001",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "42.493103",
+      "longitude": "-90.673778",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SAINT MARGARET MERCY",
+    "name2": "",
+    "address": "5464 HOHMAN AVENUE",
+    "address_2": "",
+    "city": "HAMMOND",
+    "state": "IN",
+    "zip_code": "46320",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "41.614398",
+      "longitude": "-87.521969",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "SCOTT AFB MEDICAL CENTER",
+    "name2": "",
+    "address": "310 WEST LOSEY STREET",
+    "address_2": "",
+    "city": "SCOTT AIR FORCE BASE",
+    "state": "IL",
+    "zip_code": "62225",
+    "description": "MILITARY HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "38.543167",
+      "longitude": "-89.869379",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "VETERANS ADMINISTRATION LAKESIDE",
+    "name2": "",
+    "address": "333 E. HURON",
+    "address_2": "",
+    "city": "CHICAGO",
+    "state": "IL",
+    "zip_code": "60611",
+    "description": "MILITARY HOSPITAL",
+    "website": "",
+    "location": {
+      "latitude": "41.894978",
+      "longitude": "-87.619503",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "ADVENTIST BOLINGBROOK HOSPITAL",
+    "name2": "",
+    "address": "500 REMINGTON BLVD.",
+    "address_2": "",
+    "city": "BOLINGBROOK",
+    "state": "IL",
+    "zip_code": "60440",
+    "description": "",
+    "website": "www.keepingyouwell.com/Facilities/BolingbrookHospital/tabid/211/Default.aspx",
+    "location": {
+      "latitude": "41.68098397",
+      "longitude": "-88.08368455",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  },
+  {
+    "name": "Deaconess Hospital",
+    "name2": "",
+    "address": "600 Mary Street",
+    "address_2": "",
+    "city": "Evensville",
+    "state": "IN",
+    "zip_code": "47747",
+    "description": "",
+    "website": "",
+    "location": {
+      "latitude": "37.984936",
+      "longitude": "-87.571224",
+      "human_address": "",
+      "lat_lon": ""
+    }
+  }
+]
