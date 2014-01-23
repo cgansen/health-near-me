@@ -96,7 +96,7 @@ func SearchType(term string) (HealthProviderType, error) {
 		return WarmingCenter, nil
 	case "services", "everything", "all", "anything":
 		return Dummy, nil
-	case "hospital":
+	case "hospital", "hospitals":
 		return Hospital, nil
 	default:
 		return Dummy, errors.New("unknown search type")
