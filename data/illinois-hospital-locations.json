@@ -7,10 +7,14 @@
     "city": "PINCKNEYVILLE",
     "state": "IL",
     "zip_code": "62274",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "38.08079400000",
-    "longitude": "-89.38282500000"
+    "location": {
+      "latitude": "38.080794",
+      "longitude": "-89.382825",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RUSH UNIVERSITY MEDICAL CENTER",
@@ -20,10 +24,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60612",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.rush.edu",
-    "latitude": "41.87494600000",
-    "longitude": "-87.66834900000"
+    "location": {
+      "latitude": "41.874946",
+      "longitude": "-87.668349",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROCTOR COMMUNITY HOSPITAL",
@@ -33,10 +41,14 @@
     "city": "PEORIA",
     "state": "IL",
     "zip_code": "61614",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.proctor.org",
-    "latitude": "40.75239900000",
-    "longitude": "-89.59350400000"
+    "location": {
+      "latitude": "40.752399",
+      "longitude": "-89.593504",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RESURRECTION MEDICAL CENTER",
@@ -46,10 +58,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60631",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.reshealth.org/locations/hospitals.cfm",
-    "latitude": "41.98836900000",
-    "longitude": "-87.81266100000"
+    "location": {
+      "latitude": "41.988369",
+      "longitude": "-87.812661",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RIVERSIDE MEDICAL CENTER",
@@ -59,10 +75,14 @@
     "city": "KANKAKEE",
     "state": "IL",
     "zip_code": "60901",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.riversidehealthcare.org",
-    "latitude": "41.12411700000",
-    "longitude": "-87.88235100000"
+    "location": {
+      "latitude": "41.124117",
+      "longitude": "-87.882351",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ROCHELLE COMMUNITY HOSPITAL",
@@ -72,10 +92,14 @@
     "city": "ROCHELLE",
     "state": "IL",
     "zip_code": "61068",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.rcha.net",
-    "latitude": "41.92831400000",
-    "longitude": "-89.06281800000"
+    "location": {
+      "latitude": "41.928314",
+      "longitude": "-89.062818",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ROCKFORD MEMORIAL HOSPITAL",
@@ -85,10 +109,14 @@
     "city": "ROCKFORD",
     "state": "IL",
     "zip_code": "61103",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.rhsnet.org",
-    "latitude": "42.29780800000",
-    "longitude": "-89.09695800000"
+    "location": {
+      "latitude": "42.297808",
+      "longitude": "-89.096958",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ROSELAND COMMUNITY HOSPITAL",
@@ -98,10 +126,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60628",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.roselandhospital.org",
-    "latitude": "41.69243400000",
-    "longitude": "-87.62432900000"
+    "location": {
+      "latitude": "41.692434",
+      "longitude": "-87.624329",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "COMMUNITY HOSPITAL OF OTTAWA",
@@ -111,10 +143,14 @@
     "city": "OTTAWA",
     "state": "IL",
     "zip_code": "61350",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.chottawa.org",
-    "latitude": "41.35592400000",
-    "longitude": "-88.85549100000"
+    "location": {
+      "latitude": "41.355924",
+      "longitude": "-88.855491",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SALEM TOWNSHIP HOSPITAL",
@@ -124,10 +160,14 @@
     "city": "SALEM",
     "state": "IL",
     "zip_code": "62881",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "38.63949800000",
-    "longitude": "-88.94407100000"
+    "location": {
+      "latitude": "38.639498",
+      "longitude": "-88.944071",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SARAH D. CULBERTSON MEMORIAL HOSPITAL",
@@ -137,10 +177,14 @@
     "city": "RUSHVILLE",
     "state": "IL",
     "zip_code": "62681",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.cmhospital.com",
-    "latitude": "40.11818400000",
-    "longitude": "-90.56339900000"
+    "location": {
+      "latitude": "40.118184",
+      "longitude": "-90.563399",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SHELBY MEMORIAL HOSPITAL",
@@ -150,10 +194,14 @@
     "city": "SHELBYVILLE",
     "state": "IL",
     "zip_code": "62565",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "39.40570600000",
-    "longitude": "-88.80750100000"
+    "location": {
+      "latitude": "39.405706",
+      "longitude": "-88.807501",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SHERMAN HOSPITAL ASSOCIATION",
@@ -163,10 +211,14 @@
     "city": "ELGIN",
     "state": "IL",
     "zip_code": "60120",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.shermanhealth.com",
-    "latitude": "42.05385200000",
-    "longitude": "-88.28121000000"
+    "location": {
+      "latitude": "42.053852",
+      "longitude": "-88.28121",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SILVER CROSS HOSPITAL",
@@ -176,10 +228,14 @@
     "city": "JOLIET",
     "state": "IL",
     "zip_code": "60432",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.silvercross.org",
-    "latitude": "41.53715500000",
-    "longitude": "-88.05338700000"
+    "location": {
+      "latitude": "41.537155",
+      "longitude": "-88.053387",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RUSH NORTH SHORE MEDICAL CENTER",
@@ -189,10 +245,14 @@
     "city": "SKOKIE",
     "state": "IL",
     "zip_code": "60076",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.rnsmc.org",
-    "latitude": "42.05531700000",
-    "longitude": "-87.74007100000"
+    "location": {
+      "latitude": "42.055317",
+      "longitude": "-87.740071",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ALEXIAN BROTHERS MEDICAL CENTER",
@@ -202,10 +262,14 @@
     "city": "ELK GROVE VILLAG",
     "state": "IL",
     "zip_code": "60007",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.alexian.org",
-    "latitude": "42.00362700000",
-    "longitude": "-88.02025400000"
+    "location": {
+      "latitude": "42.003627",
+      "longitude": "-88.020254",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT ANTHONY MEDICAL CENTER",
@@ -215,10 +279,14 @@
     "city": "ROCKFORD",
     "state": "IL",
     "zip_code": "61108",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.osfhealth.com/",
-    "latitude": "42.26622200000",
-    "longitude": "-89.00573400000"
+    "location": {
+      "latitude": "42.266222",
+      "longitude": "-89.005734",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. ANTHONY'S MEMORIAL HOSPITAL",
@@ -228,10 +296,14 @@
     "city": "EFFINGHAM",
     "state": "IL",
     "zip_code": "62401",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stanthonyshospital.org",
-    "latitude": "39.12574300000",
-    "longitude": "-88.54951700000"
+    "location": {
+      "latitude": "39.125743",
+      "longitude": "-88.549517",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. BERNARD HOSPITAL",
@@ -241,10 +313,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60621",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stbernardhospital.com",
-    "latitude": "41.77809700000",
-    "longitude": "-87.63335900000"
+    "location": {
+      "latitude": "41.778097",
+      "longitude": "-87.633359",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. ELIZABETH'S HOSPITAL",
@@ -254,10 +330,14 @@
     "city": "BELLEVILLE",
     "state": "IL",
     "zip_code": "62221",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.steliz.org",
-    "latitude": "38.51160800000",
-    "longitude": "-89.98841400000"
+    "location": {
+      "latitude": "38.511608",
+      "longitude": "-89.988414",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. FRANCIS HOSPITAL",
@@ -267,10 +347,14 @@
     "city": "LITCHFIELD",
     "state": "IL",
     "zip_code": "62056",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stfrancis-litchfield.org",
-    "latitude": "39.17789300000",
-    "longitude": "-89.64094300000"
+    "location": {
+      "latitude": "39.177893",
+      "longitude": "-89.640943",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. FRANCIS HOSPITAL OF EVANSTON",
@@ -280,10 +364,14 @@
     "city": "EVANSTON",
     "state": "IL",
     "zip_code": "60202",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.reshealth.org",
-    "latitude": "42.02386500000",
-    "longitude": "-87.68483700000"
+    "location": {
+      "latitude": "42.023865",
+      "longitude": "-87.684837",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. JAMES HOSPITAL AND HEALTH CENTERS",
@@ -293,10 +381,14 @@
     "city": "CHICAGO HEIGHTS",
     "state": "IL",
     "zip_code": "60411",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stjameshhc.org",
-    "latitude": "41.51426900000",
-    "longitude": "-87.64227200000"
+    "location": {
+      "latitude": "41.514269",
+      "longitude": "-87.642272",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. JOSEPH'S HOSPITAL",
@@ -306,10 +398,14 @@
     "city": "BREESE",
     "state": "IL",
     "zip_code": "62230",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stjoebreese.com",
-    "latitude": "38.62519000000",
-    "longitude": "-89.52101700000"
+    "location": {
+      "latitude": "38.62519",
+      "longitude": "-89.521017",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. JOSEPH MEDICAL CENTER",
@@ -319,10 +415,14 @@
     "city": "BLOOMINGTON",
     "state": "IL",
     "zip_code": "61701",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.osfstjoseph.org",
-    "latitude": "40.48009700000",
-    "longitude": "-88.95723300000"
+    "location": {
+      "latitude": "40.480097",
+      "longitude": "-88.957233",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. JOSEPH'S HOSPITAL",
@@ -332,10 +432,14 @@
     "city": "HIGHLAND",
     "state": "IL",
     "zip_code": "62249",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stjosephs-highland.org",
-    "latitude": "38.74065300000",
-    "longitude": "-89.67250800000"
+    "location": {
+      "latitude": "38.740653",
+      "longitude": "-89.672508",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. MARGARET'S HOSPITAL",
@@ -345,10 +449,14 @@
     "city": "SPRING VALLEY",
     "state": "IL",
     "zip_code": "61362",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.st-margarets.com",
-    "latitude": "41.32882400000",
-    "longitude": "-89.19247200000"
+    "location": {
+      "latitude": "41.328824",
+      "longitude": "-89.192472",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINTS MARY AND ELIZABETH MEDICAL CENTER",
@@ -358,10 +466,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60622",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.90287400000",
-    "longitude": "-87.68298200000"
+    "location": {
+      "latitude": "41.902874",
+      "longitude": "-87.682982",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. MARY'S HOSPITAL",
@@ -371,10 +483,14 @@
     "city": "DECATUR",
     "state": "IL",
     "zip_code": "62521",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stmarys-hospital.com",
-    "latitude": "39.82649600000",
-    "longitude": "-88.93219500000"
+    "location": {
+      "latitude": "39.826496",
+      "longitude": "-88.932195",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. MARY'S HOSPITAL",
@@ -384,10 +500,14 @@
     "city": "CENTRALIA",
     "state": "IL",
     "zip_code": "62801",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.smgsi.com/internet/home/goodsam.nsf",
-    "latitude": "38.53076700000",
-    "longitude": "-89.11605600000"
+    "location": {
+      "latitude": "38.530767",
+      "longitude": "-89.116056",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. MARY'S HOSPITAL",
@@ -397,10 +517,14 @@
     "city": "STREATOR",
     "state": "IL",
     "zip_code": "61364",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stmaryshospital.org",
-    "latitude": "41.11398800000",
-    "longitude": "-88.83542700000"
+    "location": {
+      "latitude": "41.113988",
+      "longitude": "-88.835427",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "KENNETH HALL REGIONAL HOSPITAL",
@@ -410,10 +534,14 @@
     "city": "EAST ST. LOUIS",
     "state": "IL",
     "zip_code": "62201",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "38.62258100000",
-    "longitude": "-90.15748600000"
+    "location": {
+      "latitude": "38.622581",
+      "longitude": "-90.157486",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. MARY MEDICAL CENTER",
@@ -423,10 +551,14 @@
     "city": "GALESBURG",
     "state": "IL",
     "zip_code": "61401",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.osfstmary.org",
-    "latitude": "40.98697500000",
-    "longitude": "-90.36353800000"
+    "location": {
+      "latitude": "40.986975",
+      "longitude": "-90.363538",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. VINCENT MEMORIAL HOSPITAL",
@@ -436,10 +568,14 @@
     "city": "TAYLORVILLE",
     "state": "IL",
     "zip_code": "62568",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "svmh.org",
-    "latitude": "39.55401300000",
-    "longitude": "-89.29379000000"
+    "location": {
+      "latitude": "39.554013",
+      "longitude": "-89.29379",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SWEDISH COVENANT HOSPITAL",
@@ -449,10 +585,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60625",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.schosp.org",
-    "latitude": "41.97512100000",
-    "longitude": "-87.69865800000"
+    "location": {
+      "latitude": "41.975121",
+      "longitude": "-87.698658",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SWEDISH AMERICAN HOSPITAL",
@@ -462,10 +602,14 @@
     "city": "ROCKFORD",
     "state": "IL",
     "zip_code": "61104",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.swedishamerican.org",
-    "latitude": "42.26680600000",
-    "longitude": "-89.07352700000"
+    "location": {
+      "latitude": "42.266806",
+      "longitude": "-89.073527",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "JOHN \u0026 MARY E. KIRBY HOSPITAL",
@@ -475,10 +619,14 @@
     "city": "MONTICELLO",
     "state": "IL",
     "zip_code": "61856",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.kirbyhospital.org",
-    "latitude": "40.03374300000",
-    "longitude": "-88.57071600000"
+    "location": {
+      "latitude": "40.033743",
+      "longitude": "-88.570716",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "THOMAS H. BOYD MEMORIAL HOSPITAL",
@@ -488,10 +636,14 @@
     "city": "CARROLLTON",
     "state": "IL",
     "zip_code": "62016",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "39.29595400000",
-    "longitude": "-90.41229400000"
+    "location": {
+      "latitude": "39.295954",
+      "longitude": "-90.412294",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "UNION COUNTY HOSPITAL DISTRICT",
@@ -501,10 +653,14 @@
     "city": "ANNA",
     "state": "IL",
     "zip_code": "62906",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.unioncountyhospital.com",
-    "latitude": "37.46490500000",
-    "longitude": "-89.24533900000"
+    "location": {
+      "latitude": "37.464905",
+      "longitude": "-89.245339",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "VICTORY MEMORIAL HOSPITAL",
@@ -514,23 +670,31 @@
     "city": "WAUKEGAN",
     "state": "IL",
     "zip_code": "60085",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.vistahealth.com",
-    "latitude": "42.37826800000",
-    "longitude": "-87.83109000000"
+    "location": {
+      "latitude": "42.378268",
+      "longitude": "-87.83109",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
-    "name": "WABASH General Hospital DISTRICT",
+    "name": "WABASH GENERAL HOSPITAL DISTRICT",
     "name2": "",
     "address": "1418 COLLEGE DRIVE",
     "address_2": "",
     "city": "MOUNT CARMEL",
     "state": "IL",
     "zip_code": "62863",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.wabashgeneral.com",
-    "latitude": "38.42142700000",
-    "longitude": "-87.76848400000"
+    "location": {
+      "latitude": "38.421427",
+      "longitude": "-87.768484",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "WASHINGTON COUNTY HOSPITAL",
@@ -540,10 +704,14 @@
     "city": "NASHVILLE",
     "state": "IL",
     "zip_code": "62263",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "38.33908800000",
-    "longitude": "-89.39018600000"
+    "location": {
+      "latitude": "38.339088",
+      "longitude": "-89.390186",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "WESTLAKE HOSPITAL",
@@ -553,10 +721,14 @@
     "city": "MELROSE PARK",
     "state": "IL",
     "zip_code": "60160",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.reshealth.org",
-    "latitude": "41.89172000000",
-    "longitude": "-87.84828900000"
+    "location": {
+      "latitude": "41.89172",
+      "longitude": "-87.848289",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MIDWESTERN REGIONAL MEDICAL CENTER",
@@ -566,10 +738,14 @@
     "city": "ZION",
     "state": "IL",
     "zip_code": "60099",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.44939100000",
-    "longitude": "-87.82702800000"
+    "location": {
+      "latitude": "42.449391",
+      "longitude": "-87.827028",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SHRINERS HOSPITAL FOR CRIPPLED CHILDREN",
@@ -581,8 +757,12 @@
     "zip_code": "60635",
     "description": "PEDIATRIC HOSPITAL",
     "website": "www.shrinershq.org/shc/chicago/index.html",
-    "latitude": "41.92002200000",
-    "longitude": "-87.79484900000"
+    "location": {
+      "latitude": "41.920022",
+      "longitude": "-87.794849",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "TRINITY MEDICAL CENTER (WEST)",
@@ -592,10 +772,14 @@
     "city": "ROCK ISLAND",
     "state": "IL",
     "zip_code": "61201",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.trinityqc.com",
-    "latitude": "41.48342300000",
-    "longitude": "-90.57262600000"
+    "location": {
+      "latitude": "41.483423",
+      "longitude": "-90.572626",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "NORTHWESTERN MEMORIAL HOSPITAL",
@@ -605,10 +789,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60611",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.nmh.org",
-    "latitude": "41.89478600000",
-    "longitude": "-87.62145200000"
+    "location": {
+      "latitude": "41.894786",
+      "longitude": "-87.621452",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVOCATE-GOOD SAMARITAN HOSPITAL",
@@ -618,10 +806,14 @@
     "city": "DOWNERS GROVE",
     "state": "IL",
     "zip_code": "60515",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/gsam/",
-    "latitude": "41.81965900000",
-    "longitude": "-88.01010800000"
+    "location": {
+      "latitude": "41.819659",
+      "longitude": "-88.010108",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ILLINOIS VALLEY COMMUNITY HOSPITAL",
@@ -631,10 +823,14 @@
     "city": "PERU",
     "state": "IL",
     "zip_code": "61354",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.ivch.org",
-    "latitude": "41.32878600000",
-    "longitude": "-89.12525200000"
+    "location": {
+      "latitude": "41.328786",
+      "longitude": "-89.125252",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SOUTH SHORE HOSPITAL",
@@ -644,10 +840,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60617",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.southshorehospital.com",
-    "latitude": "41.74964700000",
-    "longitude": "-87.56877200000"
+    "location": {
+      "latitude": "41.749647",
+      "longitude": "-87.568772",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GLENBROOK HOSPITAL",
@@ -657,10 +857,14 @@
     "city": "GLENVIEW",
     "state": "IL",
     "zip_code": "60025",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.08766000000",
-    "longitude": "-87.84936100000"
+    "location": {
+      "latitude": "42.08766",
+      "longitude": "-87.849361",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "EUREKA COMMUNITY HOSPITAL",
@@ -670,10 +874,14 @@
     "city": "EUREKA",
     "state": "IL",
     "zip_code": "61530",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.bromenn.com/eureka",
-    "latitude": "40.72142800000",
-    "longitude": "-89.27188200000"
+    "location": {
+      "latitude": "40.721428",
+      "longitude": "-89.271882",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MERCER COUNTY HOSPITAL",
@@ -683,10 +891,14 @@
     "city": "ALEDO",
     "state": "IL",
     "zip_code": "61231",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.mercerhospital.org",
-    "latitude": "41.20440800000",
-    "longitude": "-90.75876600000"
+    "location": {
+      "latitude": "41.204408",
+      "longitude": "-90.758766",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CARLE FOUNDATION HOSPITAL",
@@ -696,10 +908,14 @@
     "city": "URBANA",
     "state": "IL",
     "zip_code": "61801",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.carle.com",
-    "latitude": "40.11718000000",
-    "longitude": "-88.21467400000"
+    "location": {
+      "latitude": "40.11718",
+      "longitude": "-88.214674",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVENTIST GLENOAKS",
@@ -709,10 +925,14 @@
     "city": "GLENDALE HEIGHTS",
     "state": "IL",
     "zip_code": "60139",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.ahsmidwest.org/Facilities/glenoaks/",
-    "latitude": "41.91480400000",
-    "longitude": "-88.06033900000"
+    "location": {
+      "latitude": "41.914804",
+      "longitude": "-88.060339",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "BETHANY HOSPITAL",
@@ -722,10 +942,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60624",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/beth/",
-    "latitude": "41.87525600000",
-    "longitude": "-87.71186200000"
+    "location": {
+      "latitude": "41.875256",
+      "longitude": "-87.711862",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "NORTHERN ILLINOIS MEDICAL CENTER",
@@ -735,10 +959,14 @@
     "city": "MC HENRY",
     "state": "IL",
     "zip_code": "60050",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.31799100000",
-    "longitude": "-88.27549500000"
+    "location": {
+      "latitude": "42.317991",
+      "longitude": "-88.275495",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "UNIVERSITY OF CHICAGO HOSPITALS",
@@ -748,10 +976,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60637",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.uchospitals.edu",
-    "latitude": "41.78842600000",
-    "longitude": "-87.60460100000"
+    "location": {
+      "latitude": "41.788426",
+      "longitude": "-87.604601",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "EDWARD HOSPITAL",
@@ -761,10 +993,14 @@
     "city": "NAPERVILLE",
     "state": "IL",
     "zip_code": "60566",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.edward.org",
-    "latitude": "41.76139300000",
-    "longitude": "-88.14933400000"
+    "location": {
+      "latitude": "41.761393",
+      "longitude": "-88.149334",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CROSSROADS COMMUNITY HOSPITAL",
@@ -774,10 +1010,14 @@
     "city": "MOUNT VERNON",
     "state": "IL",
     "zip_code": "62864",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.crossroadscommunityhospital.com",
-    "latitude": "38.31190800000",
-    "longitude": "-88.93357400000"
+    "location": {
+      "latitude": "38.311908",
+      "longitude": "-88.933574",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ILLINI HOSPITAL",
@@ -787,10 +1027,14 @@
     "city": "SILVIS",
     "state": "IL",
     "zip_code": "61282",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.genesishealth.com",
-    "latitude": "41.50021000000",
-    "longitude": "-90.42269400000"
+    "location": {
+      "latitude": "41.50021",
+      "longitude": "-90.422694",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SACRED HEART HOSPITAL",
@@ -800,10 +1044,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60624",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.89036400000",
-    "longitude": "-87.70724200000"
+    "location": {
+      "latitude": "41.890364",
+      "longitude": "-87.707242",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "TRINITY HOSPITAL",
@@ -813,10 +1061,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60617",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/trin/",
-    "latitude": "41.72638000000",
-    "longitude": "-87.56747300000"
+    "location": {
+      "latitude": "41.72638",
+      "longitude": "-87.567473",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HOOPESTON COMMUNITY MEMORIAL HOSPITAL",
@@ -826,10 +1078,14 @@
     "city": "HOOPESTON",
     "state": "IL",
     "zip_code": "60942",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.hoopestonhospital.org",
-    "latitude": "40.45948300000",
-    "longitude": "-87.66197400000"
+    "location": {
+      "latitude": "40.459483",
+      "longitude": "-87.661974",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT CLARE'S HOSPITAL",
@@ -839,10 +1095,14 @@
     "city": "ALTON",
     "state": "IL",
     "zip_code": "62002",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.sahc.org",
-    "latitude": "38.89092200000",
-    "longitude": "-90.17122000000"
+    "location": {
+      "latitude": "38.890922",
+      "longitude": "-90.17122",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "BLESSING HOSPITAL AT 14TH STREET",
@@ -852,10 +1112,14 @@
     "city": "QUINCY",
     "state": "IL",
     "zip_code": "62301",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.blessinghospital.org",
-    "latitude": "39.93441800000",
-    "longitude": "-91.39018000000"
+    "location": {
+      "latitude": "39.934418",
+      "longitude": "-91.39018",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "TOUCHETTE REGIONAL HOSPITAL, INC.",
@@ -865,10 +1129,14 @@
     "city": "CENTREVILLE",
     "state": "IL",
     "zip_code": "62207",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.touchette.org",
-    "latitude": "38.57316500000",
-    "longitude": "-90.11006500000"
+    "location": {
+      "latitude": "38.573165",
+      "longitude": "-90.110065",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVIDENT HOSPITAL OF COOK COUNTY",
@@ -878,10 +1146,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60615",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.80212800000",
-    "longitude": "-87.61426100000"
+    "location": {
+      "latitude": "41.802128",
+      "longitude": "-87.614261",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. ANTHONY HOSPITAL",
@@ -891,10 +1163,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60623",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.cath-health.org",
-    "latitude": "41.85526200000",
-    "longitude": "-87.69817400000"
+    "location": {
+      "latitude": "41.855262",
+      "longitude": "-87.698174",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. JOSEPH MEMORIAL HOSPITAL",
@@ -904,10 +1180,14 @@
     "city": "MURPHYSBORO",
     "state": "IL",
     "zip_code": "62966",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stjosephmemorialhospital.org",
-    "latitude": "37.77346700000",
-    "longitude": "-89.32628600000"
+    "location": {
+      "latitude": "37.773467",
+      "longitude": "-89.326286",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "LOYOLA UNIVERSITY MEDICAL CENTER",
@@ -917,10 +1197,14 @@
     "city": "MAYWOOD",
     "state": "IL",
     "zip_code": "60153",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.86510000000",
-    "longitude": "-87.83353800000"
+    "location": {
+      "latitude": "41.8651",
+      "longitude": "-87.833538",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RUSH COPLEY MEMORIAL HOSPITAL, INC.",
@@ -930,10 +1214,14 @@
     "city": "AURORA",
     "state": "IL",
     "zip_code": "60504",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.rushcopley.com",
-    "latitude": "41.72780200000",
-    "longitude": "-88.26851500000"
+    "location": {
+      "latitude": "41.727802",
+      "longitude": "-88.268515",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "VALLEY WEST COMMUNITY HOSPITAL",
@@ -943,10 +1231,14 @@
     "city": "SANDWICH",
     "state": "IL",
     "zip_code": "60548",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.vwch.org",
-    "latitude": "41.65656800000",
-    "longitude": "-88.62177500000"
+    "location": {
+      "latitude": "41.656568",
+      "longitude": "-88.621775",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVOCATE-SOUTH SUBURBAN HOSPITAL",
@@ -956,10 +1248,14 @@
     "city": "HAZEL CREST",
     "state": "IL",
     "zip_code": "60429",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/ssub/",
-    "latitude": "41.56632100000",
-    "longitude": "-87.69454700000"
+    "location": {
+      "latitude": "41.566321",
+      "longitude": "-87.694547",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GOOD SAMARITAN REGIONAL HEALTH CENTER",
@@ -969,10 +1265,14 @@
     "city": "MOUNT VERNON",
     "state": "IL",
     "zip_code": "62864",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "38.32236100000",
-    "longitude": "-88.90998300000"
+    "location": {
+      "latitude": "38.322361",
+      "longitude": "-88.909983",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RICHLAND MEMORIAL HOSPITAL",
@@ -982,23 +1282,31 @@
     "city": "OLNEY",
     "state": "IL",
     "zip_code": "62450",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "richlandmemorial.com",
-    "latitude": "38.73518500000",
-    "longitude": "-88.07692600000"
+    "location": {
+      "latitude": "38.735185",
+      "longitude": "-88.076926",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
-    "name": "ADVOCATE-LUTHERAN General Hospital",
+    "name": "ADVOCATE-LUTHERAN GENERAL HOSPITAL",
     "name2": "",
     "address": "1775 DEMPSTER STREET",
     "address_2": "",
     "city": "PARK RIDGE",
     "state": "IL",
     "zip_code": "60068",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/luth/",
-    "latitude": "42.03951700000",
-    "longitude": "-87.84880800000"
+    "location": {
+      "latitude": "42.039517",
+      "longitude": "-87.848808",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "NORTHWEST SUBURBAN COMMUNITY HOSPITAL",
@@ -1008,10 +1316,14 @@
     "city": "BELVIDERE",
     "state": "IL",
     "zip_code": "61008",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.24318500000",
-    "longitude": "-88.83931600000"
+    "location": {
+      "latitude": "42.243185",
+      "longitude": "-88.839316",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVENA HOSPITALS",
@@ -1021,10 +1333,14 @@
     "city": "JOLIET",
     "state": "IL",
     "zip_code": "60435",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.provenasaintjoe.org",
-    "latitude": "41.52800700000",
-    "longitude": "-88.13484700000"
+    "location": {
+      "latitude": "41.528007",
+      "longitude": "-88.134847",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVENA HOSPITALS",
@@ -1034,10 +1350,14 @@
     "city": "DANVILLE",
     "state": "IL",
     "zip_code": "61832",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "40.13725300000",
-    "longitude": "-87.64514700000"
+    "location": {
+      "latitude": "40.137253",
+      "longitude": "-87.645147",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVENA HOSPITALS",
@@ -1047,10 +1367,14 @@
     "city": "KANKAKEE",
     "state": "IL",
     "zip_code": "60901",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.provenastmarys.com",
-    "latitude": "41.12103100000",
-    "longitude": "-87.87184000000"
+    "location": {
+      "latitude": "41.121031",
+      "longitude": "-87.87184",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVENA HOSPITALS",
@@ -1060,10 +1384,14 @@
     "city": "ELGIN",
     "state": "IL",
     "zip_code": "60123",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.provenasaintjoseph.com",
-    "latitude": "42.03537000000",
-    "longitude": "-88.32838500000"
+    "location": {
+      "latitude": "42.03537",
+      "longitude": "-88.328385",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVENA HOSPITALS",
@@ -1073,10 +1401,14 @@
     "city": "WAUKEGAN",
     "state": "IL",
     "zip_code": "60085",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.35923400000",
-    "longitude": "-87.86670000000"
+    "location": {
+      "latitude": "42.359234",
+      "longitude": "-87.8667",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PROVENA MERCY CENTER",
@@ -1086,10 +1418,14 @@
     "city": "AURORA",
     "state": "IL",
     "zip_code": "60506",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.78469400000",
-    "longitude": "-88.32866500000"
+    "location": {
+      "latitude": "41.784694",
+      "longitude": "-88.328665",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MERCY HARVARD HOSPITAL, INC.",
@@ -1099,10 +1435,14 @@
     "city": "HARVARD",
     "state": "IL",
     "zip_code": "60033",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.harvardhospital.org",
-    "latitude": "42.42572900000",
-    "longitude": "-88.60756800000"
+    "location": {
+      "latitude": "42.425729",
+      "longitude": "-88.607568",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "COMMUNITY MEDICAL CENTER OF",
@@ -1112,10 +1452,14 @@
     "city": "MONMOUTH",
     "state": "IL",
     "zip_code": "61462",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.cmchospital.com",
-    "latitude": "40.92137500000",
-    "longitude": "-90.65899100000"
+    "location": {
+      "latitude": "40.921375",
+      "longitude": "-90.658991",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MICHAEL REESE MEDICAL CENTER CORP",
@@ -1125,10 +1469,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60616",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.84251600000",
-    "longitude": "-87.61390600000"
+    "location": {
+      "latitude": "41.842516",
+      "longitude": "-87.613906",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. ALEXIUS MEDICAL CENTER",
@@ -1138,10 +1486,14 @@
     "city": "HOFFMAN ESTATES",
     "state": "IL",
     "zip_code": "60194",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stalexius.org",
-    "latitude": "42.05414500000",
-    "longitude": "-88.14419800000"
+    "location": {
+      "latitude": "42.054145",
+      "longitude": "-88.144198",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVENTIST HEALTH SYSTEM SUNBELT, INC.",
@@ -1151,10 +1503,14 @@
     "city": "LA GRANGE",
     "state": "IL",
     "zip_code": "60525",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.ahsmidwest.org/Facilities/lagrange/",
-    "latitude": "41.79813900000",
-    "longitude": "-87.88830300000"
+    "location": {
+      "latitude": "41.798139",
+      "longitude": "-87.888303",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HIGHLAND PARK HOSPITAL",
@@ -1164,10 +1520,14 @@
     "city": "HIGHLAND PARK",
     "state": "IL",
     "zip_code": "60035",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.19089900000",
-    "longitude": "-87.80664400000"
+    "location": {
+      "latitude": "42.190899",
+      "longitude": "-87.806644",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SISTERS OF ST. FRANCIS HLTH SVS, INC.",
@@ -1177,10 +1537,14 @@
     "city": "OLYMPIA FIELDS",
     "state": "IL",
     "zip_code": "60461",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.52249800000",
-    "longitude": "-87.71306000000"
+    "location": {
+      "latitude": "41.522498",
+      "longitude": "-87.71306",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "VHS OF ILLINOIS",
@@ -1190,10 +1554,14 @@
     "city": "BERWYN",
     "state": "IL",
     "zip_code": "60402",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.83320300000",
-    "longitude": "-87.79261400000"
+    "location": {
+      "latitude": "41.833203",
+      "longitude": "-87.792614",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CORNERSTONE HEALTHCARE OF ILLINOIS, INC",
@@ -1203,10 +1571,14 @@
     "city": "CARMI",
     "state": "IL",
     "zip_code": "62821",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "38.08337500000",
-    "longitude": "-88.16561900000"
+    "location": {
+      "latitude": "38.083375",
+      "longitude": "-88.165619",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. FRANCIS HOSPITAL AND HEALTH CENTER",
@@ -1216,10 +1588,14 @@
     "city": "BLUE ISLAND",
     "state": "IL",
     "zip_code": "60406",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.stfrancisblueisland.com",
-    "latitude": "41.65811300000",
-    "longitude": "-87.67798700000"
+    "location": {
+      "latitude": "41.658113",
+      "longitude": "-87.677987",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "BLESSING CARE CORPORATION",
@@ -1229,10 +1605,14 @@
     "city": "PITTSFIELD",
     "state": "IL",
     "zip_code": "62363",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "39.60693000000",
-    "longitude": "-90.81477200000"
+    "location": {
+      "latitude": "39.60693",
+      "longitude": "-90.814772",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "TRINITY MEDICAL CENTER",
@@ -1242,10 +1622,14 @@
     "city": "MOLINE",
     "state": "IL",
     "zip_code": "61265",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.trinityqc.com",
-    "latitude": "41.47063100000",
-    "longitude": "-90.52952300000"
+    "location": {
+      "latitude": "41.470631",
+      "longitude": "-90.529523",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVOCATE-NORTHSIDE HEALTH NETWORK",
@@ -1255,10 +1639,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60657",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.93635900000",
-    "longitude": "-87.65000800000"
+    "location": {
+      "latitude": "41.936359",
+      "longitude": "-87.650008",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT JOSEPH HOSPITAL",
@@ -1268,10 +1656,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60657",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.reshealth.org/default.cfm",
-    "latitude": "41.93462600000",
-    "longitude": "-87.63687000000"
+    "location": {
+      "latitude": "41.934626",
+      "longitude": "-87.63687",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RED BUD ILLINOIS HOSPITAL COMPANY, LLC",
@@ -1281,10 +1673,14 @@
     "city": "RED BUD",
     "state": "IL",
     "zip_code": "62278",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "38.20936400000",
-    "longitude": "-89.99625100000"
+    "location": {
+      "latitude": "38.209364",
+      "longitude": "-89.996251",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GRANITE CITY ILLINOIS HOSP COMPANY, LLC",
@@ -1294,10 +1690,14 @@
     "city": "GRANITE CITY",
     "state": "IL",
     "zip_code": "62040",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "38.70076700000",
-    "longitude": "-90.14481900000"
+    "location": {
+      "latitude": "38.700767",
+      "longitude": "-90.144819",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "FRANKLIN HOSPITAL",
@@ -1307,10 +1707,14 @@
     "city": "BENTON",
     "state": "IL",
     "zip_code": "62812",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "38.00924700000",
-    "longitude": "-88.91983400000"
+    "location": {
+      "latitude": "38.009247",
+      "longitude": "-88.919834",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "VHS ACQUISITION SUBSIDIARY NUMBER 3, INC",
@@ -1320,10 +1724,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60640",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.96639000000",
-    "longitude": "-87.64905300000"
+    "location": {
+      "latitude": "41.96639",
+      "longitude": "-87.649053",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MERIT LINCOLN PARK, LLC",
@@ -1333,10 +1741,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60614",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.92192200000",
-    "longitude": "-87.64263400000"
+    "location": {
+      "latitude": "41.921922",
+      "longitude": "-87.642634",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "JOHN H. STROGER, JR HOSPITAL",
@@ -1346,10 +1758,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60612",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.87388300000",
-    "longitude": "-87.67381900000"
+    "location": {
+      "latitude": "41.873883",
+      "longitude": "-87.673819",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "UNIVERSITY OF ILLINIOS HOSPITAL",
@@ -1359,10 +1775,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60612",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.uillinoismedcenter.org",
-    "latitude": "41.86926900000",
-    "longitude": "-87.66977400000"
+    "location": {
+      "latitude": "41.869269",
+      "longitude": "-87.669774",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MARION HOSPITAL CORPORATION",
@@ -1372,10 +1792,14 @@
     "city": "MARION",
     "state": "IL",
     "zip_code": "62959",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "37.74483000000",
-    "longitude": "-88.98662800000"
+    "location": {
+      "latitude": "37.74483",
+      "longitude": "-88.986628",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINTS MARY AND ELIZABETH MEDICAL CENTER",
@@ -1385,10 +1809,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60622",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.90715100000",
-    "longitude": "-87.68560900000"
+    "location": {
+      "latitude": "41.907151",
+      "longitude": "-87.685609",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CRAWFORD MEMORIAL HOSPITAL",
@@ -1398,10 +1826,14 @@
     "city": "ROBINSON",
     "state": "IL",
     "zip_code": "62454",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.crawfordmh.com",
-    "latitude": "39.01323400000",
-    "longitude": "-87.74901000000"
+    "location": {
+      "latitude": "39.013234",
+      "longitude": "-87.74901",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MARSHALL BROWNING HOSPITAL",
@@ -1411,10 +1843,14 @@
     "city": "DU QUOIN",
     "state": "IL",
     "zip_code": "62832",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "38.02407400000",
-    "longitude": "-89.23678400000"
+    "location": {
+      "latitude": "38.024074",
+      "longitude": "-89.236784",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MEMORIAL MEDICAL CENTER",
@@ -1424,10 +1860,14 @@
     "city": "SPRINGFIELD",
     "state": "IL",
     "zip_code": "62781",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.memorialmedical.com",
-    "latitude": "39.80956800000",
-    "longitude": "-89.65601000000"
+    "location": {
+      "latitude": "39.809568",
+      "longitude": "-89.65601",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MEMORIAL HOSPITAL",
@@ -1437,10 +1877,14 @@
     "city": "CARTHAGE",
     "state": "IL",
     "zip_code": "62321",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.mhtlc.com",
-    "latitude": "40.40926800000",
-    "longitude": "-91.13440700000"
+    "location": {
+      "latitude": "40.409268",
+      "longitude": "-91.134407",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "METHODIST MEDICAL CENTER OF ILLINOIS",
@@ -1450,10 +1894,14 @@
     "city": "PEORIA",
     "state": "IL",
     "zip_code": "61636",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.mmci.org",
-    "latitude": "40.70068000000",
-    "longitude": "-89.59549600000"
+    "location": {
+      "latitude": "40.70068",
+      "longitude": "-89.595496",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PASSAVANT AREA HOSPITAL",
@@ -1463,10 +1911,14 @@
     "city": "JACKSONVILLE",
     "state": "IL",
     "zip_code": "62650",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.passavanthospital.com",
-    "latitude": "39.74538600000",
-    "longitude": "-90.25845500000"
+    "location": {
+      "latitude": "39.745386",
+      "longitude": "-90.258455",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SPARTA COMMUNITY HOSPITAL",
@@ -1476,10 +1928,14 @@
     "city": "SPARTA",
     "state": "IL",
     "zip_code": "62286",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.spartahospital.com",
-    "latitude": "38.12436900000",
-    "longitude": "-89.69153200000"
+    "location": {
+      "latitude": "38.124369",
+      "longitude": "-89.691532",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT FRANCIS MEDICAL CENTER",
@@ -1489,10 +1945,14 @@
     "city": "PEORIA",
     "state": "IL",
     "zip_code": "61637",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.osfsaintfrancis.org",
-    "latitude": "40.70177000000",
-    "longitude": "-89.59124100000"
+    "location": {
+      "latitude": "40.70177",
+      "longitude": "-89.591241",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CHILDREN'S MEMORIAL HOSPITAL",
@@ -1504,8 +1964,12 @@
     "zip_code": "60614",
     "description": "PEDIATRIC HOSPITAL",
     "website": "www.childmmc.edu",
-    "latitude": "41.92475800000",
-    "longitude": "-87.64711500000"
+    "location": {
+      "latitude": "41.924758",
+      "longitude": "-87.647115",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "BLESSING HOSPITAL AT 11TH STREET",
@@ -1515,10 +1979,14 @@
     "city": "QUINCY",
     "state": "IL",
     "zip_code": "62301",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.blessinghospital.org",
-    "latitude": "39.93678900000",
-    "longitude": "-91.39923100000"
+    "location": {
+      "latitude": "39.936789",
+      "longitude": "-91.399231",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CENTRAL DUPAGE HOSPITAL",
@@ -1528,10 +1996,14 @@
     "city": "WINFIELD",
     "state": "IL",
     "zip_code": "60190",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.cdh.org",
-    "latitude": "41.87203600000",
-    "longitude": "-88.15749200000"
+    "location": {
+      "latitude": "41.872036",
+      "longitude": "-88.157492",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CLAY COUNTY HOSPITAL",
@@ -1541,10 +2013,14 @@
     "city": "FLORA",
     "state": "IL",
     "zip_code": "62839",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.bjc.org/cch.html",
-    "latitude": "38.67505300000",
-    "longitude": "-88.48360800000"
+    "location": {
+      "latitude": "38.675053",
+      "longitude": "-88.483608",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MT. SINAI HOSPITAL MEDICAL CENTER",
@@ -1554,10 +2030,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60608",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.sinai.org",
-    "latitude": "41.86085600000",
-    "longitude": "-87.69448100000"
+    "location": {
+      "latitude": "41.860856",
+      "longitude": "-87.694481",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT ANTHONY'S HOSPITAL",
@@ -1567,10 +2047,14 @@
     "city": "ALTON",
     "state": "IL",
     "zip_code": "62002",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.sahc.org",
-    "latitude": "38.90748100000",
-    "longitude": "-90.17360300000"
+    "location": {
+      "latitude": "38.907481",
+      "longitude": "-90.173603",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. JOHN'S HOSPITAL",
@@ -1580,10 +2064,14 @@
     "city": "SPRINGFIELD",
     "state": "IL",
     "zip_code": "62769",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.st-johns.org",
-    "latitude": "39.80569400000",
-    "longitude": "-89.64447500000"
+    "location": {
+      "latitude": "39.805694",
+      "longitude": "-89.644475",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "WEST SUBURBAN HOSPITAL MEDICAL CENTER",
@@ -1593,10 +2081,14 @@
     "city": "OAK PARK",
     "state": "IL",
     "zip_code": "60302",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.westsub.com",
-    "latitude": "41.89227800000",
-    "longitude": "-87.77535600000"
+    "location": {
+      "latitude": "41.892278",
+      "longitude": "-87.775356",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "LA RABIDA CHILDREN'S HOSPITAL",
@@ -1608,8 +2100,12 @@
     "zip_code": "60649",
     "description": "PEDIATRIC HOSPITAL",
     "website": "www.larabida.org",
-    "latitude": "41.77794700000",
-    "longitude": "-87.57131900000"
+    "location": {
+      "latitude": "41.777947",
+      "longitude": "-87.571319",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "KISHWAUKEE COMMUNITY HOSPITAL",
@@ -1619,10 +2115,14 @@
     "city": "DEKALB",
     "state": "IL",
     "zip_code": "60115",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.kishhospital.org",
-    "latitude": "41.96473100000",
-    "longitude": "-88.73395300000"
+    "location": {
+      "latitude": "41.964731",
+      "longitude": "-88.733953",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ANDERSON HOSPITAL",
@@ -1632,10 +2132,14 @@
     "city": "MARYVILLE",
     "state": "IL",
     "zip_code": "62062",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.andersonhospital.org",
-    "latitude": "38.73678600000",
-    "longitude": "-89.94688100000"
+    "location": {
+      "latitude": "38.736786",
+      "longitude": "-89.946881",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "BROMENN REGIONAL MEDICAL CENTER",
@@ -1645,10 +2149,14 @@
     "city": "NORMAL",
     "state": "IL",
     "zip_code": "61761",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.bromenn.com/bromennregional",
-    "latitude": "40.49736100000",
-    "longitude": "-88.99037800000"
+    "location": {
+      "latitude": "40.497361",
+      "longitude": "-88.990378",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MEMORIAL HOSPITAL OF CARBONDALE",
@@ -1658,10 +2166,14 @@
     "city": "CARBONDALE",
     "state": "IL",
     "zip_code": "62902",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.memorialhospitalofcarbondale.org",
-    "latitude": "37.72776300000",
-    "longitude": "-89.22053000000"
+    "location": {
+      "latitude": "37.727763",
+      "longitude": "-89.22053",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MEMORIAL MEDICAL CENTER",
@@ -1671,23 +2183,31 @@
     "city": "WOODSTOCK",
     "state": "IL",
     "zip_code": "60098",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.centegra.org",
-    "latitude": "42.27539500000",
-    "longitude": "-88.39912600000"
+    "location": {
+      "latitude": "42.275395",
+      "longitude": "-88.399126",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
-    "name": "HARDIN COUNTY General Hospital",
+    "name": "HARDIN COUNTY GENERAL HOSPITAL",
     "name2": "",
     "address": "FERRELL ROAD",
     "address_2": "",
     "city": "ROSICLARE",
     "state": "IL",
     "zip_code": "62982",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "37.42228600000",
-    "longitude": "-88.35150300000"
+    "location": {
+      "latitude": "37.422286",
+      "longitude": "-88.351503",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PALOS COMMUNITY HOSPITAL",
@@ -1697,10 +2217,14 @@
     "city": "PALOS HEIGHTS",
     "state": "IL",
     "zip_code": "60463",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.paloscommunityhospital.org",
-    "latitude": "41.66846500000",
-    "longitude": "-87.81588600000"
+    "location": {
+      "latitude": "41.668465",
+      "longitude": "-87.815886",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SARAH BUSH LINCOLN HEALTH CENTER",
@@ -1710,10 +2234,14 @@
     "city": "MATTOON",
     "state": "IL",
     "zip_code": "61938",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.sarahbush.org",
-    "latitude": "39.49000100000",
-    "longitude": "-88.27333200000"
+    "location": {
+      "latitude": "39.490001",
+      "longitude": "-88.273332",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVOCATE-HEALTH AND HOSPITALS CORP",
@@ -1723,10 +2251,14 @@
     "city": "BARRINGTON",
     "state": "IL",
     "zip_code": "60010",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/gshp/",
-    "latitude": "42.19681800000",
-    "longitude": "-88.17683900000"
+    "location": {
+      "latitude": "42.196818",
+      "longitude": "-88.176839",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "DELNOR COMMUNITY HOSPITAL",
@@ -1736,10 +2268,14 @@
     "city": "GENEVA",
     "state": "IL",
     "zip_code": "60134",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.delnor.com",
-    "latitude": "41.88721300000",
-    "longitude": "-88.34231300000"
+    "location": {
+      "latitude": "41.887213",
+      "longitude": "-88.342313",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "FERRELL HOSPITAL COMMUNITY FOUNDATION",
@@ -1749,10 +2285,14 @@
     "city": "ELDORADO",
     "state": "IL",
     "zip_code": "62930",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.sih.net/home.nsf/content/aboutsih",
-    "latitude": "37.81525600000",
-    "longitude": "-88.44156200000"
+    "location": {
+      "latitude": "37.815256",
+      "longitude": "-88.441562",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT JAMES HOSPITAL",
@@ -1762,10 +2302,14 @@
     "city": "PONTIAC",
     "state": "IL",
     "zip_code": "61764",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.osfsaintjames.org",
-    "latitude": "40.87203900000",
-    "longitude": "-88.67467900000"
+    "location": {
+      "latitude": "40.872039",
+      "longitude": "-88.674679",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ABRAHAM LINCOLN MEMORIAL HOSPITAL",
@@ -1775,10 +2319,14 @@
     "city": "LINCOLN",
     "state": "IL",
     "zip_code": "62656",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.almh.org",
-    "latitude": "40.15017300000",
-    "longitude": "-89.37138200000"
+    "location": {
+      "latitude": "40.150173",
+      "longitude": "-89.371382",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ALTON MEMORIAL HOSPITAL",
@@ -1788,10 +2336,14 @@
     "city": "ALTON",
     "state": "IL",
     "zip_code": "62002",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.altonmemorialhospital.org",
-    "latitude": "38.89695900000",
-    "longitude": "-90.15836000000"
+    "location": {
+      "latitude": "38.896959",
+      "longitude": "-90.15836",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "THOREK MEMORIAL HOSPITAL",
@@ -1801,10 +2353,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60613",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.thorek.org",
-    "latitude": "41.95453100000",
-    "longitude": "-87.65087300000"
+    "location": {
+      "latitude": "41.954531",
+      "longitude": "-87.650873",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "METHODIST HOSPITAL OF CHICAGO",
@@ -1814,10 +2370,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60640",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.methodistchicago.org",
-    "latitude": "41.97321100000",
-    "longitude": "-87.67093200000"
+    "location": {
+      "latitude": "41.973211",
+      "longitude": "-87.670932",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CARLINVILLE AREA HOSPITAL",
@@ -1827,10 +2387,14 @@
     "city": "CARLINVILLE",
     "state": "IL",
     "zip_code": "62626",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.carlinville.com/hospital.html",
-    "latitude": "39.28220400000",
-    "longitude": "-89.87024200000"
+    "location": {
+      "latitude": "39.282204",
+      "longitude": "-89.870242",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVOCATE-CHRIST HOSPITAL AND MEDICAL CENTER",
@@ -1840,10 +2404,14 @@
     "city": "OAK LAWN",
     "state": "IL",
     "zip_code": "60453",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.advocatehealth.com/cmc/",
-    "latitude": "41.72035300000",
-    "longitude": "-87.73240600000"
+    "location": {
+      "latitude": "41.720353",
+      "longitude": "-87.732406",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CGH MEDICAL CENTER",
@@ -1853,10 +2421,14 @@
     "city": "STERLING",
     "state": "IL",
     "zip_code": "61081",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.cghmc.com",
-    "latitude": "41.80186500000",
-    "longitude": "-89.69718600000"
+    "location": {
+      "latitude": "41.801865",
+      "longitude": "-89.697186",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "COMMUNITY MEMORIAL HOSPITAL",
@@ -1866,10 +2438,14 @@
     "city": "STAUNTON",
     "state": "IL",
     "zip_code": "62088",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "39.01509200000",
-    "longitude": "-89.78972000000"
+    "location": {
+      "latitude": "39.015092",
+      "longitude": "-89.78972",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "CONDELL MEDICAL CENTER",
@@ -1879,10 +2455,14 @@
     "city": "LIBERTYVILLE",
     "state": "IL",
     "zip_code": "60048",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.condell.org",
-    "latitude": "42.26981400000",
-    "longitude": "-87.95698500000"
+    "location": {
+      "latitude": "42.269814",
+      "longitude": "-87.956985",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "DECATUR MEMORIAL HOSPITAL",
@@ -1892,10 +2472,14 @@
     "city": "DECATUR",
     "state": "IL",
     "zip_code": "62526",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.dmhhs.com",
-    "latitude": "39.86556000000",
-    "longitude": "-88.96058800000"
+    "location": {
+      "latitude": "39.86556",
+      "longitude": "-88.960588",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "KATHERINE SHAW BETHEA HOSPITAL",
@@ -1905,10 +2489,14 @@
     "city": "DIXON",
     "state": "IL",
     "zip_code": "61021",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.ksbhospital.com",
-    "latitude": "41.84466500000",
-    "longitude": "-89.47832800000"
+    "location": {
+      "latitude": "41.844665",
+      "longitude": "-89.478328",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HARRISBURG MEDICAL CENTER INC.",
@@ -1918,10 +2506,14 @@
     "city": "HARRISBURG",
     "state": "IL",
     "zip_code": "62946",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.harrisburgmedicalcenter.com",
-    "latitude": "37.73115400000",
-    "longitude": "-88.52486700000"
+    "location": {
+      "latitude": "37.731154",
+      "longitude": "-88.524867",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GREENVILLE REGIONAL HOSPITAL",
@@ -1931,10 +2523,14 @@
     "city": "GREENVILLE",
     "state": "IL",
     "zip_code": "62246",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.utlaut.com/Hospital/index.htm",
-    "latitude": "38.90233000000",
-    "longitude": "-89.40850500000"
+    "location": {
+      "latitude": "38.90233",
+      "longitude": "-89.408505",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "EVANSTON HOSPITAL",
@@ -1944,10 +2540,14 @@
     "city": "EVANSTON",
     "state": "IL",
     "zip_code": "60201",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.enh.org",
-    "latitude": "42.06534500000",
-    "longitude": "-87.68333000000"
+    "location": {
+      "latitude": "42.065345",
+      "longitude": "-87.68333",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "FAIRFIELD MEMORIAL HOSPITAL",
@@ -1957,10 +2557,14 @@
     "city": "FAIRFIELD",
     "state": "IL",
     "zip_code": "62837",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.fairfieldmemorial.org",
-    "latitude": "38.38153800000",
-    "longitude": "-88.37457500000"
+    "location": {
+      "latitude": "38.381538",
+      "longitude": "-88.374575",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "FAYETTE COUNTY HOSPITAL",
@@ -1970,10 +2574,14 @@
     "city": "VANDALIA",
     "state": "IL",
     "zip_code": "62471",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.bjc.org/fch.html",
-    "latitude": "38.97059500000",
-    "longitude": "-89.09879200000"
+    "location": {
+      "latitude": "38.970595",
+      "longitude": "-89.098792",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "FREEPORT MEMORIAL HOSPITAL",
@@ -1983,10 +2591,14 @@
     "city": "FREEPORT",
     "state": "IL",
     "zip_code": "61032",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "42.29585500000",
-    "longitude": "-89.63788600000"
+    "location": {
+      "latitude": "42.295855",
+      "longitude": "-89.637886",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GALENA-STAUSS HOSPITAL",
@@ -1996,10 +2608,14 @@
     "city": "GALENA",
     "state": "IL",
     "zip_code": "61036",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.galenahealth.org",
-    "latitude": "42.42256000000",
-    "longitude": "-90.43662700000"
+    "location": {
+      "latitude": "42.42256",
+      "longitude": "-90.436627",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GALESBURG COTTAGE HOSPITAL",
@@ -2009,10 +2625,14 @@
     "city": "GALESBURG",
     "state": "IL",
     "zip_code": "61402",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.cottagehospital.com",
-    "latitude": "40.95586400000",
-    "longitude": "-90.36596200000"
+    "location": {
+      "latitude": "40.955864",
+      "longitude": "-90.365962",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GIBSON COMMUNITY HOSPITAL",
@@ -2022,10 +2642,14 @@
     "city": "GIBSON CITY",
     "state": "IL",
     "zip_code": "60936",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.gibsonhospital.org",
-    "latitude": "40.47787300000",
-    "longitude": "-88.37062500000"
+    "location": {
+      "latitude": "40.477873",
+      "longitude": "-88.370625",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GOTTLIEB MEMORIAL HOSPITAL",
@@ -2035,10 +2659,14 @@
     "city": "MELROSE PARK",
     "state": "IL",
     "zip_code": "60160",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.gottliebhospital.org",
-    "latitude": "41.90835200000",
-    "longitude": "-87.84243400000"
+    "location": {
+      "latitude": "41.908352",
+      "longitude": "-87.842434",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "GRAHAM HOSPITAL ASSOCIATION",
@@ -2048,10 +2676,14 @@
     "city": "CANTON",
     "state": "IL",
     "zip_code": "61520",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.grahamhospital.org",
-    "latitude": "40.55311800000",
-    "longitude": "-90.03821200000"
+    "location": {
+      "latitude": "40.553118",
+      "longitude": "-90.038212",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HAMILTON MEMORIAL HOSPITAL",
@@ -2061,10 +2693,14 @@
     "city": "MC LEANSBORO",
     "state": "IL",
     "zip_code": "62859",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "38.08700800000",
-    "longitude": "-88.54109400000"
+    "location": {
+      "latitude": "38.087008",
+      "longitude": "-88.541094",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HAMMOND-HENRY HOSPITAL",
@@ -2074,10 +2710,14 @@
     "city": "GENESEO",
     "state": "IL",
     "zip_code": "61254",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.hammondhenry.com",
-    "latitude": "41.46014200000",
-    "longitude": "-90.15797000000"
+    "location": {
+      "latitude": "41.460142",
+      "longitude": "-90.15797",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HERRIN HOSPITAL",
@@ -2087,10 +2727,14 @@
     "city": "HERRIN",
     "state": "IL",
     "zip_code": "62948",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.herrinhospital.org",
-    "latitude": "37.80283700000",
-    "longitude": "-89.02665100000"
+    "location": {
+      "latitude": "37.802837",
+      "longitude": "-89.026651",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HILLSBORO AREA HOSPITAL",
@@ -2100,10 +2744,14 @@
     "city": "HILLSBORO",
     "state": "IL",
     "zip_code": "62049",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.hillsboroareahospital.org",
-    "latitude": "39.15356900000",
-    "longitude": "-89.48179900000"
+    "location": {
+      "latitude": "39.153569",
+      "longitude": "-89.481799",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HINSDALE HOSPITAL",
@@ -2113,10 +2761,14 @@
     "city": "HINSDALE",
     "state": "IL",
     "zip_code": "60521",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.ahsmidwest.org/Facilities/hinsdale",
-    "latitude": "41.80535300000",
-    "longitude": "-87.92023300000"
+    "location": {
+      "latitude": "41.805353",
+      "longitude": "-87.920233",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HOLY CROSS HOSPITAL",
@@ -2126,10 +2778,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60629",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.holycrosshospital.org",
-    "latitude": "41.76981100000",
-    "longitude": "-87.69065900000"
+    "location": {
+      "latitude": "41.769811",
+      "longitude": "-87.690659",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HOLY FAMILY MEDICAL CENTER",
@@ -2139,10 +2795,14 @@
     "city": "DES PLAINES",
     "state": "IL",
     "zip_code": "60016",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.reshealth.org/locations/hospitals.cfm",
-    "latitude": "42.05575900000",
-    "longitude": "-87.88856800000"
+    "location": {
+      "latitude": "42.055759",
+      "longitude": "-87.888568",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "HOPEDALE HOSPITAL",
@@ -2152,10 +2812,14 @@
     "city": "HOPEDALE",
     "state": "IL",
     "zip_code": "61747",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "40.42410400000",
-    "longitude": "-89.41782000000"
+    "location": {
+      "latitude": "40.424104",
+      "longitude": "-89.41782",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "INGALLS MEMORIAL HOSPITAL",
@@ -2165,10 +2829,14 @@
     "city": "HARVEY",
     "state": "IL",
     "zip_code": "60426",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.ingallsmemorial.org",
-    "latitude": "41.60652700000",
-    "longitude": "-87.65926600000"
+    "location": {
+      "latitude": "41.606527",
+      "longitude": "-87.659266",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "IROQUOIS MEMORIAL HOSPITAL",
@@ -2178,10 +2846,14 @@
     "city": "WATSEKA",
     "state": "IL",
     "zip_code": "60970",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.iroquoismemorial.com",
-    "latitude": "40.76562400000",
-    "longitude": "-87.73277100000"
+    "location": {
+      "latitude": "40.765624",
+      "longitude": "-87.732771",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "JACKSON PARK HOSPITAL \u0026 MEDICAL CENTER",
@@ -2191,10 +2863,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60649",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.jacksonparkhospital.com",
-    "latitude": "41.75786700000",
-    "longitude": "-87.58546500000"
+    "location": {
+      "latitude": "41.757867",
+      "longitude": "-87.585465",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "JERSEY COMMUNITY HOSPITAL",
@@ -2204,10 +2880,14 @@
     "city": "JERSEYVILLE",
     "state": "IL",
     "zip_code": "62052",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.jch.org",
-    "latitude": "39.11365200000",
-    "longitude": "-90.34148200000"
+    "location": {
+      "latitude": "39.113652",
+      "longitude": "-90.341482",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "DR. JOHN WARNER HOSPITAL",
@@ -2217,10 +2897,14 @@
     "city": "CLINTON",
     "state": "IL",
     "zip_code": "61727",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.djwhospital.org",
-    "latitude": "40.14881800000",
-    "longitude": "-88.96497900000"
+    "location": {
+      "latitude": "40.148818",
+      "longitude": "-88.964979",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "KEWANEE HOSPITAL",
@@ -2230,10 +2914,14 @@
     "city": "KEWANEE",
     "state": "IL",
     "zip_code": "61443",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.kewaneehospital.com",
-    "latitude": "41.23560100000",
-    "longitude": "-89.93032500000"
+    "location": {
+      "latitude": "41.235601",
+      "longitude": "-89.930325",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "LAKE FOREST HOSPITAL",
@@ -2243,10 +2931,14 @@
     "city": "LAKE FOREST",
     "state": "IL",
     "zip_code": "60045",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.lakeforesthospital.com",
-    "latitude": "42.25045800000",
-    "longitude": "-87.86362000000"
+    "location": {
+      "latitude": "42.250458",
+      "longitude": "-87.86362",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "LAWRENCE COUNTY MEMORIAL HOSPITAL",
@@ -2256,10 +2948,14 @@
     "city": "LAWRENCEVILLE",
     "state": "IL",
     "zip_code": "62439",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "38.73156800000",
-    "longitude": "-87.69800800000"
+    "location": {
+      "latitude": "38.731568",
+      "longitude": "-87.698008",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "LITTLE COMPANY OF MARY HOSPITAL",
@@ -2269,10 +2965,14 @@
     "city": "EVERGREEN PARK",
     "state": "IL",
     "zip_code": "60805",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.lcmh.org",
-    "latitude": "41.72097800000",
-    "longitude": "-87.69190100000"
+    "location": {
+      "latitude": "41.720978",
+      "longitude": "-87.691901",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "LORETTO HOSPITAL",
@@ -2282,10 +2982,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60644",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.lorettohospital.org",
-    "latitude": "41.87231600000",
-    "longitude": "-87.76425200000"
+    "location": {
+      "latitude": "41.872316",
+      "longitude": "-87.764252",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MASON DISTRICT HOSPITAL",
@@ -2295,10 +2999,14 @@
     "city": "HAVANA",
     "state": "IL",
     "zip_code": "62644",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "40.30369800000",
-    "longitude": "-90.05585300000"
+    "location": {
+      "latitude": "40.303698",
+      "longitude": "-90.055853",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MASSAC MEMORIAL HOSPITAL",
@@ -2308,10 +3016,14 @@
     "city": "METROPOLIS",
     "state": "IL",
     "zip_code": "62960",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.massacmemorialhospital.com",
-    "latitude": "37.16665300000",
-    "longitude": "-88.73804900000"
+    "location": {
+      "latitude": "37.166653",
+      "longitude": "-88.738049",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MCDONOUGH DISTRICT HOSPITAL",
@@ -2321,10 +3033,14 @@
     "city": "MACOMB",
     "state": "IL",
     "zip_code": "61455",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.mdh.org",
-    "latitude": "40.44777100000",
-    "longitude": "-90.66578600000"
+    "location": {
+      "latitude": "40.447771",
+      "longitude": "-90.665786",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MEMORIAL HOSPITAL",
@@ -2334,10 +3050,14 @@
     "city": "BELLEVILLE",
     "state": "IL",
     "zip_code": "62226",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.memhosp.com",
-    "latitude": "38.54875600000",
-    "longitude": "-90.01929400000"
+    "location": {
+      "latitude": "38.548756",
+      "longitude": "-90.019294",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MEMORIAL HOSPITAL",
@@ -2347,10 +3067,14 @@
     "city": "CHESTER",
     "state": "IL",
     "zip_code": "62233",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.mhchester.com",
-    "latitude": "37.91837700000",
-    "longitude": "-89.81334600000"
+    "location": {
+      "latitude": "37.918377",
+      "longitude": "-89.813346",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ELMHURST MEMORIAL HOSPITAL",
@@ -2360,10 +3084,14 @@
     "city": "ELMHURST",
     "state": "IL",
     "zip_code": "60126",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.emhc.org",
-    "latitude": "41.90218900000",
-    "longitude": "-87.92954900000"
+    "location": {
+      "latitude": "41.902189",
+      "longitude": "-87.929549",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MENDOTA COMMUNITY HOSPITAL",
@@ -2373,10 +3101,14 @@
     "city": "MENDOTA",
     "state": "IL",
     "zip_code": "61342",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.mendotahospital.org",
-    "latitude": "41.55353900000",
-    "longitude": "-89.12814300000"
+    "location": {
+      "latitude": "41.553539",
+      "longitude": "-89.128143",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MERCY HOSPITAL \u0026 MEDICAL CENTER",
@@ -2386,10 +3118,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60616",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.mercy-chicago.org",
-    "latitude": "41.84697000000",
-    "longitude": "-87.62328500000"
+    "location": {
+      "latitude": "41.84697",
+      "longitude": "-87.623285",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MORRIS HOSPITAL AND HEALTHCARE CENTERS",
@@ -2399,10 +3135,14 @@
     "city": "MORRIS",
     "state": "IL",
     "zip_code": "60450",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.morrishospital.org",
-    "latitude": "41.36916200000",
-    "longitude": "-88.42595700000"
+    "location": {
+      "latitude": "41.369162",
+      "longitude": "-88.425957",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MORRISON COMMUNITY HOSPITAL",
@@ -2412,10 +3152,14 @@
     "city": "MORRISON",
     "state": "IL",
     "zip_code": "61270",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "",
-    "latitude": "41.81050200000",
-    "longitude": "-89.95679400000"
+    "location": {
+      "latitude": "41.810502",
+      "longitude": "-89.956794",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "NORTHWEST COMMUNITY HOSPITAL",
@@ -2425,10 +3169,14 @@
     "city": "ARLINGTON HGHTS",
     "state": "IL",
     "zip_code": "60005",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.nch.org",
-    "latitude": "42.06675400000",
-    "longitude": "-87.99261000000"
+    "location": {
+      "latitude": "42.066754",
+      "longitude": "-87.99261",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "OUR LADY OF THE RESURRECTION MEDICAL CTR",
@@ -2438,10 +3186,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60634",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "",
-    "latitude": "41.94562900000",
-    "longitude": "-87.76776500000"
+    "location": {
+      "latitude": "41.945629",
+      "longitude": "-87.767765",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "NORWEGIAN-AMERICAN HOSP, INC.",
@@ -2451,10 +3203,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60622",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.n-ahs.org",
-    "latitude": "41.90043600000",
-    "longitude": "-87.69931800000"
+    "location": {
+      "latitude": "41.900436",
+      "longitude": "-87.699318",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "RUSH OAK PARK HOSPITAL, INC.",
@@ -2464,10 +3220,14 @@
     "city": "OAK PARK",
     "state": "IL",
     "zip_code": "60304",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.oakparkhospital.org",
-    "latitude": "41.87925600000",
-    "longitude": "-87.80348900000"
+    "location": {
+      "latitude": "41.879256",
+      "longitude": "-87.803489",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PANA COMMUNITY HOSPITAL",
@@ -2477,10 +3237,14 @@
     "city": "PANA",
     "state": "IL",
     "zip_code": "62557",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.panahospital.com",
-    "latitude": "39.38031300000",
-    "longitude": "-89.08416900000"
+    "location": {
+      "latitude": "39.380313",
+      "longitude": "-89.084169",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PARIS COMMUNITY HOSPITAL",
@@ -2490,10 +3254,14 @@
     "city": "PARIS",
     "state": "IL",
     "zip_code": "61944",
-    "description": "Critical Access Hospital",
+    "description": "CRITICAL ACCESS HOSP",
     "website": "www.pariscommunityhospital.com",
-    "latitude": "39.60741100000",
-    "longitude": "-87.67947000000"
+    "location": {
+      "latitude": "39.607411",
+      "longitude": "-87.67947",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PEKIN MEMORIAL HOSPITAL",
@@ -2503,10 +3271,14 @@
     "city": "PEKIN",
     "state": "IL",
     "zip_code": "61554",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.pekinhospital.org",
-    "latitude": "40.56367500000",
-    "longitude": "-89.63295000000"
+    "location": {
+      "latitude": "40.563675",
+      "longitude": "-89.63295",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "PERRY MEMORIAL HOSPITAL",
@@ -2516,10 +3288,14 @@
     "city": "PRINCETON",
     "state": "IL",
     "zip_code": "61356",
-    "description": "General Hospital",
+    "description": "GENERAL HOSPITAL",
     "website": "www.perry-memorial.org",
-    "latitude": "41.36790400000",
-    "longitude": "-89.45499600000"
+    "location": {
+      "latitude": "41.367904",
+      "longitude": "-89.454996",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "BELOIT MEMORIAL HOSPITAL",
@@ -2531,8 +3307,12 @@
     "zip_code": "53511",
     "description": "",
     "website": "",
-    "latitude": "42.54678600000",
-    "longitude": "-89.00929300000"
+    "location": {
+      "latitude": "42.546786",
+      "longitude": "-89.009293",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MERCY MEDICAL CENTER - CLINTON",
@@ -2544,8 +3324,12 @@
     "zip_code": "52732",
     "description": "",
     "website": "",
-    "latitude": "41.86070400000",
-    "longitude": "-90.18843200000"
+    "location": {
+      "latitude": "41.860704",
+      "longitude": "-90.188432",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "FINLEY HOSPITAL",
@@ -2557,8 +3341,12 @@
     "zip_code": "52001",
     "description": "",
     "website": "",
-    "latitude": "42.49556400000",
-    "longitude": "-90.68766900000"
+    "location": {
+      "latitude": "42.495564",
+      "longitude": "-90.687669",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "THE MONROE CLINIC",
@@ -2570,8 +3358,12 @@
     "zip_code": "53566",
     "description": "",
     "website": "",
-    "latitude": "42.60754700000",
-    "longitude": "-89.63263500000"
+    "location": {
+      "latitude": "42.607547",
+      "longitude": "-89.632635",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ST. MARY'S MEDICAL CENTER (EVANSVILLE)",
@@ -2583,8 +3375,12 @@
     "zip_code": "47750",
     "description": "",
     "website": "",
-    "latitude": "37.96235100000",
-    "longitude": "-87.50546500000"
+    "location": {
+      "latitude": "37.962351",
+      "longitude": "-87.505465",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "MERCY MEDICAL CENTER",
@@ -2596,8 +3392,12 @@
     "zip_code": "52001",
     "description": "",
     "website": "",
-    "latitude": "42.49310300000",
-    "longitude": "-90.67377800000"
+    "location": {
+      "latitude": "42.493103",
+      "longitude": "-90.673778",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SAINT MARGARET MERCY",
@@ -2609,8 +3409,12 @@
     "zip_code": "46320",
     "description": "",
     "website": "",
-    "latitude": "41.61439800000",
-    "longitude": "-87.52196900000"
+    "location": {
+      "latitude": "41.614398",
+      "longitude": "-87.521969",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "SCOTT AFB MEDICAL CENTER",
@@ -2620,10 +3424,14 @@
     "city": "SCOTT AIR FORCE BASE",
     "state": "IL",
     "zip_code": "62225",
-    "description": "Military Hospital",
+    "description": "MILITARY HOSPITAL",
     "website": "",
-    "latitude": "38.54316700000",
-    "longitude": "-89.86937900000"
+    "location": {
+      "latitude": "38.543167",
+      "longitude": "-89.869379",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "VETERANS ADMINISTRATION LAKESIDE",
@@ -2633,23 +3441,14 @@
     "city": "CHICAGO",
     "state": "IL",
     "zip_code": "60611",
-    "description": "Military Hospital",
+    "description": "MILITARY HOSPITAL",
     "website": "",
-    "latitude": "41.89497800000",
-    "longitude": "-87.61950300000"
-  },
-  {
-    "name": "DEACONESS HOSPITAL",
-    "name2": "",
-    "address": "6150 OAKLAND AVENUE",
-    "address_2": "",
-    "city": "ST. LOUIS",
-    "state": "MO",
-    "zip_code": "63139",
-    "description": "",
-    "website": "",
-    "latitude": "0.00000000000",
-    "longitude": "0.00000000000"
+    "location": {
+      "latitude": "41.894978",
+      "longitude": "-87.619503",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "ADVENTIST BOLINGBROOK HOSPITAL",
@@ -2661,8 +3460,12 @@
     "zip_code": "60440",
     "description": "",
     "website": "www.keepingyouwell.com/Facilities/BolingbrookHospital/tabid/211/Default.aspx",
-    "latitude": "41.68098397000",
-    "longitude": "-88.08368455000"
+    "location": {
+      "latitude": "41.68098397",
+      "longitude": "-88.08368455",
+      "human_address": "",
+      "lat_lon": ""
+    }
   },
   {
     "name": "Deaconess Hospital",
@@ -2674,7 +3477,11 @@
     "zip_code": "47747",
     "description": "",
     "website": "",
-    "latitude": "37.98493600000",
-    "longitude": "-87.57122400000"
+    "location": {
+      "latitude": "37.984936",
+      "longitude": "-87.571224",
+      "human_address": "",
+      "lat_lon": ""
+    }
   }
 ]

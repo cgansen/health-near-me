@@ -67,7 +67,7 @@ func (hp HealthProvider) FriendlyTypeName() string {
 	case WarmingCenter:
 		return "Warming Center"
 	case Hospital:
-	        return "Hospital"
+		return "Hospital"
 	}
 
 	return ""
@@ -97,7 +97,7 @@ func SearchType(term string) (HealthProviderType, error) {
 	case "services", "everything", "all", "anything":
 		return Dummy, nil
 	case "hospital":
-	        return Hospital, nil
+		return Hospital, nil
 	default:
 		return Dummy, errors.New("unknown search type")
 	}

@@ -10,6 +10,7 @@ Services supported:
 * Community Service Centers
 * Condom Distribution Sites
 * Cooling Centers
+* Hospitals
 * Licensed Substance Abuse Providers
 * Mental Health Clinics
 * Senior Centers

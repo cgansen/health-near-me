@@ -62,7 +62,7 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 	cmd := strings.TrimSpace(strings.ToLower(search))
 	switch cmd {
-	case "help", "list", "list services":  // note that "help" will be intercepted by Twilio. Oh well.
+	case "help", "list", "list services": // note that "help" will be intercepted by Twilio. Oh well.
 		t, err := template.ParseFiles(tmplPath + "help.txt")
 		if err != nil {
 			log.Printf("error loading template: %s", err)
