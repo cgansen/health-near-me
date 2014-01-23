@@ -12,18 +12,9 @@ title: Health Near Me
     <form name="searchForm" class="form">
         <div class="row">
             <div class="col-md-10 col-xs-12" ng-class="{'has-error': !searchForm.$valid && !searchForm.$pristine }">        
-                <label for="address" class="control-label">Near Chicago street address</label><br/>
-                
-                <div class="input-group">
-                    <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
-                    placeholder="e.g. '1060 W Addison' or 'Madison at State'" required/>
-                    <span class="input-group-btn">
-                        <button class="btn btn-default input-lg" type="button">Locate me</button>
-                    </span>
-                </div>
-                
-                
-                
+                <label for="address" class="control-label">Near street address</label><br/>                
+                <input type="text" id="address" ng-model="searchLocation" class="input-lg form-control" maxlength="120" 
+                placeholder="e.g. '1060 W Addison' or 'Madison at State, Chicago' or 'Rockford, IL'" required/>                
             </div>
             <div class="col-md-2 col-md-offset-0 col-xs-12 col-xs-offset-0 ">
                 <label class="control-label">&nbsp;</label>
@@ -88,7 +79,7 @@ title: Health Near Me
                 <li style="list-style:none;" ng-repeat="res in searchResults" class="hp-row">
                     <p>
                         <span class="hp-name">{{ res.name }}</span>
-                        <a target="_blank" title="Show directions in Google Maps" href="https://maps.google.com/?daddr={{ res.address | escape }}&saddr={{ lat | escape }},{{ lon | escape }}">{{ res.address }}</a>, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
+                        <a target="_blank" title="Show directions in Google Maps" href="https://maps.google.com/?daddr={{ res.address + ',' + res.zip_code  | escape }}&saddr={{ lat | escape }},{{ lon | escape }}">{{ res.address }}, {{ res.city }}, {{ res.state }}</a>, a {{ res.type_name }}, {{ res.distance | number:1 }} miles away.
                     </p>
                     <p ng-if="res.phone">Call: <a href="tel://{{res.phone}}">{{ res.phone }}</a></p>
                     <p ng-if="res.hours_of_operation">Hours: <span class="hours">{{ res.hours_of_operation }}</span></p>                      

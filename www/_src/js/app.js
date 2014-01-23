@@ -53,8 +53,9 @@ healthApp.controller('SearchCtrl', ['$scope', '$http', '$location', 'analytics',
     $scope.doGeocode = function(){
         // hit google for lat/lng
         var geocoder = new google.maps.Geocoder();
-        
-        geocoder.geocode( { 'address': $scope.searchLocation + " chicago, il"}, function(results, status) {
+        var preferredBounds = new google.maps.LatLngBounds(new google.maps.LatLng(41.771041, -87.794856), new google.maps.LatLng( 42.030819, -87.577265));
+
+        geocoder.geocode( { 'address': $scope.searchLocation, 'bounds': preferredBounds }, function(results, status) {
             if (status == google.maps.GeocoderStatus.OK) {
                 $scope.lat = results[0].geometry.location.lat();
                 $scope.lon = results[0].geometry.location.lng();
