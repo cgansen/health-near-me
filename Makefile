@@ -11,7 +11,7 @@ install-linux:
 	$(LINUX_AMD64_FLAGS) go install -v ./...
 
 deploy: install-linux
-	rsync -avz ~/go/bin/linux_amd64/{api,loader} create_index.sh data tmpl ec2-user@api.healthnear.me:/var/www/healthnearme-api
+	rsync -avz ~/go/bin/linux_amd64/{api,loader} Makefile create_index.sh data tmpl ec2-user@api.healthnear.me:/var/www/healthnearme-api
 	
 deleteIndex:
 	curl -XDELETE $(ESHOST)/health-near-me
