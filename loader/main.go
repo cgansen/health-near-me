@@ -27,6 +27,7 @@ func main() {
 		healthnearme.SeniorCenter:           "senior-centers.json",
 		healthnearme.WarmingCenter:          "warming-centers.json",
 		healthnearme.Hospital:               "illinois-hospital-locations.json",
+		healthnearme.MedicationDisposal:     "medication-disposal-locations.json",
 	}
 
 	for typ, filename := range to_load {
@@ -38,7 +39,7 @@ func main() {
 		var sites []healthnearme.HealthProvider
 
 		if err := json.Unmarshal(f, &sites); err != nil {
-			log.Printf("err loading json: %s", err)
+			log.Printf("%s: err loading json: %s", filename, err)
 		}
 
 		for _, item := range sites {
