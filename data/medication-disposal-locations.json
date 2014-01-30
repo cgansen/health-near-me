@@ -456,5 +456,20 @@
     "name": "Chicago Police District 25",
     "hours_of_operation": "24 hours",
     "city": "Chicago"
-  }
+  },
+  {
+    "zip_code": "60642",
+    "phone": "312-744-4611",
+    "location": {
+      "needs_recoding": false,
+      "longitude": "-87.655139",
+      "latitude": "41.902593",
+      "human_address": "{\"address\":\"1150 N Branch St\",\"city\":\"Chicago\",\"state\":\"IL\",\"zip\":\"60642\"}"
+    },
+    "address": "1150 N Branch Street",
+    "state": "IL",
+    "name": "City of Chicago Household Chemicals & Computer Recycling Facility",
+    "hours_of_operation": "Tuesdays (7 am – 12 pm), Thursdays (2- 7 pm), and the first Saturday of every month (8 am – 3 pm)",
+    "city": "Chicago"
+  }  
 ]
