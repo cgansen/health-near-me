@@ -35,6 +35,7 @@ const (
 	SeniorCenter
 	WarmingCenter
 	Hospital
+	MedicationDisposal
 )
 
 func (hp *HealthProvider) FormatLocation() {
@@ -68,6 +69,8 @@ func (hp HealthProvider) FriendlyTypeName() string {
 		return "Warming Center"
 	case Hospital:
 		return "Hospital"
+	case MedicationDisposal:
+		return "Medication Disposal Site"
 	}
 
 	return ""
@@ -98,6 +101,8 @@ func SearchType(term string) (HealthProviderType, error) {
 		return Dummy, nil
 	case "hospital", "hospitals":
 		return Hospital, nil
+	case "medication disposal", "drug disposal", "dropoff", "drop off", "pharmaceutical":
+		return MedicationDisposal, nil
 	default:
 		return Dummy, errors.New("unknown search type")
 	}

@@ -27,6 +27,7 @@ func main() {
 		healthnearme.SeniorCenter:           "senior-centers.json",
 		healthnearme.WarmingCenter:          "warming-centers.json",
 		healthnearme.Hospital:               "illinois-hospital-locations.json",
+		healthnearme.MedicationDisposal:     "medication-disposal-locations.json",
 	}
 
 	for typ, filename := range to_load {
