@@ -1,9 +1,9 @@
 [
   {
-    "zip": "60653",
+    "zip_code": "60653",
     "location": {
       "needs_recoding": true,
-      "human_address": "{\"address\":\"3510 S Michigan Ave Chicago, IL 60653 (41.83086072588734, -87.62330200626332)\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      "human_address": "{\"address\":\"3510 S Michigan Ave Chicago, IL 60653 (41.83086072588734, -87.62330200626332)\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
       "latitude": "41.83086072588734", 
       "longitude": "-87.62330200626332"
     },
@@ -13,13 +13,13 @@
     "address": "3510 S Michigan Ave",
     "state": "IL",
     "district": "Headquarters",
-    "city": "Chicago"
+    "hours_of_operation": "24 hours",
+    "city": "Chicago",
+    "phone": "312-746-6000"
   },
   {
-    "zip": "60616",
-    "phone": {
-      "phone_number": "312-745-4290"
-    },
+    "zip_code": "60616",
+    "phone": "312-745-4290",
     "fax": "312-745-3694",
     "location": {
       "needs_recoding": false,
@@ -33,14 +33,13 @@
     "address": "1718 S State St",
     "tty": "312-745-3693",
     "state": "IL",
-    "district": "1",
+    "name": "Chicago Police District 1",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60609",
-    "phone": {
-      "phone_number": "312-747-8366"
-    },
+    "zip_code": "60609",
+    "phone": "312-747-8366",
     "fax": "312-747-5396",
     "location": {
       "needs_recoding": false,
@@ -54,14 +53,13 @@
     "address": "5101 S Wentworth Ave",
     "tty": "312-747-6656",
     "state": "IL",
-    "district": "2",
+    "name": "Chicago Police District 2",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60637",
-    "phone": {
-      "phone_number": "312-747-8201"
-    },
+    "zip_code": "60637",
+    "phone": "312-747-8201",
     "fax": "312-747-5479",
     "location": {
       "needs_recoding": false,
@@ -75,14 +73,13 @@
     "address": "7040 S Cottage Grove Ave",
     "tty": "312-747-9168",
     "state": "IL",
-    "district": "3",
+    "name": "Chicago Police District 3",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60617",
-    "phone": {
-      "phone_number": "312-747-7581"
-    },
+    "zip_code": "60617",
+    "phone": "312-747-7581",
     "fax": "312-747-5276",
     "location": {
       "needs_recoding": false,
@@ -96,14 +93,13 @@
     "address": "2255 E 103rd St",
     "tty": "312-747-9169",
     "state": "IL",
-    "district": "4",
+    "name": "Chicago Police District 4",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60628",
-    "phone": {
-      "phone_number": "312-747-8210"
-    },
+    "zip_code": "60628",
+    "phone": "312-747-8210",
     "fax": "312-747-5935",
     "location": {
       "needs_recoding": false,
@@ -117,14 +113,13 @@
     "address": "727 E 111th St",
     "tty": "312-747-9170",
     "state": "IL",
-    "district": "5",
+    "name": "Chicago Police District 5",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60620",
-    "phone": {
-      "phone_number": "312-745-3617"
-    },
+    "zip_code": "60620",
+    "phone": "312-745-3617",
     "fax": "312-745-3649",
     "location": {
       "needs_recoding": false,
@@ -138,14 +133,13 @@
     "address": "7808 S Halsted St",
     "tty": "312-745-3639",
     "state": "IL",
-    "district": "6",
+    "name": "Chicago Police District 6",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60636",
-    "phone": {
-      "phone_number": "312-747-8223"
-    },
+    "zip_code": "60636",
+    "phone": "312-747-8223",
     "fax": "312-747-6558",
     "location": {
       "needs_recoding": false,
@@ -159,14 +153,13 @@
     "address": "1438 W 63rd St",
     "tty": "312-747-6652",
     "state": "IL",
-    "district": "7",
+    "name": "Chicago Police District 7",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60629",
-    "phone": {
-      "phone_number": "312-747-8730"
-    },
+    "zip_code": "60629",
+    "phone": "312-747-8730",
     "fax": "312-747-8545",
     "location": {
       "needs_recoding": false,
@@ -180,14 +173,13 @@
     "address": "3420 W 63rd St",
     "tty": "312-747-8116",
     "state": "IL",
-    "district": "8",
+    "name": "Chicago Police District 8",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60608",
-    "phone": {
-      "phone_number": "312-747-8227"
-    },
+    "zip_code": "60608",
+    "phone": "312-747-8227",
     "fax": "312-747-5329",
     "location": {
       "needs_recoding": false,
@@ -201,14 +193,13 @@
     "address": "3120 S Halsted St",
     "tty": "312-747-9172",
     "state": "IL",
-    "district": "9",
+    "name": "Chicago Police District 9",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60623",
-    "phone": {
-      "phone_number": "312-747-7511"
-    },
+    "zip_code": "60623",
+    "phone": "312-747-7511",
     "fax": "312-747-7429",
     "location": {
       "needs_recoding": false,
@@ -222,14 +213,13 @@
     "address": "3315 W Ogden Ave",
     "tty": "312-747-7471",
     "state": "IL",
-    "district": "10",
+    "name": "Chicago Police District 10",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60612",
-    "phone": {
-      "phone_number": "312-746-8386"
-    },
+    "zip_code": "60612",
+    "phone": "312-746-8386",
     "fax": "312-746-4281",
     "location": {
       "needs_recoding": false,
@@ -243,14 +233,13 @@
     "address": "3151 W Harrison St",
     "tty": "312-746-5151",
     "state": "IL",
-    "district": "11",
+    "name": "Chicago Police District 11",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60607",
-    "phone": {
-      "phone_number": "312-746-8309"
-    },
+    "zip_code": "60607",
+    "phone": "312-746-8309",
     "fax": "312-746-4248",
     "location": {
       "needs_recoding": false,
@@ -264,14 +253,13 @@
     "address": "100 S Racine Ave",
     "tty": "312-746-9868",
     "state": "IL",
-    "district": "12",
+    "name": "Chicago Police District 12",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60647",
-    "phone": {
-      "phone_number": "312-744-8250"
-    },
+    "zip_code": "60647",
+    "phone": "312-744-8250",
     "fax": "312-744-2422",
     "location": {
       "needs_recoding": false,
@@ -285,14 +273,13 @@
     "address": "2150 N California Ave",
     "tty": "312-744-8260",
     "state": "IL",
-    "district": "14",
+    "name": "Chicago Police District 14",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60644",
-    "phone": {
-      "phone_number": "312-743-1440"
-    },
+    "zip_code": "60644",
+    "phone": "312-743-1440",
     "fax": "312-743-1366",
     "location": {
       "needs_recoding": false,
@@ -306,14 +293,13 @@
     "address": "5701 W Madison St",
     "tty": "312-743-1485",
     "state": "IL",
-    "district": "15",
+    "name": "Chicago Police District 15",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60630",
-    "phone": {
-      "phone_number": "312-742-4480"
-    },
+    "zip_code": "60630",
+    "phone": "312-742-4480",
     "fax": "312-742-4421",
     "location": {
       "needs_recoding": false,
@@ -327,14 +313,13 @@
     "address": "5151 N Milwaukee Ave",
     "tty": "312-742-4423",
     "state": "IL",
-    "district": "16",
+    "name": "Chicago Police District 16",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60630",
-    "phone": {
-      "phone_number": "312-742-4410"
-    },
+    "zip_code": "60630",
+    "phone": "312-742-4410",
     "fax": "312-742-5411",
     "location": {
       "needs_recoding": false,
@@ -348,14 +333,13 @@
     "address": "4650 N Pulaski Rd",
     "tty": "312-742-5451",
     "state": "IL",
-    "district": "17",
+    "name": "Chicago Police District 17",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60610",
-    "phone": {
-      "phone_number": "312-742-5870"
-    },
+    "zip_code": "60610",
+    "phone": "312-742-5870",
     "fax": "312-742-5771",
     "location": {
       "needs_recoding": false,
@@ -369,14 +353,13 @@
     "address": "1160 N Larrabee St",
     "tty": "312-742-5773",
     "state": "IL",
-    "district": "18",
+    "name": "Chicago Police District 18",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60613",
-    "phone": {
-      "phone_number": "312-744-8320"
-    },
+    "zip_code": "60613",
+    "phone": "312-744-8320",
     "fax": "312-744-4481",
     "location": {
       "needs_recoding": false,
@@ -390,14 +373,13 @@
     "address": "850 W Addison St",
     "tty": "312-744-8011",
     "state": "IL",
-    "district": "19",
+    "name": "Chicago Police District 19",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60625",
-    "phone": {
-      "phone_number": "312-742-8714"
-    },
+    "zip_code": "60625",
+    "phone": "312-742-8714",
     "fax": "312-742-8803",
     "location": {
       "needs_recoding": false,
@@ -411,14 +393,13 @@
     "address": "5400 N Lincoln Ave",
     "tty": "312-742-8841",
     "state": "IL",
-    "district": "20",
+    "name": "Chicago Police District 20",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60643",
-    "phone": {
-      "phone_number": "312-745-0710"
-    },
+    "zip_code": "60643",
+    "phone": "312-745-0710",
     "fax": "312-745-0814",
     "location": {
       "needs_recoding": false,
@@ -432,14 +413,13 @@
     "address": "1900 W Monterey Ave",
     "tty": "312-745-0569",
     "state": "IL",
-    "district": "22",
+    "name": "Chicago Police District 22",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60626",
-    "phone": {
-      "phone_number": "312-744-5907"
-    },
+    "zip_code": "60626",
+    "phone": "312-744-5907",
     "fax": "312-744-6928",
     "location": {
       "needs_recoding": false,
@@ -453,14 +433,13 @@
     "address": "6464 N Clark St",
     "tty": "312-744-7603",
     "state": "IL",
-    "district": "24",
+    "name": "Chicago Police District 24",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   },
   {
-    "zip": "60639",
-    "phone": {
-      "phone_number": "312-746-8605"
-    },
+    "zip_code": "60639",
+    "phone": "312-746-8605",
     "fax": "312-746-4353",
     "location": {
       "needs_recoding": false,
@@ -474,7 +453,8 @@
     "address": "5555 W Grand Ave",
     "tty": "312-746-8383",
     "state": "IL",
-    "district": "25",
+    "name": "Chicago Police District 25",
+    "hours_of_operation": "24 hours",
     "city": "Chicago"
   }
 ]
