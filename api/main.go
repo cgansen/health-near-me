@@ -111,6 +111,11 @@ func SMSSearchHandler(w http.ResponseWriter, req *http.Request) {
 
 		// lookup
 		result, err := healthnearme.DoSearch(point.Lat(), point.Lng(), 1609, strconv.Itoa(int(searchType)))
+		if err != nil {
+			log.Printf("error searching: %s", err)
+			http.Error(w, "error searching", 500)
+			return
+		}
 
 		if len(result.Hits.Hits) == 0 {
 			// retry search w/larger radius (10 miles) if there are no hits on the first

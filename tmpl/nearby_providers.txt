@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response>
-	<Message>
+<Response><Message><![CDATA[
 {{ if.Results }}Found {{ .Count }} places near {{ .Location | html }}
 {{ range $index, $result := .Results }} * {{ $result.Name }}, a {{ $result.TypeName }}, {{ $result.Address }}, {{ round $result.Distance 'f' 1 64 }}mi.
 {{ end }}{{ else }}Didn't find anything near {{ .Location }} -- try searching for another address.{{ end }}
-	</Message>
-</Response>
+]]></Message></Response>
 
